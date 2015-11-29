@@ -1,0 +1,42 @@
+                  TOPIC_1	0.09669	                  TOPIC_2	0.10554	                  TOPIC_3	0.09059	                  TOPIC_4	0.08129	
+
+                    price	0.01240	                     euro	0.01975	                   market	0.02346	                  article	0.01299	
+                     time	0.01190	                 european	0.01562	                     year	0.01895	                    world	0.01215	
+                    three	0.01021	                   crisis	0.01394	                    trade	0.01722	                    issue	0.01123	
+                     gold	0.00972	                   europe	0.01310	                    share	0.01661	                    image	0.01098	
+                     look	0.00944	                     debt	0.01245	                     fall	0.01496	                    title	0.01072	
+                     back	0.00902	                     bank	0.01220	                    stock	0.01459	                     main	0.00947	
+                   change	0.00880	                     bond	0.01155	                     rate	0.01286	                   rubric	0.00922	
+                     show	0.00880	                     zone	0.00942	                    china	0.01195	                  america	0.00863	
+                    first	0.00866	               government	0.00910	                     news	0.01135	                     grow	0.00846	
+                    years	0.00838	                countries	0.00903	                     more	0.01105	                     firm	0.00796	
+
+
+                  TOPIC_5	0.09044	                  TOPIC_6	0.11187	                  TOPIC_7	0.08213	                  TOPIC_8	0.08051	
+
+                     over	0.01227	                     card	0.02210	                  company	0.02007	                     fund	0.03333	
+                    party	0.00971	                     deal	0.01808	                     more	0.00904	                   market	0.01895	
+               government	0.00926	                     free	0.01741	                     also	0.00854	                    click	0.01793	
+                  country	0.00881	                     cash	0.01625	                  million	0.00746	                    price	0.01692	
+                president	0.00791	                  holiday	0.01400	                   street	0.00672	                     view	0.01497	
+                    years	0.00761	                   friday	0.01327	                    court	0.00663	                     york	0.01370	
+                   people	0.00685	                     your	0.01266	                     wall	0.00655	                   growth	0.01286	
+                  against	0.00670	                    black	0.01211	                 announce	0.00614	                 research	0.01277	
+                     next	0.00640	                     more	0.01163	                    right	0.00614	                investors	0.01269	
+                 american	0.00625	                    offer	0.01163	                    state	0.00572	                     rate	0.01159	
+
+
+                  TOPIC_9	0.16048	                 TOPIC_10	0.10047	
+
+                     your	0.02088	                     bank	0.03071	
+                     more	0.01447	                  account	0.01457	
+                     time	0.01192	                    state	0.01200	
+                     know	0.00963	                   credit	0.01179	
+                    there	0.00870	                  balance	0.01037	
+                     some	0.00849	                   report	0.01003	
+                   people	0.00844	                    money	0.00996	
+                     like	0.00819	                  billion	0.00969	
+                     work	0.00811	                     plan	0.00935	
+                     much	0.00738	                    other	0.00902	
+
+

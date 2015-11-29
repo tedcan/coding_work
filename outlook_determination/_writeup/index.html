@@ -1,0 +1,698 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+     <title>Parallel Information Extraction and Outlook Determination</title>
+    <LINK href="styles.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+     <header>Parallel Information Extraction  and Outlook Determination</header>
+      <abstract> Information extraction is the task of getting useful and structured information
+      out of documents written in natural language. This problem has been increasingly relevant
+      due to the explosion to massive information repositories in this form, but still remains 
+      a hard problem to tackle. We focus on the <b>outlook determination</b> problem where one has 
+      to find out whether the trends are positive or negative for some entity of interest (e.g. political
+      party, stock). We developed two novel algorithms, one for capturing the positive/negative connotation
+      of any given word, and one for generalizing these functions to parse entire sentences. Our approach 
+      is better from state-of-art keyword searches, in that it takes into account the grammatical connections 
+      between words, thus making the parsing much more relevant. 
+      We scaled this 
+      method up in order to be able to parse an entire corpus of news articles with an application
+      on financial asset outlook. Our current implementation scales proportionally to the number
+      of available computation cores which, in practice, is translated in parsing 2 pages/sec, thus being able
+      to provide a holistic, spot outlook determination of an asset, in a few minutes.
+      
+      </abstract>
+      
+       <section>
+        <h1>0. Team</h1>
+        <text>
+        <b>Team members:</b> Panos Toulis, Ted C. An <br>
+       </section>
+      
+      <section>
+        <h1>1. Introduction</h1>
+        <text>
+        &nbsp;&nbsp;&nbsp;Digitized text corpora, such as the World Wide Web and other smaller-scale repositories, comprise a tremenduous source of information 
+        and knowledge for humans. However, they are still inaccessible by machines, in that they are not yet structured enough to 
+        have good, algorithmic ways to parse them. One idea that is gaining momentum is that of the <i>semantic web</i> (Berners Lee), yet
+        it involves a paradigm shift and a subsequent bureaucratic overhead which is not yet regarded to be cost-effective.
+        Naturally, the AI community has focused in building automated systems that will have minimal assumptions for the underlying information 
+        structure. Despite the early enthusiasm, researchers realized soon enough that the Information Extraction (IE) task cannot be solved in its entirety, and hence
+        focused on small, yet important sub-problems. <br>
+        
+        &nbsp;&nbsp;&nbsp;Some of the most important tasks in IE include (Wikipedia,IE) <i>named-entity recognition and coreference</i> in which the goal
+        is to recognize the same entity out of different descriptions (e.g. "Barack Obama" and "current President of U.S.") and <i>relationship extraction</i>
+        in which connections between two different entities can be established. For example, the latter has lead to significant advances in machine translation
+        through the alignment of sentences and their translations, available publicly in web sites. In this case, the word "Arbeit" in German
+        is correlated to the English word "work" if they appear too often in the same original-translated pairs. In fact, very early systems that performed
+        an elementary IE task were search engines. In this case, the problem has been to assign a relevance score between documents and input keywords, 
+        and the main idea behind this has been that the closer the keywords are within a document, the more relevant this document is. <br>
+        
+        &nbsp;&nbsp;&nbsp;Our work has focused in a sub-domain of this family of problems, commonly referred to as <i>text analytics</i>.
+        The goal in this case is to infer the outlook for any given entity, typically in terms of being positive or negative. 
+        Common sub-tasks involve inferring a <i>sentiment index</i> (positive-negative), impact, trend and so on. The typical approach,
+        in these systems is to deploy or generalize well-known machine learning methods, such as classification of documents,
+        clustering in terms of similarity on pre-defined features, and so on. <br>
+         
+         &nbsp;&nbsp;&nbsp;The potential impact of these problems is huge. First, there is a clear benefit to AI research. Second, 
+         there is a big interest for business applications as well, for example in finance which has also been the focus of our work.
+         For example, many Business Intelligence Platforms from many vendors, such as SAP or IBM, are already offering the option 
+         to analyze large amounts of textual information in order to discover information that is hidden in natural language but could
+         potentially be very important for strategic decision making. Last, there is a large potential in policy making applications. 
+         Efficient text mining will be able to assist with finding inefficiencies in public policies (bureaucratic or outdated regulations),
+         settling legal diputes, and helping with econometric applications, such as measuring through online sources indices such as inflation
+         (see <a href="http://bpp.mit.edu/">Billion Prices Project</a> at MIT) or GDP. These types of applications become even more relevant
+         with the expansion of social networks and the economic information that is flowing between users in them. 
+         
+         
+         
+        
+        </text>
+       </section>
+       
+       <section>
+       <h1>2. Overview of the model</h1>
+       <text>
+       &nbsp;&nbsp;&nbsp;Our ultimate goal is to be able to infer the positive/negative outlook of some given entity, by automated text analysis
+       of a relevant text corpus. Therefore, at the very least, the model needs to be able to understand the connotation of single words.
+       For example, it should be able to understand that "fall" or "decline" have a negative meaning while words like "increase" or "rise" have 
+       a positive one. Subsequently, it is needed to have a method to generalize these functions in order to parse sentences, and finally 
+       entire text documents. Our approach is thus hierarchical. The former is modeled through what we call <b>meaning functions</b> and 
+       the latter is solved by a data structure, dubbed <b>Meanining Filtering Tree (MFT)</b> and a systematic algorithm to process it.
+       We will give a brief overview in this section and more details will follow in subsequent sections. <br>
+       
+       &nbsp;&nbsp;&nbsp;A <b>meaning function</b> denoted by <code>φ(w)</code>, is a function that maps any word <code>w</code> to a value in 
+       <code>[-1,+1]</code>. Each word is also modeled through a normal distribution <code>Ν(μ, σ)</code>, in which <code>μ</code> represents 
+       the most common use of this word (positive/negative) and <code>σ</code> represents our uncertainty for this use. The most 
+       straightforward definition of <code>φ(w)</code> is thus <code>φ(w) = μ</code>, but alternatives are certaily possible.
+       With regard to the previous examples, we wish our algorithms to infer that <code>φ(decline) = -0.8</code>, that <code>φ(increase) = +0.8</code>
+       and so on. The values, are of course arbitrary. 
+       &nbsp;&nbsp;&nbsp;In general, there are two approaches to this problem. First, there is an ad hoc way of measuring some features of the word.
+       For example, taking sample sentences it appears in and so on. Second, a more systematic way would be to exploit the connections among word,
+       that become available through a dictionary (e.g. Wordnet). In this case, denoting with <code>S(w)</code> the set of words 
+       that are connected semantically with <code>w</code>, a PageRank-like definition would be like <code>φ(w) = α *Σ φ(y)</code>, for all <code>y in S(w)</code>.
+       We will explore both options, in addition to our hybrid approach that combines both in the next section. <br>
+       &nbsp;&nbsp;&nbsp; A <b>meaning filtering tree (MFT)</b> is a data structure, devised to discover words that are grammatically connected to a given 
+       entity of interest, within any given sentence. The idea is not to ignore keyword-based approaches, since they tend to ignore the deeper
+       relationships among words. Consider for example the sentence "<i>..euro fell. The dollar...</i>". A keyword-based search would find that 
+       the words "fell" and "dollar" are close enough to be related, however there is no grammatical connection between them. This is a simple
+       example that illustrates that our approach is a potential, significant improvement on state-of-the-art approaches. The goal 
+       of the MFT is to output a list of words that our connected to the entity we are interested in, and then use their <code>φ(w)</code> values
+       to derive the meaning of the sentence. It is then straightforward to generalize to complete pages. 
+       </text>
+       </section>
+       
+       <section> 
+       <h1>3. Meaning functions</h1>
+       <text>
+        &nbsp;&nbsp;&nbsp;As mentioned before, a meaning function outputs a negative/positive for every word. The real challenge here is how to define an 
+       automated way of doing this for <i>any</i> given word. Our approach is a statistical adaptation of the popular PageRank algorithm.
+       In overview, we construct a graph where the nodes are the words themselves, and every edge is a synonym relationship. 
+       The information to construct such a graph was taken from the WordNet software (<a href="http://wordnet.princeton.edu/">WordNet Homepage</a>).
+       The meaning of every word was then retrieved through the meanings of its neighbors in the graph, albeit governed through a statistical update process.
+        &nbsp;&nbsp;&nbsp;        
+        <P STYLE="margin-bottom: 0in">To this end, we want to tweak PageRank to capture
+the meaning (up or down) of words. We give the theory of our initial
+approach, then describe two &quot;tweaks/heuristics&quot; we used to
+improve on our initial results. 
+</P>
+<P STYLE="margin-bottom: 0in">First, assume we have some set of words
+<I>W</I>. We model the meaning of each word with a normal
+distribution, where the mean represents its most frequent use on the
+positive-negative connotation axis. The variance represents our
+uncertainty about the word's meaning. For example, we would give the
+word &quot;the&quot; a distribution with mean 0 and variance close to
+0. This represents the fact that we are fairly sure about the word
+&quot;the&quot; being a neutral word. 
+</P>
+<P STYLE="margin-bottom: 0in">Given <I>n</I><SPAN STYLE="font-style: normal">
+data points (real numbers) X</SPAN><SUB><SPAN STYLE="font-style: normal">w</SPAN></SUB><SPAN STYLE="font-style: normal">
+for word </SPAN><I>w</I><SPAN STYLE="font-style: normal">, we denote
+</SPAN><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">&Phi;(X</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">w</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">)
+as the procedure that returns the parameters that maximize the
+likelihood of the data for the normal distribution corresponding to
+word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>w</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">.
+That is, &Phi;(X</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">w</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">)
+returns a pair of values, first the mean and second the variance:
+both likelihood maximizing values can be directly analytically
+computed from the data. </SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">We
+let f</SPAN></FONT><SUP><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">(i)</SPAN></FONT></SUP><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">(w)
+the distribution of word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>w</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+at step i and &theta;</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">w</SPAN></FONT></SUB><SUP><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">(i)</SPAN></FONT></SUP><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+the normal parameters of </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>w</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">.
+Also S</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">w</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+stands for the set of words that are synonyms of </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>w</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">.
+Let &gamma; be some fixed learning rate. (In our runs it is set to
+.5) We iterate the following algorithm for 30 iterations and return
+the resulting values. Note that in our trials, &mu;</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">w</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+is set to .9 or -.9. We used </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>n
+</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">=
+50. The algorithm pseudocode is as below:</SPAN></FONT></P>
+        
+        <div class="center">
+      <img src="images/model.png" height="364" width="757" ></img> </div> 
+        <div class="center" style="margin-top:15px; margin-bottom: 20px" >Learning Meaning Functions </div>
+        
+       </text>
+       
+       </section>
+       
+       <section>
+       <h1>4. Meaning Filtering Trees (MFT)</h1>
+       <text>
+       Formally, a MFT is defined by a tuple <code>MFT=(H,R,F,T) </code> where: <br>
+       <div style="padding-left:20px; margin-bottom: 20px; margin-top:10px">
+        <code>H</code>  is a finite set of objects <code>H={a,b,c…}</code> <br>
+        <code>R H×H</code> is a binary relation on <code>H</code>, <br> 
+        <code>F(.)</code> is a function <code>H x R</code> <br>
+        <code>T</code> is a tree such that every edge is a relation in <code>R</code> <br>
+       </div>
+    
+    In addition, every node is a placeholder for objects in <code>H</code>. Whenever an object a is being placed on a node, then every child node is being filled 
+    with some object <code>x</code> (different for every child node) if and only if <code>r(a,x)</code> holds, where <code>r</code> is the edge between the child 
+    and parent node. Following this process and given an object <code>w</code> is in <code>H</code> we get a tree <code>T(w)</code> by placing the <code>w</code> 
+    in the root node of <code>T</code>. Then we can define a function 
+    <equation>
+     <code>φ(MFT,w)= E{ φ(x) |  x</code> leaf node of <code>T(w)}</code>
+    </equation>
+    
+    A MFT is a convenient way to capture dependencies among objects and is used in our application to extract the words in a sentence that capture the meaning we 
+    are looking for. While much generic in nature, in our application we make the following usage: 
+    Given a sentence, the set of objects <code>H</code> is the set of words in it. The function <code>φ(.)</code> is the meaning function as approximated in the previous section.
+    The tree <code>T</code> is a tree which has been predefined to closely reflect the sentence understanding process. 
+    A generative approach to this definition along with some potential advantages is also possible.
+    Finally, the set of relations is given by a syntactic dependency graph obtained by such a parser on the input sentence. 
+    For this purpose we are using the Stanford lexical parser (Stanford, 2010).  The Stanford parser defines 55 different types of relations between words but 
+    normally a small subset appears after parsing each sentence. 
+    The graph for the sentence above looks like the one in the following figure.
+    A syntactic dependency graph is a graph structure that conveys the grammatical relationships in a sentence. 
+    Consider a simple example: 
+    <equation>
+    <i>“Bell, based in Los Angeles, makes and distributes electronic, computer and building products.”. </i>
+    </equation>
+    
+    <div class="center" style="height:327px; width:356px; background-image: url(images/parser.png)">
+    </div><div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 1. Dependency tree</div>
+    
+   
+    
+    
+  For any sentence, the Stanford parser outputs a list of binary relations between words, e.g. 
+  <code>nsubj(makes, Bell)</code> which denotes that “Bell” is the nominal subject of the verb “makes”. 
+  For our purposes we glued together the Stanford java module to our Perl program and used the output of the parser as 
+  the set of binary relations <code>R</code> of the <code>MFT</code>. For an illustrative example consider the following <code>MFT</code> on the sentence:
+<div class="center"><i>the dollar moved upwards last Friday</i></div>
+
+The set of objects is <code>H={the,dollar,moved,upwards,last,Friday}</code>. 
+The function <code>F(.) </code> is the same meaning function <code>φ(.)</code> as in the previous section. The relation is given by the Stanford parser as:
+<equation>
+<i>det(dollar,the), nsubj(moved,dollar),dobj(moved,upwards),amod(Friday,last),tmod(moved,Friday)</i>
+</equation>
+
+Finally, consider we are using the following tree <code>T</code> for the <code>MFT</code>:
+<div class="center" style="height:226px; width:290px; background-image: url(images/mft.png)">
+    </div><div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 2. Example MFT</div>
+
+
+Our algorithm simply computes the value <code>φ(MFT,dollar)</code>. 
+To do that, the object <i>“dollar”</i> is placed on the root node. 
+Then the left child of the root node remains empty as there is no relation of the form <code>amod(x,dollar)</code>.
+However, the right node is being filled with the object <code>“moved”</code>. 
+Subsequently, the left child remains empty, while the right child is filled with the object <code>“upwards”</code>. 
+The final tree will look like this:
+
+<div class="center" style="height:226px; width:290px; background-image: url(images/parsed.mft.png)">
+    </div><div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 3. Applying MFTs for information extraction</div>
+
+Figure 5. Applying the MFT for information extraction
+
+By inspection of the tree figure, the algorithm will return the value <code>φ(MFT,dollar)=M(upwards)=+0.79</code>, 
+thus capturing correctly the meaning of the example sentence. 
+
+       
+       </text>
+       </section>
+       <section>
+       <h1>5. Implementation</h1>
+       <text>
+       
+       
+       </text>
+       </section>
+       
+       <section>
+       <h2>5.1 Meaning functions through Map-Reduce</h2>
+       <text>
+       
+
+To
+run this algorithm, we have modified the Hadoop framework from Lab 4.
+We describe the steps as follows:</SPAN></FONT></P>
+<OL>
+	<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">First,
+	we used parsing code in Python to obtain for each word in our list a
+	list of synonyms from Princeton's WordNet. After formatting the data
+	a bit, this list of words and synonyms describes a graph over our
+	set of words </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>W</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">.
+	We use the first mapper and reducer to construct the graph
+	accordingly, initializing most of the word-normal-parameters to the
+	appropriate values. To start off, we denoted 15 &quot;good&quot;
+	words and 15 &quot;bad&quot; words as seeds (we ran pageRank over
+	the graph to see which were the &quot;important&quot; words we
+	should use to best propagate our values) and proceeded to use .9 or
+	-.9 as the means these &quot;seeds.&quot; Note that the parameters
+	of these seeds were immutable during the course of pageRank. This
+	was accomplished by including special symbols in the seed-words.
+	Finally, note that when word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>b</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	was in word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>a</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">'s
+	list of synonyms, we created an edge that went from </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>b
+	</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">to
+	</SPAN></FONT><FONT FACE="Times New Roman, serif"><I>a</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,
+	not the other way around.  </SPAN></FONT>
+	</P>
+	<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">Afterward,
+	we simply ran a modified version of pageRank on our constructed
+	graph. Instead of pageRank, however, we would send lists of samples
+	taken from normals distributed with the parameters of the source
+	word. </SPAN></FONT>
+	</P>
+	<P STYLE="margin-bottom: 0in"></P>
+	<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">For
+	example, if we had edges from words </SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">a</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><FONT FACE="Times New Roman, serif"><I>
+	b</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><FONT FACE="Times New Roman, serif"><I>
+	c</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	to word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>d</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,
+	then we would have corresponding lists [x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,a</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">2,a</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">...],
+	[x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,b</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">2,b</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">...]
+	and [x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,c</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">2,c</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">...].
+	We would take the average of x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,a</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	 </SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,b</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	 </SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">x</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">1,c</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+	to represent the first element of X</SPAN></FONT><SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">d</SPAN></FONT></SUB><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">,
+	and so on. After computing the likelihood maximizing parameters, we
+	would update word </SPAN></FONT><FONT FACE="Times New Roman, serif"><I>w</I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">'s
+	parameters accordingly.  </SPAN></FONT>
+	</P>
+	<P STYLE="margin-bottom: 0in"></P>
+	<LI><P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">After
+	30 iterations, we returned the complete list of (mean, variances)
+	for all the words. </SPAN></FONT>
+	</P>
+</OL>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><FONT SIZE=4><SPAN STYLE="font-style: normal"><U>Seeds</U></SPAN></FONT></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">
+</SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">Regarding
+our initial seeds, they are: </SPAN></FONT>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<div class="center">
+<TABLE WIDTH=328 BORDER=1 BORDERCOLOR="#000000" CELLPADDING=0    CELLSPACING=0>
+	<COL WIDTH=109>
+	<COL WIDTH=101>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER><B>Bad Seeds</B></P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER><B>Good Seeds</B></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>collapse</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>assist</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>overshadow</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>advantage</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>threaten</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>promote</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>devalue</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>benefit</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>decline</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>surge</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>penalize</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>inspire</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>undermine</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>restore</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>blame</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>avert</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>worsen</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>rebound</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>complicate</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>prosper</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>criticise</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>recover</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>deteriorate</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>surpass</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>wilt</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>unite</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>droop</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>befriend</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=149>
+			<P ALIGN=CENTER>ruin</P>
+		</TD>
+		<TD WIDTH=161>
+			<P ALIGN=CENTER>empower</P>
+		</TD>
+	</TR>
+</TABLE></div>
+<P ALIGN=CENTER STYLE="margin-bottom: 0in"><BR>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><U><FONT SIZE=4>Heuristic
+I: Front-Back Linking</FONT></U></SPAN></FONT></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal">As
+one might notice from looking at the data set corresponding to the
+original algorithm, most of the entries are unchanged, and are
+exactly as they were initialized. This implies that there are a lot
+of words that did not receive any lists of samples from other words.
+</SPAN></FONT>This is because our method for constructing the graph
+detailed in <FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><B>Summary
+1</B></SPAN></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+constructs a graph that is insufficiently connected. To fix this
+problem, we construct our graph with a few more edges: when </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">a</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+is listed as a synonym of </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">,
+we create the edge </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">a
+</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">&rarr;</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">
+b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">.
+(As before) </SPAN></SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">Now
+in addition if </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">c</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+lists </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+as a synonym, we create the edge  </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">c
+</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">&rarr;</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">
+b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">.
+To avoid changing our Page Rank algorithm drastically, we
+accomplished this by reformatting the synonym list obtained from
+WordNet appropriately. (For word </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+we would list all the synonyms of </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">b</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+returned by WordNet and the words that listed </SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="font-weight: normal">b
+</SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">as
+a synonym)As can be demonstrated by our results, we see that this is
+a step in the right direction. However, we note that our initial
+seeds still seem insufficient; we need more &quot;meaning&quot; to be
+in the graph before we run pageRank. </SPAN></SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><U><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal"><FONT SIZE=4>Heuristic
+II: Informative Priors</FONT></SPAN></SPAN></FONT></U></P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">Here
+we scanned the internet for lists of &quot;positive&quot; words and
+lists of &quot;negative&quot; words. We constructed two such lists,
+both exceeding 100 words. Now for each word </SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">w</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">
+in </SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">W</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">
+we used WordNet to look up the definition of that word. Parsing the
+definition into a list of words, we checked each word in the
+definition, attempting to find a match in either the list of positive
+words or the list of negative words. If we could find no matches for
+any word in the definition, then we simply initialized the word in
+our algorithm as initially stated. </SPAN></SPAN></SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">However,
+if we could find words shared by the positive/negative lists and the
+definition, then we gave an &quot;informative prior&quot; to </SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">w</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">.
+We let D be the set of words in the definition, let M be the 100+ set
+of positive words and K be the 100+ set of negative words. Then we
+define: </SPAN></SPAN></SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="images/pn.gif" NAME="graphics5" ALIGN=LEFT WIDTH=144 HEIGHT=62 BORDER=0><BR CLEAR=LEFT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">Given
+some confidence function </SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">r(n)</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">,
+we let the prior on word </SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">w</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">
+be &mu; such that: </SPAN></SPAN></SPAN></FONT>
+</P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="images/suchthat.gif" NAME="graphics4" ALIGN=LEFT WIDTH=259 HEIGHT=82 BORDER=0><BR CLEAR=LEFT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">For
+</SPAN></SPAN></SPAN></FONT><FONT FACE="Times New Roman, serif"><I><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">w</SPAN></SPAN></I></FONT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">
+with an informative prior, set the variance to be equal to .05, to
+represent having more &quot;certainty&quot; about the word. This
+approach in conjunction with the front-back linking generates the
+best results. </SPAN></SPAN></SPAN></FONT>
+</P>
+
+   
+       </text>
+       </section>
+       
+       <section>
+       <h2>5.2 MFT parsing through MPI</h2>
+       <text>
+       The MFT parsing is particularly slow. On everage it can parse a single sentence in 2-5 secs which means that 
+       the parsing of a complete document can take up from 30 secs to a full minute. Therefore, in order to parse a complete corpus
+       of about 500 documents, the serial implementation can take up more than 6 hours. <br>
+       
+       &nbsp;&nbsp;&nbsp;However, the parsing needs not be serial as described earlier. If we ignore for now any statistical learning 
+       task we might want to implement, the individual parses of sentences are completely independent. This is why we chose MPI to parallelize
+       over many cores. The task splitting was pretty straightforward. Given a query search, for example "<i>gold prices</i>" the master
+       would parse Google News results and extract relevant URLs. The list of URLs is broadcasted to workers, which in turn download pages,
+       parse them and inform the master about the results. Finally, the master regularly updates an online web application, which is responsible
+       of showing live the outlook of the entity we are interested in. <br>
+       
+       Schematically, this is how MPI helps in our case:
+       
+       <equation>
+       <u>MASTER routine:</u> <br>
+       <code>
+       RECV query<br>
+       urlList =  GoogleNewsSearch(query) <br>
+       MPI_Bcast(urlList) to WORKERS <br>
+       UNTIL all downloaded { <br>
+        &nbsp;&nbsp;&nbsp;&nbsp; results.add(MPI_Recv(workerId))<br>
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;updateServer(results) <br>
+       }
+       </code>
+       </equation>
+       <equation>
+       <u>WORKER routine:</u> <br>
+       <code>
+       RECV urlList<br>
+       indices =  FilterIndividualLinks(urlList) <br>
+       UNTIL all downloaded { <br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;result = parseURL(url) <br>
+          &nbsp;&nbsp;&nbsp;&nbsp; MPI_Send(master, result)<br>
+       }
+       </code>
+       </equation>
+       
+        As an aside note, the MPI functions are not used with their formal definitions.
+        The function <code>FilterIndividualLinks</code> is responsible with taking the links that are 
+        to be downloaded by the particular worker. This is achieved through the rank of the worker and the total 
+        size of the MPI worker set. <br>
+        
+        &nbsp;&nbsp;&nbsp;Our running platform was the Odyssey cluster which is maintained by the Harvard Research Computing Group
+        (<a href="http://rc.fas.harvard.edu/">Harvard RC Group</a>). We have run our experiments up to 100 nodes to ensure that 
+        our job will be schedules with higher priority. OpenMPI is supported through the <i>hpc/openmpi-1.4.2_gnu-4.1.2</i> module.
+       The complete MPI code is attached with the submission of this project.
+       </text>
+       </section>
+       
+       <section>
+       <h1>6. Results</h1>
+       <text>
+       
+       
+       </text>
+       </section>
+       
+       <section>
+       <h2>6.1 Performance</h2>
+       <text>
+       
+       The speedup induced from the introduction of MPI was nearly proportional to the number of available cores. 
+       In fact there is some overhead that comes wth invoking the MPI job on Odyssey and also the receiving routines from the side of the master.
+       Since we treated every parsing as an independent event, this enormous speedup is easy to understand.
+       For illustration, we performed a simple controlled experiment for the parsing of several web documents, of various sizes. 
+       The following figure summarizes some of our findings on 20 MPI cores (serial computation on big-size corpora was not concluded due to failures)
+       It is worth to note that, essentially we were able to analyze over 300 pages in less 4 minutes, using only 20 cores. 
+       The problem is embarassignly parallelizable, and so we could boost our performance even more when running on more cores.
+       Theoretically, we could parse 10 pages/sec using 200 cores, which essentially means that we are able to process the news
+       in an online way. What's even more interesting, is that the method actually gives very promising results with regard to it's accuracy.
+       We will present this aspect in the next section. 
+       
+       <div class="center" style="height:371px; width:600px; background-image: url(images/speedup.png)">
+    </div><div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 4. MPI speedup</div>
+       
+       <P STYLE="text-decoration: none"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">
+       Let us now discuss briefly about the Map-Reduce performance for learning meaning functions. </SPAN></SPAN></FONT></P>
+<P STYLE="text-decoration: none"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">We
+have placed our results in a spreadsheet and of course, the fixed seeds
+have been removed. For the purposes of the graph, we have removed the nodes with no
+incoming edges, i.e. the nodes that receive the initial value of 0 as their score. We do this to better clarify the data. 
+We give the graph of the number of words that end up with a mean of above .4 and the
+number of words that end up with a mean of below -.4. </SPAN></SPAN></FONT>
+</P>
+
+<P STYLE="margin-bottom: 0in">
+<div class="center"><IMG SRC="images/bars.gif" NAME="graphics6"  WIDTH=600 HEIGHT=400 BORDER=0>
+</div>
+<BR CLEAR=LEFT><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-style: normal"><SPAN STYLE="text-decoration: none"><SPAN STYLE="font-weight: normal">We
+can see that there appear to be more strongly positive words than negative words. 
+Whether this is a trait of the word set or some inaccuracy in
+classifying words (most likely the latter) remains to be
+seen as the topic of further research. </SPAN></SPAN></SPAN></FONT>A
+quick eyeball over our top results reveals that both the positive and negative results
+appear to be fairly consistent. This can be seen below in our table of excerpts from our
+results. Again, note that none of these words were initial seeds. Furthermore, most of them
+also did not receive an informative prior.  
+</P>
+<P STYLE="margin-bottom: 0in">
+<div class="center">
+<IMG SRC="images/table.gif" NAME="graphics7" WIDTH=368 HEIGHT=380 BORDER=0>
+</div>
+</P>
+             
+       
+       
+       </text>
+       </section>
+       
+       <section>
+       <h2>6.2 Accuracy</h2>
+       <text>
+       As mentioned earlier, <b>TR8</b> is a software that estimates the outlook of any asset, by analyzing recent and relevant 
+news data available on the web. Its input consists of a simple asset name, for example "copper", "gold", "euro", "chf" and so on. When launched, the program is spawning relevant news searches. For example, when "dollar" is given as input, <b>TR8</b> is searching for several relevant keywords, such as "usd", "greenback" etc. Subsequently, it creates
+a big list of URL links that contain relevant (and recent) news articles about the asset we are interested in, 
+and visits them in succession. When <b>TR8</b> downloads a news article, it parses it in order to assess if
+the article gives a positive outlook and then outputs a single value in the range <code>[-1,+1]</code>. <br>
+
+&nbsp;&nbsp;&nbsp;The output of <b>TR8</b> is a weighted vector of outlook scores for a given asset. Figure 3 is showing 
+on the left the output of <b>TR8</b> for  Canadian dollar's (CAD) outlook in March 27th, and on the right 
+the actual movement of the asset until now (red line marks the time of measurement), as retrieved from the website <a href="http://www.xe.com">xe.com</a>
+(Notice that the two graphs are in different scales: the first spans on many days while the second shows only two)
+         
+         <div class="center" >
+        <img src="images/cad-march.png" height="200" width="570" ></img> </div> 
+        <div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 5. TR8 outlook for CAD (March 27)</div>
+       
+        <div class="center" style="margin-top:80px">
+        <img src="images/gbp-march.png" height="200" width="570" ></img> </div> 
+        <div class="center" style="margin-top:15px; margin-bottom: 20px" >Figure 6. TR8 outlook for GBP (March 27)</div>
+       
+       
+&nbsp;&nbsp;&nbsp;It is evident from these samples that there exists a non-trivial correlation between output and the realized values.
+This very feature was used in order to compete in the <i>Trading Simulation</i> for the course Stat123 at Harvard, which lasted
+from March to April of this year. 
+The submission based on <b>TR8</b> amassed nearly $15<i>m</i> in total profits, and ranked among Top-5 out of 89 traders, and it will be further tested on real trading sessions
+over at the Harvard Management Company (HMC) in mid-March.  
+       </text>
+       </section>
+       
+       <section>
+       <h1>7. Future work</h1>
+       <text>
+       We described a systematic, text mining methodology for extracting positive/negative connotations about entities in a text corpus. 
+       Through our model, the computation is embarassingly parallelizable which we confirmed in sample tests.
+        We introduced two novel methods within our model. A PageRank generalization that computes the meanings of individual words and we described
+        a Map-Reduce implementation. A data structure, dubbed Meaning Filtering Tree (MFT), and an algorithm that allows
+        us to scale up meaning functions and parse complete textual documents. We also reported a real-world application of this model
+        in the competition of the Stat123 course, in which the submission based on this software ranked in Top-5. <br>
+        
+        &nbsp;&nbsp;&nbsp;Future work is bound to improve results even more. Currently, we have left out a clear probabiistic models
+        that will assign "authority scores" to different news sources (treated equally now). We are also not using the fact
+        that essentially we can define have a supervised learning problem, since for example movements about stocks or other assets are 
+        available. This could give us the opportunity to fit our models even better.
+        Last but not least, we could use information coming from social media as well, in order to have a fully automated IE system
+        which will be driven by social "buzz" around a specific entity.       
+       </text>
+       </section>
+       
+        <section>
+       <h1>8. Acknowledgements</h1>
+        <text>
+       We wish to thank Jud Porter for his feedback on early work.
+       </text>
+       
+       </section>
+  </body>
+</html>

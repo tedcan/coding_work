@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cp WordValuePreprocessing/OutputFiles/finalGraph.txt haro.txt

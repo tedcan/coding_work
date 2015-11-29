@@ -1,0 +1,6381 @@
+Sender: LSF System <lsfadmin@hero2408>
+Subject: Job 31972303: <MPITR8> Exited
+
+Job <MPITR8> was submitted from host <iliadaccess03> by user <ptoulis> in cluster <lsf-odyssey>.
+Job was executed on host(s) <8*hero2408>, in queue <short_parallel>, as user <ptoulis> in cluster <lsf-odyssey>.
+                            <7*hero2215>
+</n/home00/ptoulis> was used as the home directory.
+</n/home00/ptoulis/tr8_mpi> was used as the working directory.
+Started at Fri May  6 03:10:10 2011
+Results reported at Fri May  6 03:13:16 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 15
+#BSUB -a openmpi
+#BSUB -u ptoulis@fas.harvard.edu
+#BSUB -J "MPITR8"
+#BSUB -e ./_dump/mpi-tr8.err
+#BSUB -o ./_dump/mpi-tr8.log
+#BSUB -q short_parallel
+
+mpirun.lsf perl main.pl
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :   1156.03 sec.
+    Max Memory :      2034 MB
+    Max Swap   :      9896 MB
+
+    Max Processes  :        43
+    Max Threads    :       194
+
+The output (if any) follows:
+
+
+[Searching for nicks gold,gold market,gold price,gold finance,bullion]
+[1304665817] Searching Google news for gold commodity
+[Input=TR8::Web=HASH(0x1aa22c70)#gold commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold commodity#1#5#4#5#4]
+[1304665825] Searching Google news for gold market commodity
+[Input=TR8::Web=HASH(0x1aa22c70)#gold market commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold market commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold market commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold market commodity#1#5#4#5#4]
+[1304665861] Searching Google news for gold price commodity
+[Input=TR8::Web=HASH(0x1aa22c70)#gold price commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold price commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold price commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold price commodity#1#5#4#5#4]
+[1304665869] Searching Google news for gold finance commodity
+[Input=TR8::Web=HASH(0x1aa22c70)#gold finance commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold finance commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold finance commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1aa22c70)#gold finance commodity#1#5#4#5#4]
+[1304665878] Searching Google news for bullion commodity
+[Input=TR8::Web=HASH(0x1aa22c70)#bullion commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1aa22c70)#bullion commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1aa22c70)#bullion commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1aa22c70)#bullion commodity#1#5#4#5#4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.507588852121579 for word contract
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = 0.262412968157767 for word reaches
+
+Adding meaning = 0.499579970875714 for word more
+
+Adding meaning = 0.053460654662465 for word further
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.628574895656011 for word low
+
+Adding meaning = -0.628574895656011 for word low
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.648387806844652 for word dumped
+
+Adding meaning = -0.441004415059662 for word precipitously
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+Adding meaning = -0.77504075287468 for word dropped
+
+Adding meaning = 0.0364398478754006 for word hitting
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.00596548577821101 for word end
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.0108294701449728 for word expect
+
+Adding meaning = -0.954449853394084 for word lower
+
+Adding meaning = -0.628574895656011 for word low
+
+Adding meaning = -0.628574895656011 for word low
+
+[Dictionary Loaded. Has 3948 entries..]
+
+
+Adding meaning = 0.839198857982056 for word rallied
+
+
+Adding meaning = -0.109910807160242 for word risks
+
+Adding meaning = -0.10235207052329 for word sells
+
+
+Adding meaning = 0.00145794515450584 for word stock
+
+Adding meaning = 0.00145794515450584 for word stock
+
+Adding meaning = 0.00027690414477966 for word make
+
+
+Adding meaning = 0.105136505779035 for word event
+
+
+Adding meaning = -0.954449853394084 for word lower
+
+Adding meaning = 0.253907717840916 for word adding
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.103055186661708 for word inflationary
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+
+Adding meaning = 0.0164638774468233 for word launching
+
+Adding meaning = 0.00402398002641084 for word report
+
+Adding meaning = 0.0018816564186322 for word currencies
+
+Adding meaning = 0.00402398002641084 for word report
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.553500027017362 for word recovers
+
+Adding meaning = 0.0701926257954343 for word initial
+
+Adding meaning = 0.00627218806210733 for word seems
+
+Adding meaning = 0.0137633128372644 for word clawing
+
+Adding meaning = 0.0137633128372644 for word clawing
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.00402398002641084 for word report
+
+
+PS:
+
+Read file <./_dump/mpi-tr8.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@hero2301>
+Subject: Job 31972308: <MPITR8> Exited
+
+Job <MPITR8> was submitted from host <iliadaccess03> by user <ptoulis> in cluster <lsf-odyssey>.
+Job was executed on host(s) <8*hero2301>, in queue <short_parallel>, as user <ptoulis> in cluster <lsf-odyssey>.
+                            <7*hero1209>
+</n/home00/ptoulis> was used as the home directory.
+</n/home00/ptoulis/tr8_mpi> was used as the working directory.
+Started at Fri May  6 03:14:46 2011
+Results reported at Fri May  6 03:23:07 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 15
+#BSUB -a openmpi
+#BSUB -u ptoulis@fas.harvard.edu
+#BSUB -J "MPITR8"
+#BSUB -e ./_dump/mpi-tr8.err
+#BSUB -o ./_dump/mpi-tr8.log
+#BSUB -q short_parallel
+
+mpirun.lsf perl main.pl
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :   2370.07 sec.
+    Max Memory :      2173 MB
+    Max Swap   :     13643 MB
+
+    Max Processes  :        59
+    Max Threads    :       346
+
+The output (if any) follows:
+
+
+[Searching for nicks euro,euro market,euro price,euro finance,eur,euro,eur/usd,single currency,euro-?zone,european currency]
+[1304666092] Searching Google news for euro currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#4]
+[1304666100] Searching Google news for euro market currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro market currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro market currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro market currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro market currency#1#5#4#5#4]
+[1304666108] Searching Google news for euro price currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro price currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro price currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro price currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro price currency#1#5#4#5#4]
+[1304666117] Searching Google news for euro finance currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro finance currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro finance currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro finance currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro finance currency#1#5#4#5#4]
+[1304666125] Searching Google news for eur currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur currency#1#5#4#5#4]
+[1304666133] Searching Google news for euro currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro currency#1#5#4#5#4]
+[1304666141] Searching Google news for eur/usd currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur/usd currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur/usd currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur/usd currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#eur/usd currency#1#5#4#5#4]
+[1304666149] Searching Google news for single currency currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#single currency currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#single currency currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#single currency currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#single currency currency#1#5#4#5#4]
+[1304666157] Searching Google news for euro-?zone currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro-?zone currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro-?zone currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro-?zone currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#euro-?zone currency#1#5#4#5#4]
+[1304666165] Searching Google news for european currency currency
+[Input=TR8::Web=HASH(0x1fb6cc70)#european currency currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1fb6cc70)#european currency currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1fb6cc70)#european currency currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1fb6cc70)#european currency currency#1#5#4#5#4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+
+[Dictionary Loaded. Has 3948 entries..]
+
+
+
+
+Adding meaning = 0.02688080598046 for word mark
+
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = 0.21027301155807 for word consolidates
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = 0.21027301155807 for word consolidates
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.674519082543678 for word advances
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.652037175571413 for word advanced
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.00234660295634467 for word doing
+
+
+Adding meaning = 0.015 for word innovative
+
+Adding meaning = 0.0518091803974077 for word return
+
+Adding meaning = 0.524300813784262 for word favor
+
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.839198857982056 for word rallied
+
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.839198857982056 for word rallied
+
+Adding meaning = -0.240421249428846 for word blue
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.00023045497377254 for word firms
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = -0.105376161196092 for word shun
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = -0.40494542558313 for word costs
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.251843939830052 for word raced
+
+Adding meaning = -0.340721464478735 for word worries
+
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.109910807160242 for word risk
+
+Adding meaning = 0.00934514042890305 for word keep
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = -0.000123314202275304 for word expectations
+
+Adding meaning = -0.446104997522971 for word lick
+
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.1262360253972 for word opposite
+
+Adding meaning = 0.00617331063699962 for word continued
+
+Adding meaning = 0.00396254541210117 for word move
+
+Adding meaning = -0.0012827530227534 for word reading
+
+Adding meaning = 0.226689 for word stronger-than-expected
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.205128365456182 for word help
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.669949501355022 for word boosting
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.162694473220904 for word charge
+
+Adding meaning = 0.018816564186322 for word reaction
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = -0.00688654376923442 for word level
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = 0.0518091803974077 for word returned
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.01352747544966 for word closed
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.482783097324158 for word built
+
+Adding meaning = -0.106128483588276 for word march
+
+
+
+
+
+Adding meaning = -0.875053260386978 for word trimmed
+
+Adding meaning = 0.644026032927784 for word higher
+
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.00200618944405556 for word coming
+
+Adding meaning = 0.418753049833363 for word grown
+
+Adding meaning = -0.689232093738419 for word diminished
+
+Adding meaning = -0.109910807160242 for word risks
+
+Adding meaning = -0.109910807160242 for word risks
+
+Adding meaning = 2.52163901898012e-05 for word rest
+
+Adding meaning = -0.000123314202275304 for word expecting
+
+Adding meaning = 0.566585406365736 for word exceed
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.05223 for word buys
+
+Adding meaning = 0.000485281383174445 for word nears
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.508097655297058 for word devalue
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.352727077874575 for word recouped
+
+Adding meaning = -0.2075798620344 for word losses
+
+Adding meaning = 0.218816564186322 for word disadvantage
+
+Adding meaning = 0.644026032927784 for word higher
+
+
+Adding meaning = 0.12737890012 for word positioned
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.45182098251 for word crisis
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.00249541865729177 for word states
+
+Adding meaning = -0.311178597532051 for word ailing
+
+Adding meaning = -0.162694473220904 for word charge
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+Adding meaning = 0.00137276281508707 for word sign
+
+Adding meaning = -0.0692825683853863 for word abyss
+
+Adding meaning = 0.005376161196092 for word pair
+
+Adding meaning = 0.0437114709993365 for word impacting
+
+Adding meaning = 0.0437114709993365 for word impact
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.00983523891613372 for word meetings
+
+Adding meaning = 0.00784171656701254 for word becoming
+
+Adding meaning = 0.00549540437496341 for word joined
+
+Adding meaning = 0.237293620863756 for word rebound
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.162694473220904 for word charge
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.265393564925614 for word push
+
+Adding meaning = -0.0518816564186322 for word sales
+
+
+Adding meaning = 0.06799012 for word tomorrow
+
+Adding meaning = 0.000485281383174445 for word approaches
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.00105136505779035 for word informed
+
+
+Adding meaning = 0.455419698343448 for word reforms
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.02688080598046 for word mark
+
+
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.018816564186322 for word governments
+
+Adding meaning = 0.0845786638186395 for word senior
+
+Adding meaning = 0.0018816564186322 for word one
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.01352747544966 for word closed
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.0031456522686328 for word give
+
+Adding meaning = 0.0101955522431628 for word chance
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = -0.00249541865729177 for word states
+
+Adding meaning = -0.311178597532051 for word ailing
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = -0.162694473220904 for word charge
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.05223 for word buys
+
+Adding meaning = 0.000485281383174445 for word nears
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+
+
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.00983523891613372 for word meetings
+
+Adding meaning = -0.04122560802376 for word brands
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0117253052096005 for word knocking
+
+
+Adding meaning = 0.005626645035315 for word join
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.0305518666170845 for word single
+
+Adding meaning = 0.0478471322718684 for word save
+
+Adding meaning = -0.0192095315061801 for word replaced
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.04122560802376 for word brands
+
+Adding meaning = -0.918128677810011 for word gains
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.1262360253972 for word wage
+
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.00784171656701254 for word becoming
+
+Adding meaning = -0.0518043330434624 for word delaying
+
+Adding meaning = -0.0555236082018788 for word default
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.00118816564186322 for word page
+
+
+Adding meaning = -0.0126202428068211 for word flat
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = -0.523051066207616 for word failed
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.469589434553743 for word extended
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.00198811727601935 for word bid
+
+Adding meaning = 0.00934514042890305 for word keep
+
+Adding meaning = 0.00775095736798442 for word links
+
+Adding meaning = 0.00353192045992457 for word posts
+
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+
+Adding meaning = 0.108816564186322 for word whole
+
+Adding meaning = 0.018816564186322 for word economic
+
+Adding meaning = 0.102304 for word leaders
+
+Adding meaning = -0.948260452834241 for word rose
+
+Adding meaning = 0.77504075287468 for word dropped
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+
+Adding meaning = 0.0940767121078024 for word rate
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.669949501355022 for word boosting
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = -0.123270385581145 for word breaks
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.100166373788472 for word yielding
+
+Adding meaning = 0.00305056058584017 for word looks
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.90842839149756 for word gaining
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.711501966095608 for word strengthen
+
+Adding meaning = 0.847057653843772 for word increase
+
+Adding meaning = 0.00200618944405556 for word coming
+
+Adding meaning = -0.0555236082018788 for word default
+
+
+Adding meaning = 0.00118816564186322 for word page
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.0300390016511529 for word implied
+
+Adding meaning = 0.0266905640830608 for word puts
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.271874707351925 for word prepares
+
+Adding meaning = 0.0794656522097455 for word pound
+
+Adding meaning = 0.00661961803885229 for word finding
+
+Adding meaning = 0.130025497300264 for word support
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = -0.913584659092502 for word plummets
+
+Adding meaning = 0.0794656522097455 for word pound
+
+
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = 0.037633128372644 for word comment
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.18816564186322 for word extra
+
+Adding meaning = 0.0517978165753773 for word free
+
+Adding meaning = 0.209528066086037 for word earn
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = 0.0410718619570013 for word accuse
+
+Adding meaning = -0.00206553512865401 for word state
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.1 for word stability
+
+Adding meaning = 0.0018816564186322 for word currency
+
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.309606601670616 for word brush
+
+Adding meaning = -0.628574895656011 for word low
+
+Adding meaning = 0.849016452337812 for word climbs
+
+
+Adding meaning = 0.0437114709993365 for word impacting
+
+Adding meaning = -0.574636434677747 for word weakened
+
+Adding meaning = 0.7152790001 for word strength
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.271874707351925 for word prepares
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = 0.00235207052329025 for word accounted
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.00481611871162537 for word related
+
+
+
+Adding meaning = -0.207579862034466 for word losing
+
+Adding meaning = -0.0692825683853863 for word largest
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = -0.07509587797403 for word recorded
+
+Adding meaning = 0.00258691971582372 for word surrounding
+
+Adding meaning = 0.0102444488863943 for word accept
+
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.161722159760616 for word tapered
+
+Adding meaning = 0.0681052111029988 for word maintains
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = 0.00305056058584017 for word looks
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.105346412841927 for word union
+
+
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.0392809713648229 for word hovered
+
+Adding meaning = 0.265393564925614 for word push
+
+
+Adding meaning = 0.000445742090056821 for word moves
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -9.18629033856246e-05 for word getting
+[Dictionary Loaded. Has 3952 entries..]
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.0037633128372644 for word sources
+
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.00105136505779035 for word informed
+
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.00780366605786838 for word opened
+
+Adding meaning = -0.109910807160242 for word risk
+
+
+Adding meaning = 0.125716618701718 for word pursue
+
+Adding meaning = 0.790846329554429 for word top
+
+Adding meaning = 0.865562140198774 for word raise
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0310253735991456 for word longs
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0018816564186322 for word one
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.827698213892882 for word climbed
+
+
+Adding meaning = 0.0648324274831321 for word summon
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.028224846279483 for word group
+
+Adding meaning = 0.00481611871162537 for word related
+
+
+PS:
+
+Read file <./_dump/mpi-tr8.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@hero2506>
+Subject: Job 31972325: <MPITR8> Exited
+
+Job <MPITR8> was submitted from host <iliadaccess03> by user <ptoulis> in cluster <lsf-odyssey>.
+Job was executed on host(s) <8*hero2506>, in queue <short_parallel>, as user <ptoulis> in cluster <lsf-odyssey>.
+                            <8*hero1010>
+                            <8*hero1012>
+                            <6*hero2313>
+</n/home00/ptoulis> was used as the home directory.
+</n/home00/ptoulis/tr8_mpi> was used as the working directory.
+Started at Fri May  6 03:25:46 2011
+Results reported at Fri May  6 04:28:10 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 30
+#BSUB -a openmpi
+#BSUB -u ptoulis@fas.harvard.edu
+#BSUB -J "MPITR8"
+#BSUB -e ./_dump/mpi-tr8.err
+#BSUB -o ./_dump/mpi-tr8.log
+#BSUB -q short_parallel
+
+mpirun.lsf perl main.pl
+
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with signal termination: User defined signal 2.
+
+Resource usage summary:
+
+    CPU time   :   6912.00 sec.
+    Max Memory :      4606 MB
+    Max Swap   :     21267 MB
+
+    Max Processes  :        93
+    Max Threads    :       392
+
+The output (if any) follows:
+
+
+[Searching for nicks euro,euro market,euro price,euro finance,eur,euro,eur/usd,single currency,euro-?zone,european currency]
+[1304666752] Searching Google news for euro currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#4]
+[1304666763] Searching Google news for euro market currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro market currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro market currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro market currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro market currency#1#5#4#5#4]
+[1304666771] Searching Google news for euro price currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro price currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro price currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro price currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro price currency#1#5#4#5#4]
+[1304666779] Searching Google news for euro finance currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro finance currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro finance currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro finance currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro finance currency#1#5#4#5#4]
+[1304666788] Searching Google news for eur currency
+[Input=TR8::Web=HASH(0x1c2ee70)#eur currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur currency#1#5#4#5#4]
+[1304666796] Searching Google news for euro currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro currency#1#5#4#5#4]
+[1304666804] Searching Google news for eur/usd currency
+[Input=TR8::Web=HASH(0x1c2ee70)#eur/usd currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur/usd currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur/usd currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#eur/usd currency#1#5#4#5#4]
+[1304666812] Searching Google news for single currency currency
+[Input=TR8::Web=HASH(0x1c2ee70)#single currency currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#single currency currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#single currency currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#single currency currency#1#5#4#5#4]
+[1304666848] Searching Google news for euro-?zone currency
+[Input=TR8::Web=HASH(0x1c2ee70)#euro-?zone currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro-?zone currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro-?zone currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#euro-?zone currency#1#5#4#5#4]
+[1304666856] Searching Google news for european currency currency
+[Input=TR8::Web=HASH(0x1c2ee70)#european currency currency#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x1c2ee70)#european currency currency#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x1c2ee70)#european currency currency#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x1c2ee70)#european currency currency#1#5#4#5#4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.00200618944405556 for word coming
+
+Adding meaning = 0.418753049833363 for word grown
+
+Adding meaning = -0.689232093738419 for word diminished
+
+Adding meaning = -0.109910807160242 for word risks
+
+Adding meaning = -0.109910807160242 for word risks
+
+Adding meaning = 2.52163901898012e-05 for word rest
+
+Adding meaning = -0.000123314202275304 for word expecting
+
+Adding meaning = 0.566585406365736 for word exceed
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.352727077874575 for word recouped
+
+Adding meaning = -0.2075798620344 for word losses
+
+Adding meaning = 0.218816564186322 for word disadvantage
+
+Adding meaning = 0.644026032927784 for word higher
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+
+
+Adding meaning = -0.446104997522971 for word lick
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.02688080598046 for word mark
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+
+
+
+
+
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = 0.900842839149756 for word gained
+
+Adding meaning = 0.669949501355022 for word boosted
+
+Adding meaning = 0.349901 for word prospect
+
+
+
+
+Adding meaning = 0.669949501355022 for word boosting
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.839198857982056 for word rallied
+
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = 0.21027301155807 for word consolidates
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.21027301155807 for word consolidates
+
+Adding meaning = -0.0518043330434624 for word delay
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.0518816564186322 for word sales
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.109910807160242 for word risk
+
+Adding meaning = 0.00934514042890305 for word keep
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = -0.000123314202275304 for word expectations
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+
+
+Adding meaning = 0.100166373788472 for word yielding
+
+Adding meaning = 0.00305056058584017 for word looks
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.90842839149756 for word gaining
+
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.674519082543678 for word advances
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.652037175571413 for word advanced
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.707766709647259 for word strengthened
+
+Adding meaning = 0.105346412841927 for word union
+
+
+Adding meaning = -0.508097655297058 for word devalue
+
+Adding meaning = 0.827698213892882 for word climbed
+
+
+Adding meaning = 0.0117253052096005 for word knocking
+
+Adding meaning = -0.162694473220904 for word charge
+
+Adding meaning = 0.711501966095608 for word strengthen
+
+Adding meaning = 0.847057653843772 for word increase
+
+Adding meaning = 0.00200618944405556 for word coming
+
+Adding meaning = -0.0555236082018788 for word default
+
+
+Adding meaning = 0.205128365456182 for word help
+
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.839198857982056 for word rallied
+
+Adding meaning = -0.240421249428846 for word blue
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.00023045497377254 for word firms
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = -0.105376161196092 for word shun
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = -0.40494542558313 for word costs
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.251843939830052 for word raced
+
+Adding meaning = -0.340721464478735 for word worries
+
+
+Adding meaning = 0.00137276281508707 for word sign
+
+Adding meaning = 0.18816564186322 for word extra
+
+Adding meaning = 0.0517978165753773 for word free
+
+Adding meaning = 0.209528066086037 for word earn
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = 0.015 for word innovative
+
+Adding meaning = 0.0518091803974077 for word return
+
+Adding meaning = 0.524300813784262 for word favor
+
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3948 entries..]
+
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.482783097324158 for word built
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+
+Adding meaning = 0.015 for word innovative
+
+Adding meaning = 0.0518091803974077 for word return
+
+Adding meaning = 0.524300813784262 for word favor
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.0437114709993365 for word impacting
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.0692825683853863 for word abyss
+
+Adding meaning = 0.005376161196092 for word pair
+
+Adding meaning = 0.0437114709993365 for word impacting
+
+Adding meaning = 0.0437114709993365 for word impact
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.103055186661708 for word inflation
+
+Adding meaning = -0.0126202428068211 for word flat
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+
+Adding meaning = -0.918128677810011 for word gains
+
+
+Adding meaning = -0.00417837030238615 for word begun
+
+Adding meaning = -0.30489178143642 for word lose
+
+Adding meaning = -0.30489178143642 for word lose
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -0.915019695293458 for word tumbles
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = -0.02688080598046 for word mark
+[Dictionary Loaded. Has 3949 entries..]
+
+
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.162694473220904 for word charge
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.827698213892882 for word climbed
+
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = -0.00249541865729177 for word states
+
+Adding meaning = -0.311178597532051 for word ailing
+
+Adding meaning = -0.162694473220904 for word charge
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.018816564186322 for word reaction
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = -0.00688654376923442 for word level
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = 0.0518091803974077 for word returned
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.01352747544966 for word closed
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.662742236250106 for word high
+
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+
+Adding meaning = 0.0150195008255764 for word value
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+
+
+
+Adding meaning = 0.265393564925614 for word push
+
+Adding meaning = -0.0518816564186322 for word sales
+
+
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.00617331063699962 for word continued
+
+Adding meaning = 0.545091108619973 for word outweighing
+
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = -0.00249541865729177 for word states
+
+Adding meaning = -0.311178597532051 for word ailing
+
+Adding meaning = -0.162694473220904 for word charge
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.504833677886059 for word bolster
+
+Adding meaning = 0.608457866381864 for word weakness
+
+
+Adding meaning = -0.918128677810011 for word gains
+
+Adding meaning = 0.103055186661708 for word inflation
+
+Adding meaning = 0.0515127981160229 for word drove
+
+Adding meaning = 0.629937047143243 for word fell
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.44387260361255 for word reforms
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = -0.760542438781424 for word falls
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = 0.0437114709993365 for word impacting
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.00983523891613372 for word meetings
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.018816564186322 for word governments
+
+Adding meaning = 0.0845786638186395 for word senior
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.105136505779035 for word index
+
+Adding meaning = 0.00023045497377254 for word firms
+
+
+
+Adding meaning = 0.05223 for word buys
+
+Adding meaning = 0.000485281383174445 for word nears
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.000445742090056821 for word moves
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -9.18629033856246e-05 for word getting
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.12737890012 for word positioned
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.75967148927311 for word fallen
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.762867929386006 for word falling
+
+
+Adding meaning = 0.161722159760616 for word tapered
+
+Adding meaning = 0.0681052111029988 for word maintains
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = 0.00305056058584017 for word looks
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.90842839149756 for word gaining
+
+Adding meaning = 0.105346412841927 for word union
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.00784171656701254 for word becoming
+
+Adding meaning = -0.0518043330434624 for word delaying
+
+Adding meaning = -0.0555236082018788 for word default
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.004849761958006 for word changed
+
+Adding meaning = 0.004849761958006 for word changed
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.00983523891613372 for word meetings
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.103141835935405 for word tackle
+
+Adding meaning = 0.0523832059542221 for word following
+
+Adding meaning = 0.0018816564186322 for word currency
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.210393375662001 for word rip
+
+Adding meaning = 0.210393375662001 for word rip
+
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.00105136505779035 for word informed
+
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+Adding meaning = 0.0258816564186322 for word much
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.0305518666170845 for word single
+
+Adding meaning = 0.00831217451788707 for word adopt
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.00105136505779035 for word informed
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = 0.05223 for word buys
+
+Adding meaning = 0.000485281383174445 for word nears
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.0940767121078024 for word rate
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.1262360253972 for word wage
+
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00845786638186395 for word firm
+
+Adding meaning = -0.760542438781424 for word falls
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.00784171656701254 for word becoming
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = 0.00549540437496341 for word joined
+
+Adding meaning = 0.237293620863756 for word rebound
+
+Adding meaning = -0.0037633128372644 for word sources
+
+Adding meaning = -0.00105136505779035 for word informed
+
+
+Adding meaning = 0.0940767121078024 for word rate
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00549540437496341 for word joining
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.00780366605786838 for word opened
+
+Adding meaning = -0.109910807160242 for word risk
+
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.0905643939500153 for word derail
+
+Adding meaning = 0.105346412841927 for word union
+
+
+Adding meaning = -0.0530442526980082 for word laden
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.000445742090056821 for word moves
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -9.18629033856246e-05 for word getting
+
+
+Adding meaning = 0.865874218030093 for word increased
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.240252516518363 for word troubled
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.1 for word stability
+
+Adding meaning = 0.0018816564186322 for word currency
+
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.0794656522097455 for word pound
+
+Adding meaning = 0.00661961803885229 for word finding
+
+Adding meaning = 0.130025497300264 for word support
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = 0.0940767121078024 for word rate
+
+Adding meaning = -0.913584659092502 for word plummets
+
+Adding meaning = 0.0794656522097455 for word pound
+
+
+
+Adding meaning = 0.005376161196092 for word pair
+
+Adding meaning = -0.10235207052329 for word selling
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.01352747544966 for word closed
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.2822 for word bullish
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = 0.0031456522686328 for word give
+
+Adding meaning = 0.0101955522431628 for word chance
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = -0.04122560802376 for word brands
+
+
+Adding meaning = 0.629937047143243 for word fell
+
+
+Adding meaning = 0.01 for word revenue
+
+Adding meaning = 0.06799012 for word tomorrow
+
+Adding meaning = 0.000485281383174445 for word approaches
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00549540437496341 for word joining
+
+Adding meaning = -0.04122560802376 for word brands
+
+
+Adding meaning = 0.0808794493938887 for word border
+
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.0126202428068211 for word flat
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = -0.523051066207616 for word failed
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = -0.574636434677747 for word weakened
+
+Adding meaning = 0.7152790001 for word strength
+
+
+Adding meaning = -0.553500027017362 for word recovered
+
+Adding meaning = 0.004849761958006 for word changed
+
+Adding meaning = 0.000773871349750579 for word hands
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.0045978704001696 for word part
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = -0.523051066207616 for word failed
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = -0.123050167147614 for word break
+
+Adding meaning = -0.10235207052329 for word sold
+
+Adding meaning = 0.00037633128372644 for word funds
+
+Adding meaning = 0.00558992318914494 for word houses
+
+Adding meaning = 0.00037633128372644 for word funds
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.100347182728586 for word footing
+
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = 0.018816564186322 for word governments
+
+Adding meaning = 0.0845786638186395 for word senior
+
+Adding meaning = 0.0018816564186322 for word one
+
+
+Adding meaning = -0.0692825683853863 for word largest
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = -0.07509587797403 for word recorded
+
+Adding meaning = 0.00258691971582372 for word surrounding
+
+Adding meaning = 0.0102444488863943 for word accept
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.465741952743615 for word jumps
+
+Adding meaning = 0.469589434553743 for word extended
+
+Adding meaning = 0.0364398478754006 for word hitting
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.271693181850046 for word summit
+
+Adding meaning = -0.0123499233645169 for word project
+
+Adding meaning = 0.00504087698010242 for word management
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00366554737284949 for word shares
+
+Adding meaning = 0.790846329554429 for word top
+
+
+Adding meaning = 0.00366554737284949 for word shares
+
+Adding meaning = 0.256852568108272 for word leading
+
+Adding meaning = -0.00688654376923442 for word level
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0806371818066878 for word rates
+
+Adding meaning = -0.469589434553743 for word extended
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+
+Adding meaning = 0.469589434553743 for word extended
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.00198811727601935 for word bid
+
+Adding meaning = 0.00934514042890305 for word keep
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.04122560802376 for word brands
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.0392809713648229 for word hovered
+
+Adding meaning = 0.265393564925614 for word push
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.124929859933706 for word supported
+
+Adding meaning = 0.015 for word innovative
+
+Adding meaning = 0.0518091803974077 for word return
+
+Adding meaning = 0.524300813784262 for word favor
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+
+Adding meaning = 0.271874707351925 for word prepares
+
+Adding meaning = 0.0165920804931408 for word indicates
+
+Adding meaning = 0.455419698343448 for word reforms
+
+Adding meaning = 0.455419698343448 for word reforms
+
+Adding meaning = 0.0808794493938887 for word borders
+
+Adding meaning = 0.0018816564186322 for word internal
+
+Adding meaning = -0.105410115374166 for word erases
+
+Adding meaning = -0.04122560802376 for word brands
+
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = -0.04122560802376 for word brands
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00118816564186322 for word page
+
+[Dictionary Loaded. Has 3951 entries..]
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0130219338554146 for word close
+
+Adding meaning = 0.00234660295634467 for word doing
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = 0.108337602830693 for word regulated
+
+Adding meaning = 0.0128224846279483 for word include
+
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.271874707351925 for word prepares
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.1262360253972 for word wage
+
+
+
+Adding meaning = 0.005626645035315 for word join
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.0305518666170845 for word single
+
+Adding meaning = 0.0478471322718684 for word save
+
+Adding meaning = -0.0192095315061801 for word replaced
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = -0.240252516518363 for word troubles
+
+Adding meaning = 0.00303102112411517 for word given
+
+Adding meaning = -0.00336826858659701 for word say
+
+Adding meaning = -0.00175356655515569 for word kept
+
+Adding meaning = -0.240252516518363 for word troubles
+
+Adding meaning = -0.00175356655515569 for word kept
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = -0.760542438781424 for word falls
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = 0.1262360253972 for word opposite
+
+Adding meaning = 0.00617331063699962 for word continued
+
+Adding meaning = 0.00396254541210117 for word move
+
+Adding meaning = -0.0012827530227534 for word reading
+
+Adding meaning = 0.226689 for word stronger-than-expected
+
+Adding meaning = -0.04122560802376 for word brands
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.553500027017362 for word recovered
+
+Adding meaning = 0.200584021409462 for word head
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.00525682528895175 for word print
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = 0.416358529802766 for word profit
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.104364552373869 for word pressures
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = -0.0415019500825576 for word needs
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.00156049887365624 for word last
+
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.018816564186322 for word corporations
+
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = 0.105346412841927 for word union
+[Dictionary Loaded. Has 3954 entries..]
+
+
+Adding meaning = 0.0761276804355092 for word testify
+
+Adding meaning = 0.00266079475442774 for word tap
+
+Adding meaning = 0.104805476315819 for word propped
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.108324552125999 for word steady
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.0321810262810758 for word retrace
+
+Adding meaning = 0.0321810262810758 for word retrace
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = 0.000499172175012354 for word board
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.18816564186322 for word earnings
+
+Adding meaning = -0.948260452834241 for word rose
+
+Adding meaning = 0.77504075287468 for word dropped
+
+
+Adding meaning = -0.760542438781424 for word falls
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.147754252781546 for word pushed
+
+Adding meaning = -0.874903392116663 for word slumped
+
+Adding meaning = -0.143319304605378 for word facing
+
+Adding meaning = 0.0806371818066878 for word rates
+
+Adding meaning = 0.200584021409462 for word head
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.147754252781546 for word pushed
+
+Adding meaning = -0.874903392116663 for word slumped
+
+Adding meaning = -0.143319304605378 for word facing
+
+Adding meaning = 0.0806371818066878 for word rates
+
+
+Adding meaning = 0.000499172175012354 for word board
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.250533598130618 for word add
+
+Adding meaning = -0.40494542558313 for word costs
+
+Adding meaning = 0.250533598130618 for word add
+
+Adding meaning = -0.068807072499875 for word pace
+
+Adding meaning = 0.0410718619570013 for word accuse
+
+Adding meaning = -0.00206553512865401 for word state
+
+Adding meaning = -0.1262360253972 for word indebted
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.00396254541210117 for word move
+
+
+Adding meaning = -0.0692825683853863 for word private
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.105136505779035 for word index
+
+Adding meaning = 0.00023045497377254 for word firms
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.347946601478128 for word guide
+
+Adding meaning = -0.047041410465805 for word plight
+
+Adding meaning = -0.45182098251 for word crisis
+
+Adding meaning = 0.018816564186322 for word governments
+
+Adding meaning = 0.028224846279483 for word group
+
+Adding meaning = 0.0806371818066878 for word rates
+
+Adding meaning = -0.45182098251 for word crisis
+[Dictionary Loaded. Has 3953 entries..]
+
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = 0.839198857982056 for word rallied
+
+
+Adding meaning = 0.00194790337568204 for word register
+
+Adding meaning = 0.0142490520372626 for word change
+
+Adding meaning = -0.000123314202275304 for word expectations
+
+Adding meaning = 0.122880101 for word stable
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.00252149550927579 for word suggest
+
+Adding meaning = -0.10114594697991 for word retreat
+
+
+Adding meaning = 0.018457866381864 for word analysis
+
+Adding meaning = -0.913584659092502 for word plummeted
+
+Adding meaning = -0.446104997522971 for word lick
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = -0.816515070171568 for word sliding
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = -0.108816564186322 for word pullback
+
+Adding meaning = 0.00983523891613372 for word meeting
+
+Adding meaning = 0.00156049887365624 for word last
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0692825683853863 for word frontiers
+
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 2.52163901898012e-05 for word rest
+
+Adding meaning = -0.00358260944214581 for word record
+
+Adding meaning = -0.40494542558313 for word costs
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = 0.0141234993477306 for word key
+
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.00156049887365624 for word last
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.839198857982056 for word rallied
+
+Adding meaning = -0.240421249428846 for word blue
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.00023045497377254 for word firms
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = -0.105376161196092 for word shun
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = -0.40494542558313 for word costs
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.251843939830052 for word raced
+
+Adding meaning = -0.340721464478735 for word worries
+[Dictionary Loaded. Has 3953 entries..]
+
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.00703111869909442 for word manufacturing
+
+Adding meaning = 0.827698213892882 for word climbed
+
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.0353628351320055 for word backtracking
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.0808794493938887 for word borders
+
+Adding meaning = 0.105346412841927 for word union
+
+
+
+Adding meaning = 0.0045978704001696 for word part
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3956 entries..]
+
+Adding meaning = 0.0648324274831321 for word summon
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.028224846279483 for word group
+
+Adding meaning = 0.1262360253972 for word middle
+
+Adding meaning = -0.04122560802376 for word brands
+
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.0794656522097455 for word pound
+
+Adding meaning = 0.053460654662465 for word further
+
+Adding meaning = 0.0794656522097455 for word pound
+
+Adding meaning = 0.00224626902822307 for word ground
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.105346412841927 for word unions
+
+Adding meaning = 0.105346412841927 for word union
+
+Adding meaning = 0.105346412841927 for word union
+
+[Dictionary Loaded. Has 3956 entries..]
+
+Adding meaning = -0.0126202428068211 for word flat
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+
+Adding meaning = -0.45182098251 for word crisis
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.0517978165753773 for word free
+
+
+Adding meaning = 0.005626645035315 for word join
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.1262360253972 for word middle
+
+Adding meaning = 0.871992523089994 for word gain
+
+Adding meaning = -0.051233142022753 for word expenses
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.18816564186322 for word earnings
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.865874218030093 for word increased
+
+Adding meaning = 0.865874218030093 for word increased
+
+Adding meaning = 0.18816564186322 for word expenditures
+
+Adding meaning = 0.19657344822918 for word proceeds
+
+Adding meaning = 0.106845102360445 for word amounted
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.0140579893917059 for word closes
+
+Adding meaning = -0.04122560802376 for word brands
+
+Adding meaning = 0.00118816564186322 for word page
+
+
+Adding meaning = 0.0517978165753773 for word free
+
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.0211847562723034 for word advertising
+
+Adding meaning = 0.18816564186322 for word powers
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.0305518666170845 for word single
+
+Adding meaning = -0.723206155285808 for word devaluation
+
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.02688080598046 for word mark
+
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = -0.378291 for word debt
+
+Adding meaning = 0.0130219338554146 for word close
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = -0.105410115374166 for word erases
+
+Adding meaning = 0.0140579893917059 for word closes
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.105834800131699 for word struggles
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.0345342815858834 for word hold
+
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.103996014871025 for word interest
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.103996014871025 for word interest
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.103996014871025 for word interest
+
+Adding meaning = 0.0018816564186322 for word currency
+
+
+Adding meaning = -0.04122560802376 for word brands
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.00617331063699962 for word continued
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.670004511675346 for word boost
+
+Adding meaning = -0.0518043330434624 for word delay
+
+Adding meaning = 0.0045978704001696 for word part
+
+Adding meaning = -0.000207746146482022 for word have
+
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.103055186661708 for word inflation
+
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.00720982085260895 for word see
+
+
+Adding meaning = 0.21027301155807 for word consolidate
+
+Adding meaning = 0.918128677810011 for word gains
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.00118816564186322 for word page
+
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = -0.315275933308542 for word weak
+
+Adding meaning = 0.948260452834241 for word risen
+[Dictionary Loaded. Has 3954 entries..]
+
+[Dictionary Loaded. Has 3956 entries..]
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.00402398002641084 for word report
+
+Adding meaning = 0.00934514042890305 for word keep
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = 0.103055186661708 for word inflation
+[Dictionary Loaded. Has 3958 entries..]
+
+
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.018816564186322 for word corporations
+[Dictionary Loaded. Has 3957 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.628574895656011 for word low
+
+Adding meaning = 0.00784171656701254 for word becoming
+
+Adding meaning = -0.0518043330434624 for word delaying
+
+Adding meaning = -0.0555236082018788 for word default
+
+Adding meaning = -0.574636434677747 for word weakened
+
+Adding meaning = 0.7152790001 for word strength
+
+Adding meaning = -0.0692825683853863 for word commission
+
+Adding meaning = -0.0692825683853863 for word commission
+
+
+Adding meaning = -0.0692825683853863 for word largest
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+Adding meaning = -0.07509587797403 for word recorded
+
+Adding meaning = 0.00258691971582372 for word surrounding
+
+Adding meaning = 0.0102444488863943 for word accept
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.352727077874575 for word recouped
+
+Adding meaning = -0.2075798620344 for word losses
+
+Adding meaning = 0.218816564186322 for word disadvantage
+
+Adding meaning = 0.644026032927784 for word higher
+
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.00417837030238615 for word begun
+
+Adding meaning = -0.30489178143642 for word lose
+
+Adding meaning = -0.30489178143642 for word lose
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = 0.210393375662001 for word rip
+
+Adding meaning = 0.210393375662001 for word rip
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.00156049887365624 for word last
+
+Adding meaning = 0.948260452834241 for word risen
+Job  /lsf/7.0/linux2.6-glibc2.3-x86_64/bin/openmpi_wrapper perl main.pl
+
+TID   HOST_NAME   COMMAND_LINE            STATUS            TERMINATION_TIME
+===== ========== ================  =======================  ===================
+00000 hero2313   perl main.pl      Exit (status unknown)                       
+00001 hero2313   perl main.pl      Exit (status unknown)                       
+00002 hero2313   perl main.pl      Exit (status unknown)                       
+00003 hero2313   perl main.pl      Exit (status unknown)                       
+00004 hero2313   perl main.pl      Exit (status unknown)                       
+00005 hero2313   perl main.pl      Exit (status unknown)                       
+00006 hero1012   perl main.pl      Exit (status unknown)                       
+00007 hero1012   perl main.pl      Exit (status unknown)                       
+00008 hero1012   perl main.pl      Exit (status unknown)                       
+00009 hero1012   perl main.pl      Exit (status unknown)                       
+00010 hero1012   perl main.pl      Exit (status unknown)                       
+00011 hero1012   perl main.pl      Exit (status unknown)                       
+00012 hero1012   perl main.pl      Exit (status unknown)                       
+00013 hero1012   perl main.pl      Exit (status unknown)                       
+00014 hero1010   perl main.pl      Exit (status unknown)                       
+00015 hero1010   perl main.pl      Exit (status unknown)                       
+00016 hero1010   perl main.pl      Exit (status unknown)                       
+00017 hero1010   perl main.pl      Exit (status unknown)                       
+00018 hero1010   perl main.pl      Exit (status unknown)                       
+00019 hero1010   perl main.pl      Exit (status unknown)                       
+00020 hero1010   perl main.pl      Exit (status unknown)                       
+00021 hero1010   perl main.pl      Exit (status unknown)                       
+00022 hero2506   perl main.pl      Exit (status unknown)                       
+00023 hero2506   perl main.pl      Exit (status unknown)                       
+00024 hero2506   perl main.pl      Exit (status unknown)                       
+00025 hero2506   perl main.pl      Exit (status unknown)                       
+00026 hero2506   perl main.pl      Exit (status unknown)                       
+00027 hero2506   perl main.pl      Exit (status unknown)                       
+00028 hero2506   perl main.pl      Exit (status unknown)                       
+00029 hero2506   perl main.pl      Exit (status unknown)                       
+
+
+PS:
+
+Read file <./_dump/mpi-tr8.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@hero1110>
+Subject: Job 31983067: <MPITR8> Exited
+
+Job <MPITR8> was submitted from host <iliadaccess02> by user <ptoulis> in cluster <lsf-odyssey>.
+Job was executed on host(s) <8*hero1110>, in queue <short_parallel>, as user <ptoulis> in cluster <lsf-odyssey>.
+                            <8*hero1111>
+                            <4*hero1115>
+</n/home00/ptoulis> was used as the home directory.
+</n/home00/ptoulis/tr8_mpi> was used as the working directory.
+Started at Fri May  6 12:54:24 2011
+Results reported at Fri May  6 13:28:40 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 20
+#BSUB -a openmpi
+#BSUB -u ptoulis@fas.harvard.edu
+#BSUB -J "MPITR8"
+#BSUB -e ./_dump/mpi-tr8.err
+#BSUB -o ./_dump/mpi-tr8.log
+#BSUB -q short_parallel
+
+mpirun.lsf perl main.pl
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :   5445.00 sec.
+    Max Memory :      3080 MB
+    Max Swap   :     17802 MB
+
+    Max Processes  :        62
+    Max Threads    :       342
+
+The output (if any) follows:
+
+
+[Searching for nicks silver,silver market,silver price,silver finance]
+[1304700872] Searching Google news for silver commodity
+[Input=TR8::Web=HASH(0x13ae9d90)#silver commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver commodity#1#5#4#5#4]
+[1304700881] Searching Google news for silver market commodity
+[Input=TR8::Web=HASH(0x13ae9d90)#silver market commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver market commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver market commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver market commodity#1#5#4#5#4]
+[1304700889] Searching Google news for silver price commodity
+[Input=TR8::Web=HASH(0x13ae9d90)#silver price commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver price commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver price commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver price commodity#1#5#4#5#4]
+[1304700897] Searching Google news for silver finance commodity
+[Input=TR8::Web=HASH(0x13ae9d90)#silver finance commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver finance commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver finance commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x13ae9d90)#silver finance commodity#1#5#4#5#4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.553500027017362 for word recovered
+
+Adding meaning = -0.2075798620344 for word losses
+
+Adding meaning = -0.760542438781424 for word falls
+
+
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.105238650062589 for word helps
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = -0.67860161232066 for word drop
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+Adding meaning = 0.673020522134411 for word doubled
+
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.1 for word corrected
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00014363610073626 for word gone
+
+
+Adding meaning = 0.0105136505779035 for word chart
+
+Adding meaning = -0.00336826858659701 for word say
+
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3949 entries..]
+
+
+Adding meaning = 0.553500027017362 for word recovered
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.000485281383174445 for word approached
+
+Adding meaning = 0.000485281383174445 for word neared
+
+Adding meaning = 0.122880101 for word stable
+
+Adding meaning = 0.467813977684979 for word extends
+
+Adding meaning = -0.874903392116663 for word slump
+
+
+Adding meaning = 0.210692825683854 for word good
+
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.0945066151183616 for word saw
+
+Adding meaning = 0.000762796334823248 for word open
+
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.252472050794401 for word rocket
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.00305056058584017 for word looked
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.823404663643913 for word hoarding
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.0045546962309743 for word lining
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.837011788021772 for word climb
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.01 for word revenue
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = 0.139725818449814 for word created
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.105989470697808 for word ready
+
+Adding meaning = -0.00708916360097887 for word remained
+
+Adding meaning = -0.302909455846937 for word lost
+
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0142383642529535 for word confiscate
+
+Adding meaning = 0.105136505779035 for word index
+
+Adding meaning = -0.0123314202275304 for word expected
+
+Adding meaning = 0.0045546962309743 for word lining
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.0045546962309743 for word lining
+
+
+
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+
+Adding meaning = 0.0142383642529535 for word confiscate
+
+Adding meaning = 0.105136505779035 for word index
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.00305056058584017 for word looking
+
+Adding meaning = 0.0345342815858834 for word hold
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.0131360940310537 for word comments
+
+Adding meaning = 0.0523832059542221 for word following
+
+
+Adding meaning = 0.00295391219359758 for word exchange
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.787811145372769 for word dropping
+
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -0.10235207052329 for word sold
+
+Adding meaning = 0.499579970875714 for word more
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0018816564186322 for word all
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.706149159581136 for word undervalued
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.00014363610073626 for word going
+[Dictionary Loaded. Has 3949 entries..]
+
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = -0.2075798620344 for word loss
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = 0.00353192045992457 for word posted
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.00118816564186322 for word page
+
+Adding meaning = -0.0105136505779035 for word price
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.252472050794401 for word rocket
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.00235207052329025 for word accounted
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.00235207052329025 for word accounted
+
+Adding meaning = 0.0018816564186322 for word production
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.0945066151183616 for word saw
+
+Adding meaning = 0.000762796334823248 for word open
+
+
+Adding meaning = 0.00295391219359758 for word exchange
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.00305056058584017 for word looking
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = -0.000123314202275304 for word expects
+
+Adding meaning = -0.0243866936245334 for word waits
+
+Adding meaning = 0.0150706264840437 for word holds
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0123499233645169 for word projections
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.00145794515450584 for word stocks
+
+Adding meaning = 0.00145794515450584 for word stocks
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = -0.0866169630618139 for word stole
+
+Adding meaning = -0.706149159581136 for word undervalued
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.00014363610073626 for word going
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = -0.200183361784264 for word missed
+
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.00353192045992457 for word posted
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.839198857982056 for word rallying
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.0845786638186395 for word perform
+
+Adding meaning = -0.104010365358956 for word reacting
+
+Adding meaning = 0.00152690214906399 for word come
+
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.0692825683853863 for word six
+
+Adding meaning = 0.0147687140391253 for word sent
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.918128677810011 for word gains
+
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0150195008255764 for word substitute
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = 0.0150195008255764 for word value
+
+Adding meaning = 0.00151279811602291 for word driven
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.108324552125999 for word steady
+
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.1262360253972 for word arguments
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = 0.000253735991455918 for word fate
+
+Adding meaning = -0.108816564186322 for word few
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.0315590063493001 for word thudding
+
+Adding meaning = -0.0170315014687365 for word entered
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.760542438781424 for word falls
+
+Adding meaning = -0.77504075287468 for word dropped
+
+Adding meaning = -0.77504075287468 for word dropped
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.00366554737284949 for word shares
+
+
+Adding meaning = -0.0102227431006544 for word flows
+
+Adding meaning = 3.31700045670705e-05 for word making
+
+Adding meaning = -0.10114594697991 for word retreat
+
+Adding meaning = 0.818816564186322 for word highs
+
+Adding meaning = -0.825681054778246 for word slipped
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.016830536522714 for word shoot
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.532996718958654 for word spike
+
+Adding meaning = -0.10235207052329 for word selling
+
+Adding meaning = 0.0910307497603417 for word lot
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = 0.00295391219359758 for word exchange
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+
+
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.037633128372644 for word comment
+
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.0150195008255764 for word substitute
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = 0.0150195008255764 for word value
+
+Adding meaning = 0.00151279811602291 for word driven
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.05 for word several
+
+Adding meaning = 0.102054446365469 for word held
+
+Adding meaning = 0.918128677810011 for word gains
+
+
+Adding meaning = 0.00159769478719591 for word came
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = -0.680812605619208 for word drops
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.0130219338554146 for word close
+
+Adding meaning = -0.105376161196092 for word shunning
+
+Adding meaning = 0.00518816564186322 for word players
+
+Adding meaning = -0.67860161232066 for word drop
+
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.037633128372644 for word comment
+
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+
+
+
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.1262360253972 for word arguments
+
+Adding meaning = 0.0546129212078024 for word trust
+
+Adding meaning = 0.102054446365469 for word held
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+[Dictionary Loaded. Has 3955 entries..]
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.837011788021772 for word climb
+
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = -0.0692825683853863 for word largest
+
+Adding meaning = 0.05 for word several
+
+Adding meaning = 0.102054446365469 for word held
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+
+
+Adding meaning = 0.173233926123628 for word hot
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.260973523493355 for word achieved
+
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.262412968157767 for word reaches
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.0112555016037692 for word place
+
+Adding meaning = 0.0310408489166481 for word hit
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0436455237386921 for word store
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+[Dictionary Loaded. Has 3957 entries..]
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.105136505779035 for word standard
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+Adding meaning = -0.315275933308542 for word weak
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.00481611871162537 for word related
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.0018816564186322 for word production
+
+Adding meaning = 0.0331700045670705 for word made
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.021158819434904 for word stay
+
+Adding meaning = 0.102054446365469 for word held
+[Dictionary Loaded. Has 3951 entries..]
+
+
+
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0344826183140906 for word snaps
+
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.262412968157767 for word reaches
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.0112555016037692 for word place
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = -0.67860161232066 for word drop
+
+Adding meaning = -0.0692825683853863 for word largest
+[Dictionary Loaded. Has 3959 entries..]
+
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+[Dictionary Loaded. Has 3958 entries..]
+
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0526044882117133 for word pack
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = -0.0171871847130531 for word had
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0131245358354329 for word couple
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.103148096619774 for word stockpiles
+
+Adding meaning = 0.000290863452428209 for word do
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.000147895555194732 for word go
+
+Adding meaning = -0.759757393536195 for word fall
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.0018816564186322 for word production
+
+Adding meaning = 0.0331700045670705 for word made
+[Dictionary Loaded. Has 3956 entries..]
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.021158819434904 for word stay
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.819956621563616 for word rallies
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+Adding meaning = 0.900842839149756 for word gained
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.10632 for word manipulating
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0526044882117133 for word pack
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.100513650577903 for word likely
+
+Adding meaning = 0.00590684729725402 for word continue
+
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.108816564186322 for word sell
+
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3956 entries..]
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.103148096619774 for word stockpiles
+
+Adding meaning = 0.000290863452428209 for word do
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.000147895555194732 for word go
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.499579970875714 for word more
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = -0.866914324313432 for word sank
+
+Adding meaning = -0.315517148584945 for word pared
+
+Adding meaning = -0.2075798620344 for word losses
+
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.0045546962309743 for word lining
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.10632 for word manipulating
+[Dictionary Loaded. Has 3959 entries..]
+
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.0108294701449728 for word expect
+
+
+Adding meaning = 0.839198857982056 for word rallied
+
+Adding meaning = 0.000445742090056821 for word moving
+
+Adding meaning = 0.00366554737284949 for word shares
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.000171871847130531 for word has
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.108816564186322 for word sell
+
+
+
+
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3961 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3961 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = -0.016830536522714 for word shot
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.0384080542046945 for word hits
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3961 entries..]
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+
+Adding meaning = 0.865874218030093 for word increased
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.191898570798118 for word featured
+
+Adding meaning = 0.00481611871162537 for word related
+
+
+Adding meaning = -0.759757393536195 for word fall
+
+[Dictionary Loaded. Has 3961 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.00305056058584017 for word looked
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.823404663643913 for word hoarding
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.1262360253972 for word probability
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.262412968157767 for word reaching
+
+Adding meaning = -0.000826073801486356 for word levels
+
+Adding meaning = 0.0544463654691422 for word holding
+
+
+
+Adding meaning = -0.0108294701449728 for word expect
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.18816564186322 for word fine
+
+Adding meaning = 0.553500027017362 for word recovered
+
+
+Adding meaning = -0.0117781936919767 for word attempt
+
+Adding meaning = -0.05578002698 for word vulnerable
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = 0.00327728586436004 for word result
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.138777257980092 for word stabilizes
+
+Adding meaning = 0.553500027017362 for word recovered
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = -0.0243866936245334 for word waiting
+
+
+Adding meaning = -0.0102227431006544 for word flows
+
+Adding meaning = 3.31700045670705e-05 for word making
+
+Adding meaning = -0.10114594697991 for word retreat
+
+Adding meaning = 0.818816564186322 for word highs
+
+Adding meaning = -0.825681054778246 for word slipped
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.662742236250106 for word high
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = -0.0315590063493001 for word thudding
+
+Adding meaning = -0.0170315014687365 for word entered
+
+Adding meaning = -0.0866169630618139 for word own
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = -0.016830536522714 for word shot
+
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.016830536522714 for word shoot
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.532996718958654 for word spike
+
+Adding meaning = -0.10235207052329 for word selling
+
+Adding meaning = 0.0910307497603417 for word lot
+
+Adding meaning = 0.0018816564186322 for word metal
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.0530442526980082 for word laden
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.954841903342541 for word sunk
+
+Adding meaning = 0.105834800131699 for word struggling
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = -0.1262360253972 for word kilograms
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = -0.0117781936919767 for word attempt
+
+Adding meaning = -0.05578002698 for word vulnerable
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = 0.00327728586436004 for word result
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.138777257980092 for word stabilizes
+
+Adding meaning = 0.553500027017362 for word recovered
+
+Adding meaning = -0.0530442526980082 for word laden
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = -0.1262360253972 for word kilograms
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.037633128372644 for word comment
+
+Adding meaning = 0.1 for word corrected
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00014363610073626 for word gone
+
+
+Adding meaning = -0.0117781936919767 for word attempt
+
+Adding meaning = -0.05578002698 for word vulnerable
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = 0.00327728586436004 for word result
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.138777257980092 for word stabilizes
+
+Adding meaning = 0.553500027017362 for word recovered
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0131245358354329 for word couple
+
+
+Adding meaning = -0.0530442526980082 for word laden
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.252472050794401 for word weekends
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.499579970875714 for word more
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0018816564186322 for word all
+
+[Dictionary Loaded. Has 3963 entries..]
+[Dictionary Loaded. Has 3958 entries..]
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0526044882117133 for word pack
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.100513650577903 for word likely
+
+Adding meaning = 0.00590684729725402 for word continue
+
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3963 entries..]
+
+Adding meaning = -0.1262360253972 for word kilograms
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+Adding meaning = -0.0117781936919767 for word attempt
+
+Adding meaning = -0.05578002698 for word vulnerable
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = -0.10752322392184 for word press
+
+Adding meaning = 0.00327728586436004 for word result
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.138777257980092 for word stabilizes
+
+Adding meaning = 0.553500027017362 for word recovered
+
+Adding meaning = -0.0530442526980082 for word laden
+
+Adding meaning = 0.948260452834241 for word rose
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = -0.1262360253972 for word kilograms
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.949728726261764 for word rising
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+Adding meaning = -0.75967148927311 for word fallen
+
+Adding meaning = -0.915019695293458 for word tumbled
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = 0.00198811727601935 for word bid
+
+Adding meaning = 0.0979871990521162 for word live
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.819956621563616 for word rallies
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+Adding meaning = 0.900842839149756 for word gained
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.0266905640830608 for word put
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.6450012381 for word appreciating
+
+Adding meaning = -0.0108294701449728 for word expect
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00855251781111611 for word bit
+
+Adding meaning = 0.037633128372644 for word comment
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.037633128372644 for word comment
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = 0.868051457581725 for word accumulating
+
+Adding meaning = -0.00060097298763494 for word get
+
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.00027690414477966 for word make
+[Dictionary Loaded. Has 3965 entries..]
+
+Adding meaning = 0.1 for word correct
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = -0.760542438781424 for word falls
+
+[Dictionary Loaded. Has 3966 entries..]
+[Dictionary Loaded. Has 3965 entries..]
+
+Adding meaning = 0.320372936208638 for word rebounds
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.203729362086376 for word rebounded
+
+Adding meaning = 0.05223 for word buy
+
+
+Adding meaning = 0.868051457581725 for word accumulating
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0045546962309743 for word lining
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = 0.0018816564186322 for word all
+
+Adding meaning = 0.0018816564186322 for word all
+
+Adding meaning = 0.102370539371261 for word encompasses
+
+Adding meaning = 0.13114833280259 for word out-perform
+
+Adding meaning = -0.00936719279895692 for word seek
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0436455237386921 for word store
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0384080542046945 for word hits
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00708916360097887 for word remained
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = 0.0384080542046945 for word hits
+
+Adding meaning = 0.191898570798118 for word featured
+
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = 0.00945066151183616 for word seeing
+
+
+Adding meaning = -0.315275933308542 for word weak
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = 0.868051457581725 for word accumulating
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = -0.104936740805883 for word breach
+
+Adding meaning = 0.021158819434904 for word stay
+
+Adding meaning = 0.437370474259131 for word profits
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.1262360253972 for word alert
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.100513650577903 for word likely
+
+Adding meaning = 0.000445742090056821 for word moving
+
+
+[Dictionary Loaded. Has 3967 entries..]
+[Dictionary Loaded. Has 3971 entries..]
+
+Adding meaning = -0.902761792817705 for word skidded
+
+Adding meaning = -0.108816564186322 for word pullback
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.000673603651389187 for word ended
+
+Adding meaning = -0.954449853394084 for word lower
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = -0.2075798620344 for word loss
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.0866169630618139 for word stole
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.0692825683853863 for word six
+
+Adding meaning = 0.0147687140391253 for word sent
+
+[Dictionary Loaded. Has 3964 entries..]
+
+[Dictionary Loaded. Has 3964 entries..]
+
+[Dictionary Loaded. Has 3964 entries..]
+
+Adding meaning = 0.05223 for word buy
+
+
+PS:
+
+Read file <./_dump/mpi-tr8.err> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@hero1004>
+Subject: Job 31985533: <MPITR8> Exited
+
+Job <MPITR8> was submitted from host <iliadaccess03> by user <ptoulis> in cluster <lsf-odyssey>.
+Job was executed on host(s) <8*hero1004>, in queue <short_parallel>, as user <ptoulis> in cluster <lsf-odyssey>.
+                            <8*hero2409>
+                            <4*hero2414>
+</n/home00/ptoulis> was used as the home directory.
+</n/home00/ptoulis/tr8_mpi> was used as the working directory.
+Started at Fri May  6 13:40:09 2011
+Results reported at Fri May  6 14:01:49 2011
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#BSUB -n 20
+#BSUB -a openmpi
+#BSUB -u ptoulis@fas.harvard.edu
+#BSUB -J "MPITR8"
+#BSUB -e ./_dump/mpi-tr8.err
+#BSUB -o ./_dump/mpi-tr8.log
+#BSUB -q short_parallel
+
+mpirun.lsf perl main.pl
+
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :   3774.00 sec.
+    Max Memory :      2907 MB
+    Max Swap   :     22296 MB
+
+    Max Processes  :        72
+    Max Threads    :       437
+
+The output (if any) follows:
+
+
+[Searching for nicks silver,silver market,silver price,silver finance]
+[1304703644] Searching Google news for silver commodity
+[Input=TR8::Web=HASH(0x93eec50)#silver commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x93eec50)#silver commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x93eec50)#silver commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x93eec50)#silver commodity#1#5#4#5#4]
+[1304703652] Searching Google news for silver market commodity
+[Input=TR8::Web=HASH(0x93eec50)#silver market commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x93eec50)#silver market commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x93eec50)#silver market commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x93eec50)#silver market commodity#1#5#4#5#4]
+[1304703660] Searching Google news for silver price commodity
+[Input=TR8::Web=HASH(0x93eec50)#silver price commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x93eec50)#silver price commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x93eec50)#silver price commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x93eec50)#silver price commodity#1#5#4#5#4]
+[1304703668] Searching Google news for silver finance commodity
+[Input=TR8::Web=HASH(0x93eec50)#silver finance commodity#1#5#4#5#1]
+[Input=TR8::Web=HASH(0x93eec50)#silver finance commodity#1#5#4#5#2]
+[Input=TR8::Web=HASH(0x93eec50)#silver finance commodity#1#5#4#5#3]
+[Input=TR8::Web=HASH(0x93eec50)#silver finance commodity#1#5#4#5#4]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+
+
+
+Adding meaning = -0.760542438781424 for word falls
+[Dictionary Loaded. Has 3948 entries..]
+
+
+
+Adding meaning = 0.662742236250106 for word high
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.1 for word corrected
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00014363610073626 for word gone
+
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0131245358354329 for word couple
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.105238650062589 for word helps
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3948 entries..]
+
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = -0.67860161232066 for word drop
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+Adding meaning = 0.673020522134411 for word doubled
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0526044882117133 for word pack
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.100513650577903 for word likely
+
+Adding meaning = 0.00590684729725402 for word continue
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = 0.139725818449814 for word created
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.467813977684979 for word extends
+
+Adding meaning = -0.874903392116663 for word slump
+
+
+Adding meaning = 0.000485281383174445 for word approached
+
+Adding meaning = 0.000485281383174445 for word neared
+
+Adding meaning = 0.122880101 for word stable
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.499579970875714 for word more
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.0123314202275304 for word expected
+
+Adding meaning = 0.01 for word revenue
+
+Adding meaning = -0.0518816564186322 for word sales
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.262412968157767 for word reached
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = 0.839198857982056 for word rallied
+
+Adding meaning = 0.000445742090056821 for word moving
+
+Adding meaning = 0.00366554737284949 for word shares
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.865874218030093 for word increased
+
+Adding meaning = 0.0045546962309743 for word lining
+
+
+Adding meaning = 0.252472050794401 for word rocket
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.5729910029751 for word contracts
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.837011788021772 for word climb
+
+
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.037633128372644 for word comment
+
+Adding meaning = 0.252472050794401 for word rocket
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.553500027017362 for word recovered
+
+
+Adding meaning = 0.1262360253972 for word probability
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.262412968157767 for word reaching
+
+Adding meaning = -0.000826073801486356 for word levels
+
+Adding meaning = 0.0544463654691422 for word holding
+
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.00235207052329025 for word accounted
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.00235207052329025 for word accounted
+
+Adding meaning = 0.0018816564186322 for word production
+
+
+Adding meaning = -0.302909455846937 for word lost
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0045546962309743 for word lining
+
+
+Adding meaning = 0.553500027017362 for word recovered
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.00305056058584017 for word looked
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.823404663643913 for word hoarding
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.759757393536195 for word fall
+[Dictionary Loaded. Has 3950 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.00249541865729177 for word states
+
+[Dictionary Loaded. Has 3950 entries..]
+
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+
+Adding meaning = 0.0344826183140906 for word snaps
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.787811145372769 for word dropping
+[Dictionary Loaded. Has 3950 entries..]
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+
+Adding meaning = 0.0945066151183616 for word seen
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.105989470697808 for word ready
+
+Adding meaning = -0.00708916360097887 for word remained
+
+Adding meaning = -0.302909455846937 for word lost
+
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = -0.629937047143243 for word fell
+
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+
+
+Adding meaning = 0.538636141518022 for word led
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0526044882117133 for word pack
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = 0.945551919541407 for word rise
+
+Adding meaning = -0.0171871847130531 for word had
+
+[Dictionary Loaded. Has 3948 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.0945066151183616 for word saw
+
+Adding meaning = 0.000762796334823248 for word open
+
+
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.819956621563616 for word rallies
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+Adding meaning = 0.900842839149756 for word gained
+
+[Dictionary Loaded. Has 3948 entries..]
+
+Adding meaning = -0.0243866936245334 for word waiting
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = 0.00295391219359758 for word exchange
+
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.0120013878565857 for word prompted
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+[Dictionary Loaded. Has 3951 entries..]
+
+
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+Adding meaning = -0.760542438781424 for word falls
+[Dictionary Loaded. Has 3949 entries..]
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.00945066151183616 for word seeing
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word priced
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.0018816564186322 for word one
+
+Adding meaning = 0.819956621563616 for word rallies
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+Adding meaning = 0.900842839149756 for word gained
+
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = -0.016830536522714 for word shot
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3949 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+
+Adding meaning = 0.0018816564186322 for word entire
+
+Adding meaning = 0.00118816564186322 for word page
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+
+Adding meaning = 0.00295391219359758 for word exchange
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.1262360253972 for word alert
+
+
+[Dictionary Loaded. Has 3949 entries..]
+[Dictionary Loaded. Has 3951 entries..]
+
+
+Adding meaning = -0.706149159581136 for word undervalued
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.00014363610073626 for word going
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = 0.00198811727601935 for word bid
+
+Adding meaning = 0.0979871990521162 for word live
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.760542438781424 for word falls
+
+Adding meaning = -0.77504075287468 for word dropped
+
+Adding meaning = -0.77504075287468 for word dropped
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0384080542046945 for word hits
+
+Adding meaning = 0.191898570798118 for word featured
+
+
+Adding meaning = 0.00617331063699962 for word continues
+
+Adding meaning = -0.10235207052329 for word sold
+
+Adding meaning = 0.499579970875714 for word more
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0018816564186322 for word all
+
+
+Adding meaning = 0.00353192045992457 for word posted
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.00159769478719591 for word came
+[Dictionary Loaded. Has 3953 entries..]
+
+[Dictionary Loaded. Has 3952 entries..]
+
+
+
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.902761792817705 for word skidded
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.0315590063493001 for word thudding
+
+Adding meaning = -0.0170315014687365 for word entered
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = 0.0150195008255764 for word substitute
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = -0.00450585024767293 for word demand
+
+Adding meaning = 0.0150195008255764 for word value
+
+Adding meaning = 0.00151279811602291 for word driven
+[Dictionary Loaded. Has 3953 entries..]
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.983763312837264 for word skyrocketed
+
+Adding meaning = 0.0281881656418632 for word long-term
+
+Adding meaning = -0.0866169630618139 for word own
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.0945066151183616 for word seen
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = -0.0105136505779035 for word price
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = -0.00249541865729177 for word states
+
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.00027690414477966 for word make
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = -0.2075798620344 for word loss
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.016830536522714 for word shoot
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.532996718958654 for word spike
+
+Adding meaning = -0.10235207052329 for word selling
+
+Adding meaning = 0.0910307497603417 for word lot
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = 0.839198857982056 for word rallying
+
+Adding meaning = 0.226689 for word strong
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.0845786638186395 for word perform
+
+Adding meaning = -0.104010365358956 for word reacting
+
+Adding meaning = 0.00152690214906399 for word come
+
+[Dictionary Loaded. Has 3951 entries..]
+
+Adding meaning = 0.1262360253972 for word arguments
+
+Adding meaning = 0.0546129212078024 for word trust
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.00234660295634467 for word doing
+
+
+Adding meaning = -0.902761792817705 for word skidded
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.0546129212078024 for word trust
+
+Adding meaning = -0.016830536522714 for word shot
+
+
+Adding meaning = 0.00366554737284949 for word shares
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.1 for word correct
+
+Adding meaning = 0.00590684729725402 for word continue
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.0131360940310537 for word comments
+
+Adding meaning = 0.0523832059542221 for word following
+
+
+Adding meaning = 0.0130219338554146 for word close
+
+Adding meaning = -0.105376161196092 for word shunning
+
+Adding meaning = 0.00518816564186322 for word players
+
+Adding meaning = -0.67860161232066 for word drop
+
+[Dictionary Loaded. Has 3951 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.05 for word several
+
+Adding meaning = 0.102054446365469 for word held
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.231078942046484 for word suffered
+
+Adding meaning = -0.2075798620344 for word loss
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.954841903342541 for word sunk
+
+Adding meaning = 0.105834800131699 for word struggling
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+[Dictionary Loaded. Has 3952 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3950 entries..]
+
+Adding meaning = -0.0866169630618139 for word stole
+
+Adding meaning = 0.108324552125999 for word steady
+
+
+Adding meaning = -0.5729910029751 for word contracts
+
+
+Adding meaning = 0.0546129212078024 for word trust
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.0142383642529535 for word confiscate
+
+Adding meaning = 0.105136505779035 for word index
+
+Adding meaning = 0.102054446365469 for word held
+[Dictionary Loaded. Has 3953 entries..]
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.918128677810011 for word gains
+
+Adding meaning = 0.0105136505779035 for word chart
+
+Adding meaning = -0.00336826858659701 for word say
+
+
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00445742090056821 for word moved
+
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.0945066151183616 for word saw
+
+Adding meaning = 0.000762796334823248 for word open
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = 0.0018816564186322 for word all
+
+Adding meaning = 0.0018816564186322 for word all
+
+Adding meaning = 0.102370539371261 for word encompasses
+
+Adding meaning = 0.13114833280259 for word out-perform
+
+Adding meaning = -0.00936719279895692 for word seek
+[Dictionary Loaded. Has 3952 entries..]
+
+Adding meaning = -0.0692825683853863 for word largest
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.0546129212078024 for word trusts
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = -0.706149159581136 for word undervalued
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.00720982085260895 for word see
+
+Adding meaning = 0.00014363610073626 for word going
+
+Adding meaning = 0.262412968157767 for word reaches
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.0112555016037692 for word place
+
+Adding meaning = 0.0310408489166481 for word hit
+[Dictionary Loaded. Has 3953 entries..]
+
+Adding meaning = 0.00198811727601935 for word bid
+
+Adding meaning = -0.680812605619208 for word drops
+
+Adding meaning = 0.0945066151183616 for word saw
+
+Adding meaning = 0.000762796334823248 for word open
+
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.0546129212078024 for word trust
+
+Adding meaning = -0.0866169630618139 for word stole
+[Dictionary Loaded. Has 3954 entries..]
+
+Adding meaning = 0.00353192045992457 for word posted
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.00305056058584017 for word looking
+
+Adding meaning = 0.0345342815858834 for word hold
+
+Adding meaning = 0.0692825683853863 for word six
+
+Adding meaning = -0.5729910029751 for word contracts
+
+Adding meaning = 0.0147687140391253 for word sent
+[Dictionary Loaded. Has 3953 entries..]
+
+
+
+Adding meaning = -0.629937047143243 for word fell
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0281881656418632 for word long-term
+
+Adding meaning = 0.304959051493344 for word headed
+
+Adding meaning = 0.000350900523532419 for word arrived
+[Dictionary Loaded. Has 3957 entries..]
+
+[Dictionary Loaded. Has 3957 entries..]
+
+
+Adding meaning = 0.252472050794401 for word weekends
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.499579970875714 for word more
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = 0.0018816564186322 for word all
+
+
+
+
+
+Adding meaning = 0.0692825683853863 for word six
+
+Adding meaning = 0.0147687140391253 for word sent
+
+
+Adding meaning = -0.00708916360097887 for word remained
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = 0.0384080542046945 for word hits
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3955 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.000572440058339104 for word are
+
+Adding meaning = -0.051233142022753 for word expensive
+[Dictionary Loaded. Has 3956 entries..]
+[Dictionary Loaded. Has 3957 entries..]
+[Dictionary Loaded. Has 3954 entries..]
+
+[Dictionary Loaded. Has 3957 entries..]
+[Dictionary Loaded. Has 3957 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0131245358354329 for word couple
+
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.948260452834241 for word rose
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.0018816564186322 for word production
+
+Adding meaning = 0.0331700045670705 for word made
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.021158819434904 for word stay
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.037633128372644 for word comment
+
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3954 entries..]
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0018816564186322 for word metal
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.000207746146482022 for word have
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.262927937229044 for word reach
+
+Adding meaning = 0.00305056058584017 for word looked
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.823404663643913 for word hoarding
+
+Adding meaning = 0.00387964948710025 for word coins
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.191898570798118 for word featured
+
+Adding meaning = -0.315275933308542 for word weak
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.18816564186322 for word fine
+
+Adding meaning = 0.321311483328026 for word outperformed
+
+Adding meaning = 0.00231738609397556 for word class
+
+Adding meaning = 0.819956621563616 for word rally
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.71248777547445 for word accelerated
+
+Adding meaning = 0.103148096619774 for word stockpiles
+
+Adding meaning = 0.000290863452428209 for word do
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.499793123888296 for word less
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = 0.000147895555194732 for word go
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = -0.108816564186322 for word pullback
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.000673603651389187 for word ended
+
+Adding meaning = -0.954449853394084 for word lower
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.10632 for word manipulating
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0436455237386921 for word store
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = -0.909502515881609 for word plunge
+
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.0315590063493001 for word thudding
+
+Adding meaning = -0.0170315014687365 for word entered
+[Dictionary Loaded. Has 3955 entries..]
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.210692825683854 for word good
+
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.000171871847130531 for word has
+
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.108816564186322 for word sell
+
+Adding meaning = -0.0866169630618139 for word own
+
+Adding meaning = -0.01262360253972 for word short
+
+Adding meaning = -0.016830536522714 for word shoot
+
+Adding meaning = 0.00027690414477966 for word make
+
+Adding meaning = 0.1 for word correction
+
+Adding meaning = 0.532996718958654 for word spike
+
+Adding meaning = -0.10235207052329 for word selling
+
+Adding meaning = 0.0910307497603417 for word lot
+
+Adding meaning = 0.0018816564186322 for word metal
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.644026032927784 for word higher
+
+Adding meaning = 0.308089292047487 for word bars
+
+
+Adding meaning = 0.260973523493355 for word achieved
+
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.803432054368681 for word run-up
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.1262360253972 for word pan
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.173233926123628 for word hot
+
+
+Adding meaning = 0.918128677810011 for word gains
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = 0.0494875488467045 for word introducing
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.0195805408417511 for word based
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = -0.058816564186322 for word late
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = -0.787811145372769 for word dropping
+
+Adding meaning = 0.0131245358354329 for word couple
+
+
+
+Adding meaning = -0.104936740805883 for word breach
+
+Adding meaning = 0.021158819434904 for word stay
+
+Adding meaning = 0.437370474259131 for word profits
+
+Adding meaning = -0.108816564186322 for word sell
+[Dictionary Loaded. Has 3965 entries..]
+
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.100513650577903 for word likely
+
+Adding meaning = 0.000445742090056821 for word moving
+[Dictionary Loaded. Has 3965 entries..]
+
+[Dictionary Loaded. Has 3965 entries..]
+
+Adding meaning = 0.262412968157767 for word reaches
+
+Adding meaning = 0.662742236250106 for word high
+
+Adding meaning = 0.00118617919879803 for word set
+
+Adding meaning = 0.0112555016037692 for word place
+
+Adding meaning = 0.0310408489166481 for word hit
+
+Adding meaning = 0.173233926123628 for word greatest
+
+Adding meaning = 0.0310408489166481 for word hit
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3958 entries..]
+[Dictionary Loaded. Has 3957 entries..]
+
+Adding meaning = 0.1262360253972 for word pan
+
+Adding meaning = 0.0546129212078024 for word trust
+
+Adding meaning = 0.210692825683854 for word good
+
+Adding meaning = -0.0112 for word staged
+
+Adding meaning = 0.666157690834872 for word advance
+
+Adding meaning = 0.00194790337568204 for word registered
+
+Adding meaning = -0.0105136505779035 for word price
+
+
+Adding meaning = -0.0108294701449728 for word expect
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = -0.00121027301155807 for word prices
+
+Adding meaning = 0.00780366605786838 for word opened
+
+Adding meaning = 0.000673603651389187 for word ended
+
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3958 entries..]
+
+Adding meaning = -0.18816564186322 for word dead
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+[Dictionary Loaded. Has 3959 entries..]
+
+
+Adding meaning = 0.0389634722402656 for word retreated
+[Dictionary Loaded. Has 3959 entries..]
+
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = -0.0102227431006544 for word flows
+
+Adding meaning = 3.31700045670705e-05 for word making
+
+Adding meaning = -0.10114594697991 for word retreat
+
+Adding meaning = 0.818816564186322 for word highs
+
+Adding meaning = -0.825681054778246 for word slipped
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+[Dictionary Loaded. Has 3958 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.0045546962309743 for word lining
+
+Adding meaning = 0.145010406675127 for word demonstrating
+
+Adding meaning = 0.837011788021772 for word climb
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = 0.0845786638186395 for word performers
+
+Adding meaning = -0.00121027301155807 for word prices
+[Dictionary Loaded. Has 3965 entries..]
+
+[Dictionary Loaded. Has 3965 entries..]
+
+Adding meaning = -0.0108294701449728 for word expect
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.0436455237386921 for word store
+
+Adding meaning = 0.0045546962309743 for word lining
+
+
+
+Adding meaning = -0.0171871847130531 for word had
+
+Adding meaning = 0.0018816564186322 for word currency
+
+Adding meaning = -0.000171871847130531 for word has
+
+Adding meaning = 0.252472050794401 for word corner
+
+Adding meaning = -0.0105136505779035 for word price
+
+Adding meaning = 0.037633128372644 for word comment
+
+[Dictionary Loaded. Has 3966 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3960 entries..]
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = -0.00121027301155807 for word prices
+
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+Adding meaning = 0.173233926123628 for word hot
+
+Adding meaning = 0.0042024182299594 for word play
+
+
+Adding meaning = 0.0389634722402656 for word retreated
+
+
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = -0.868829362205601 for word plunged
+
+Adding meaning = -0.67860161232066 for word drop
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3964 entries..]
+
+Adding meaning = 0.1 for word corrected
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00014363610073626 for word gone
+
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+
+Adding meaning = -0.00121027301155807 for word prices
+
+[Dictionary Loaded. Has 3966 entries..]
+[Dictionary Loaded. Has 3964 entries..]
+
+Adding meaning = 0.05223 for word buy
+
+Adding meaning = 0.827698213892882 for word climbed
+
+Adding meaning = -0.302909455846937 for word lost
+
+Adding meaning = 0.0546129212078024 for word trust
+
+
+
+Adding meaning = -0.267342549410347 for word crash
+
+Adding meaning = 0.750031545055792 for word highlights
+[Dictionary Loaded. Has 3964 entries..]
+
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3966 entries..]
+
+
+
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3966 entries..]
+
+[Dictionary Loaded. Has 3966 entries..]
+
+
+[Dictionary Loaded. Has 3964 entries..]
+[Dictionary Loaded. Has 3962 entries..]
+[Dictionary Loaded. Has 3959 entries..]
+[Dictionary Loaded. Has 3966 entries..]
+
+Adding meaning = -0.0102227431006544 for word flows
+
+Adding meaning = 3.31700045670705e-05 for word making
+
+Adding meaning = -0.10114594697991 for word retreat
+
+Adding meaning = 0.818816564186322 for word highs
+
+Adding meaning = -0.825681054778246 for word slipped
+
+Adding meaning = 0.00503358166192814 for word net
+
+Adding meaning = 0.102537359914559 for word long
+
+
+Adding meaning = -0.0105136505779035 for word price
+[Dictionary Loaded. Has 3962 entries..]
+
+Adding meaning = -0.0243866936245334 for word waiting
+
+
+Adding meaning = 0.00481611871162537 for word related
+
+Adding meaning = 0.949728726261764 for word rising
+
+Adding meaning = 0.037633128372644 for word comment
+[Dictionary Loaded. Has 3962 entries..]
+
+Adding meaning = 0.868051457581725 for word accumulating
+
+Adding meaning = -0.00060097298763494 for word get
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+Adding meaning = -0.75967148927311 for word fallen
+
+Adding meaning = -0.915019695293458 for word tumbled
+
+Adding meaning = 0.0266905640830608 for word put
+
+Adding meaning = -0.759757393536195 for word fall
+
+Adding meaning = 0.6450012381 for word appreciating
+
+Adding meaning = -0.0108294701449728 for word expect
+
+Adding meaning = 0.00445742090056821 for word moved
+
+Adding meaning = 0.00855251781111611 for word bit
+
+[Dictionary Loaded. Has 3959 entries..]
+
+
+PS:
+
+Read file <./_dump/mpi-tr8.err> for stderr output of this job.
+

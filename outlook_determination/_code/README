@@ -1,0 +1,14 @@
+------------------------
+  CS264 Final Project
+-------------------------
+
+The "tr8_mpi.zip" contains the code for parsing news links.
+It is self contained and it can be used for actual testing.
+
+The "meaning-functions-*.zip" file is the process of obtaining the dictionary
+of word-meaning values we obtained. It can be run in order to replicate our own results.
+
+Both archives have individual README files. 
+
+May 8, Cambridge
+Panos Toulis, Ted An.
