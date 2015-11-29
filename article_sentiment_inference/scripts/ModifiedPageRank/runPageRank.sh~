@@ -1,0 +1,64 @@
+#!/bin/bash
+
+python PageRank.py < finalGraph.txt > OutputFile1.txt
+python PageRank.py < OutputFile1.txt > OutputFile2.txt
+python PageRank.py < OutputFile2.txt > OutputFile3.txt
+python PageRank.py < OutputFile3.txt > OutputFile4.txt
+python PageRank.py < OutputFile4.txt > OutputFile5.txt
+python PageRank.py < OutputFile5.txt > OutputFile6.txt
+python PageRank.py < OutputFile6.txt > OutputFile7.txt
+python PageRank.py < OutputFile7.txt > OutputFile8.txt
+python PageRank.py < OutputFile8.txt > OutputFile9.txt
+python PageRank.py < OutputFile9.txt > OutputFile10.txt
+python PageRank.py < OutputFile10.txt > OutputFile11.txt
+python PageRank.py < OutputFile11.txt > OutputFile12.txt
+python PageRank.py < OutputFile12.txt > OutputFile13.txt
+python PageRank.py < OutputFile13.txt > OutputFile14.txt
+python PageRank.py < OutputFile14.txt > OutputFile15.txt
+python PageRank.py < OutputFile15.txt > OutputFile16.txt
+python PageRank.py < OutputFile16.txt > OutputFile17.txt
+python PageRank.py < OutputFile17.txt > OutputFile18.txt
+python PageRank.py < OutputFile18.txt > OutputFile19.txt
+python PageRank.py < OutputFile19.txt > OutputFile20.txt
+python PageRank.py < OutputFile20.txt > OutputFile21.txt
+python PageRank.py < OutputFile21.txt > OutputFile22.txt
+python PageRank.py < OutputFile22.txt > OutputFile23.txt
+python PageRank.py < OutputFile23.txt > OutputFile24.txt
+python PageRank.py < OutputFile24.txt > OutputFile25.txt
+python PageRank.py < OutputFile25.txt > OutputFile26.txt
+python PageRank.py < OutputFile26.txt > OutputFile27.txt
+python PageRank.py < OutputFile27.txt > OutputFile28.txt
+python PageRank.py < OutputFile28.txt > OutputFile29.txt
+python PageRank.py < OutputFile29.txt > FinalOutputFile.txt
+
+rm OutputFile1.txt
+rm OutputFile2.txt
+rm OutputFile3.txt
+rm OutputFile4.txt
+rm OutputFile5.txt
+rm OutputFile6.txt
+rm OutputFile7.txt
+rm OutputFile8.txt
+rm OutputFile9.txt
+rm OutputFile10.txt
+rm OutputFile11.txt
+rm OutputFile12.txt
+rm OutputFile13.txt
+rm OutputFile14.txt
+rm OutputFile15.txt
+rm OutputFile16.txt
+rm OutputFile17.txt
+rm OutputFile18.txt
+rm OutputFile19.txt
+rm OutputFile20.txt
+rm OutputFile21.txt
+rm OutputFile22.txt
+rm OutputFile23.txt
+rm OutputFile24.txt
+rm OutputFile25.txt
+rm OutputFile26.txt
+rm OutputFile27.txt
+rm OutputFile28.txt
+rm OutputFile29.txt
+
+python SortOutput.py

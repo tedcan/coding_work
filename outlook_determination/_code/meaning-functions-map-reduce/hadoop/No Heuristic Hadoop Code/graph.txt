@@ -1,0 +1,1355 @@
+cope	grapple,act,make do,make out,deal,move,manage,get by,contend
+recommend	advocate,urge,commend,praise,advise,propose,change,suggest,alter,modify
+plummet	plump,drop
+bully	sweet-talk,blarney,strong-arm,intimidate,coax,swagger,push around,ballyrag,inveigle,cajole,hector,boss around,browbeat,palaver,wheedle,bullyrag
+issue	go forth,bare,supply,intercommunicate,emerge,write,make out,cut,come forth,communicate,bring out,publicise,egress,distribute,release,come out,publish,put out,write out,publicize,air
+email	e-mail,netmail,telecommunicate
+aid	assist^,meliorate,better,support,back up,ameliorate,help,improve,amend
+repatriate	intromit,admit,deliver,let in,extradite,deport,allow in
+calm	soothe,calm down,steady,still,quieten,lull,turn,cool it,tranquillise,bestabilize,quiet,simmer down,solace,sedate,affect,console,tranquillize,change state,comfort,cool off,settle down,chill out,stabilise,tranquilize
+proportion	adjust,harmonize,correct,set,harmonise
+debase	debauch,adulterate,demoralise,subvert,demoralize,spoil,corrupt,profane,dilute,pervert,stretch,change,deprave,devalue*,alloy,alter,misdirect,vitiate,modify
+load	lade,put,pose,charge,laden,position,make full,fill,fill up,set,lay,load up,place
+serve	ply,aid,deliver,supply,foster,spend,attend to,nurture,pass,serve well,provide,serve up,copulate,run,attend,operate,answer,go,dish,move,effectuate,do work,mate,function,do,fulfil,effect,work,couple,wait on,assist^,pair,service,process,set up,satisfy,suffice,dish out,cater,live up to,help,swear out,fulfill,dish up
+cable	telegraph,fix,secure,wire,telecommunicate,fasten
+light	devolve,a perch,go down,come down,get off,descend,pass,land,set down,burn,illumine,light up,get down,ignite,unhorse,fall,dismount,fire up,illuminate,combust,illume,lighten up,lighten,return
+prompt	cue,have,induce,inform,inspire^,cause,get,incite,make,move,motivate,do,propel,actuate,instigate,remind,stimulate
+rally	pull in,drum up,tantalize,rebound^,twit,bait,ride,pull together,bemock,collect,cod,muster up,tease,garner,summon,beat up,recuperate,recover^,send for,mobilize,razz,go back,come up,call up,mock,rag,tantalise,call,muster,taunt,gather,mobilise
+captain	lead,head
+happen	befall,hap,go on,bechance,pass,encounter,pass off,materialize,find,come about,occur,materialise,fall out,take place,bump,chance
+compile	put in,hive away,hoard,collect,accumulate,make,store,pile up,lay in,amass,stash away,salt away,stack away,roll up,compose
+trust	give,expect,commit,wish,hope,pass,believe,countenance,desire,allow,turn over,bank,sell,let,swear,permit,pass on,reach,en in confide,anticipate,hand,rely
+heel	tilt,trip the light fantastic,dance,furbish up,follow,doctor,restore^,fix,hit,tip,list,bushel,touch on,angle,lean,trip the light fantastic toe,slant,travel along,rerepair,mend
+rule	decree,pronounce,predominate,make up one's mind,harness,command,draw,attach to,reign,restrict,limit,come with,control,restrain,confine,govern,trammel,bound,accompany,find,dominate,judge,prevail,decide,rein,go with,throttle,label,determine
+hem	emit,utter,let out,let loose,run up,sew together,stitch,sew
+still	soothe,subdue,silence,calm,calm down,curb,quieten,lull,tranquillise,relieve,conquer,stamp down,quiet,allay,shut up,solace,change,console,tranquillize,suppress,ease,comfort,alter,hush up,hush,tranquilize,modify,inhibit
+wind	wrap,wander,get up,hoist,meander,curve,twist,enlace,thread,weave,go,twine,move,displace,travel,bring up,wind up,lift,tighten,roll,wreathe,intertwine,raise,entwine,be,elevate,lace,interlace,fasten,smell,scent,nose,locomote
+cover	see,conceal,see to it,wrap,extend,enclose,hide,get over,touch,pass,envelop,plow,inform,endow,deputize,even out,encompass,substitute,cut across,pass over,get across,step in,address,correct,apparel,assure,go across,overlay,copulate,treat,include,deal,make up,check,procreate,control,cut through,embrace,broach,enfold,warrant,track,empower^,even up,guarantee,cover up,go through,deputise,spread over,adjoin,reproduce,garment,wrap up,enwrap,gift,handle,dress,mate,meet,protect,overcompensate,fulfil,invest,ascertain,brood,habilitate,couple,underwrite,raiment,incubate,traverse,breed,ensure,cross,multiply,garb,pair,shroud,insure,even off,enshroud,report,comprehend,initiate,endue,be,counterbalance,continue,enclothe,clothe,satisfy,contact,fit out,live up to,compensate,tog,fulfill,play,hatch,indue
+accelerate	qualify,deepen,speed,modify,intensify,quicken,speed up
+will	give,wish,make up one's mind,gift,leave,decide,bequeath,ordain,determine,present
+contribute	give,put up,chip in,lead,pay,boost,kick in,add,conduce,further,encourage,bestow,change,impart,alter,promote^,advance,lend,bring,modify
+interview	discourse,converse,question
+buoy	buoy up,float,hold up,sustain,hold,support,mark,swim
+reduce	subdue,contract,trim,come down,shrink,slenderize,divide,put down,part,simplify,scale down,cut down,trim down,substitute,shorten,turn,abridge,relegate,demote,quash,take down,replace,subjugate,cut back,impoverish,diminish,melt off,restrict,cut,reposition,limit,restrain,dilute,weaken,slim,thin out,confine,break,crush,trammel,repress,change,minify,lessen,trim back,bound,foreshorten,oppress,change state,lose weight,fall,keep down,degrade,kick downstairs,suppress,boil down,tighten,deoxidise,bring down,disgrace,separate,throttle,slim down,deoxidize,decrease,thin,demean,bump,decoct,concentrate,abbreviate,become
+unite^	have,get together,feature,fall in,combine,link up,unify,integrate,change,join,alter,merge,modify,connect,link
+seal	track down,shut,make up one's mind,coat,affix,stick on,hunt down,varnish,run,close,fill up,decide,surface,hunt,determine,seal off
+access	reach,recover^,hit,find,arrive at,make,gain,attain,get at,retrieve,regain
+part	go forth,break up,go away,divide,de start,set off,split,take off,set out,move,displace,break,change,leave,set forth,start out,separate,split up,disunite
+firm	tauten,tighten,fasten
+compound	amalgamate,assemble,tack together,piece,commix,combine,add,unify,put together,deepen,account,calculate,mingle,set up,intensify,heighten,increase,mix,tack
+board	ply,dwell,habituate,go into,supply,inhabit,get in,get into,provide,live,come in,enter,room,cater,get on,use,move into,go in
+can	keep,preserve,put up,send away,dismiss,remove,give the axe,force out,sack,fire,tin,give the sack,terminate,give notice
+rescue	save,deliver,take,bring through,pull through,carry through
+land	come,shore,convey,deliver,shoot down,put down,land,set ashore,set down,arrive,get,drive home,take,change,bring down,alter,down,bring,modify
+flight	adorn,fly,beautify,ornament,decorate,embellish,grace,pip,shoot,wing,fledge
+bless	evoke,gesticulate,sign,bestow,bring up,call down,put forward,conjure,stir,conjure up,arouse,gesture,motion,call forth,confer,consecrate,hallow,raise,declare,sanctify,invoke
+average	compute,accomplish,come,add up,total,calculate,reckon,achieve,figure,reach,number,work out,cipher,average out,cypher,attain,amount
+aggravate	alter,change,worsen*,exasperate,modify,anger,exacerbate
+wait	hold off,expect,act,hold back,a waitress,move,work,look
+settle	come,put,fix up,go down,pose,reconcile,concord,come down,halt,nail down,descend,finalise,consent,locate,go for,hold,take root,position,make up,get,accept,go,steady down,fight,square off,subside,get back,go under,change,stabilize,agree,adjudicate,sink,fall,root,set,decide,resolve,struggle,conclude,settle down,lay,patch up,end,square up,contend,set up,stabilise,place,terminate,develop,build up,concur,arrange,stop,ensconce,determine,become,conciliate,finalize
+readjust	adjust,conform,correct,adapt,readapt,set,reset
+protract	extend,prolong,draw out,lengthen
+inspire^	prompt,respire,stir,have,induce,urge,urge on,enliven,animate,cause,breathe,invigorate,get,make,encourage,barrack,breathe in,pep up,revolutionise,inhale,shake,shake up,take a breath,occasion,suspire,indoctrinate,exhort,revolutionize,cheer,instigate,exalt,excite,stimulate
+arrest	attract,pull in,seize,collar,clutch,turn back,contain,pick up,hold,pull,halt,cop,nail,apprehend,draw in,prehend,check,get,nab,draw,defend,stop,hold back,catch
+favor	see,save,view,reckon,spare,favour,countenance,allow,kick upstairs,consider,prefer,regard,let,upgrade,permit,raise,promote^,privilege,advance,elevate
+network	intercommunicate,communicate
+experiment	look into,try out,investigate
+fluctuate	swing,turn,move,displace,change state,vacillate,waver
+claw	scrape,attack,round,seize,scratch up,make,assault,snipe,lash out,assail,prehend,work,clutch,scratch
+retail	sell
+cause	have,induce,get,make,do,create,stimulate
+address	speak,come,intercommunicate,target,turn to,align,accost,initiate,handle,adjust,come up,label,direct,treat,utilize,place,deal,apply,cover,use,aline,utilise,call,broach,come up to,access,employ,plow,aim,line up,point,communicate
+shanghai	abduct,impress,snatch,kidnap,nobble
+refer	mention,advert,assort,name,touch,consult,sort,classify,come to,relate,look up,intend,think of,mean,have in mind,bring up,sort out,touch on,bear on,concern,separate,class,direct,send,research,cite,denote,pertain
+crop	give,trim,clip,snip,fix,cut back,ready,cut,prune,cultivate,thin out,lop,dress,eat,range,pasture,set,prepare,work,graze,gear up,bear,set up,browse,turn out,feed
+complicate*	rarify,elaborate,refine,change,alter,perplex,modify
+brace	affect,stabilize,steady,arouse,set,prepare,poise,energise,strengthen,fortify,hold up,gear up,beef up,fix,sustain,hold,ready,set up,support,stabilise,perk up,energize,stimulate
+chip	form,break off,knap,break away,divide,part,nick,forge,cut,chip off,cut off,mold,come off,mould,work,shoot,separate,shape
+thank	convey,impart,give thanks
+inch	go on,progress,move on,pass on,march on,advance,edge
+nosedive	plunge,dive,plunk
+intervene	hap,go on,happen,interpose,lie,pass,pass off,step in,interfere,interact,come about,occur,fall out,take place
+fair	bring together,join
+trigger	touch off,activate,trigger off,set off,spark,trigger,trip,pioneer,actuate,spark off,initiate
+sweep	wield,extend,swing out,sweep up,cover,drag in,swing,pass over,embroil,make clean,broom,move,drag,handle,span,tangle,traverse,cross,win,wipe,clean,continue,brush,sail,involve
+project	see,plan,jut out,create mentally,visualise,visualize,assign,figure,externalize,imagine,throw,draw,fancy,image,intercommunicate,transmit,cast,impute,communicate,attribute,propose,channelize,cause to be perceived,transport,send off,ideate,channel,design,transfer,propel,jut,envisage,ascribe,channelise,show,impel,contrive,stick out,direct,send,envision,conceive of,create by mental act,externalise,picture,protrude
+whipsaw	chisel,rip off,cheat,saw
+estimate	figure,evaluate,approximate,reckon,cipher,count on,work out,judge,compute,calculate,forecast,cypher,pass judgment,guess,gauge
+outbid	bid,offer,tender,call
+share	partake,utilise,intercommunicate,partake in,hand out,portion out,give out,utilize,apportion,deal,get,communicate,divvy up,pass out,distribute,overlap,employ,acquire,apply,use
+flounder	fight,stagger,walk,struggle
+burnish	shine,smooth,furbish,flush,polish,smoothen,buff
+surrender	give,deliver,give up,yield,cede,gift,relinquish,present
+dent	deform,bend,turn,twist,in flex
+weigh	count,press,weigh,consider,matter,librate,be,quantify,measure
+avoid	head off,forestall,avert^,abstain,quash,obviate,invalidate,fend off,strike down,cancel,preclude,stave off,void,deflect,refrain,debar,annul,forbid,prevent,foreclose,nullify,ward off,keep off,desist
+tussle	disarrange,fight,scuffle,struggle,muss,contend
+empower^	authorize,authorise,enable,endow,charge,appoint,gift,invest,endue,indue
+note	mention,take observe,put down,set down,take down,get down,mark,tell,write down,notice,observe,state,remark,say
+recall	recollect,pore,rivet,think,retrieve,resemble,refer,withdraw,take,strike down,send for,come back,hark back,echo,remember,centre,call back,call up,cancel,call in,focus,center,call,denote,return,concentrate
+eye	eyeball,look
+dry	change,dry out,alter,modify
+market	merchandise,deal,commercialise,shop,change,sell,alter,commercialize,modify,trade
+flail	work over,lam,thresh,thrash,flap,beat,beat up
+fight	fight down,press,defend,push,advertize,assay,campaign,agitate,try,crusade,advertise,attempt,struggle,promote^,fight back,contend,oppose,essay,seek
+stretch	deform,widen,adulterate,debase,extend,pull,stretch along,lie,draw,tense,change form,broaden,spoil,corrupt,unfold,dilute,elongate,move,change shape,grow,lie down,tense up,stretch out,strain,be,increase,force,lengthen
+owe	build upon,rest on,build on,repose on,be
+rate	assess,evaluate,valuate,order,value,appraise,rank,range,judge,grade,be,place,pass judgment,measure
+matter	count,weigh,be
+race	rush along,hie,pelt along,speed,act,hotfoot,belt along,cannonball along,run,rush,go,move,displace,travel,compete,vie,bucket along,contend,hasten,locomote
+drag	pull,drag on,get behind,sweep up,hale,drag in,shuffle,look for,fall back,draw,inspire^,drag out,trail,sweep,hang back,embroil,lag,go,puff,move,scuffle,displace,travel,drop behind,breathe in,haul,inhale,tangle,dawdle,scuff,shamble,proceed,persuade,search,fall behind,cart,involve,force,dredge,locomote,seek
+linger	go forth,mill about,go away,tarry,waffle,hesitate,loiter,move,footle,leave,mess about,remain,dawdle,stay,lollygag,lurk,persist,lallygag,mill around,hang around,be,lounge,loaf,waver,hover
+shrug	gesticulate,gesture,motion
+trouble	discommode,strike,disoblige,touch,inconvenience oneself,impress,afflict,perturb,trouble oneself,cark,distract,impact,move,inconvenience,bother,disquiet,affect,disturb,upset,touch on,ail,strive,unhinge,bear on,pain,put out,incommode,strain,reach,disorder,hurt,bear upon
+crown	climax,coronate,cover,vest,head,enthrone,top,invest,culminate
+reprint	reissue,reproduce
+people	dwell,populate,make full,fill,fill up,inhabit,live
+lift	meliorate,emit,steal,better,appear,arise,dig,plagiarise,pilfer,face- operate on,wind,sneak,remove,purloin,swipe,get up,warp,hoist,pay off,overturn,take away,liquidate,withdraw,pinch,annul,operate,utter,go up,go,uprise,amend,heave,let out,rear,vacate,rise,move,take,rustle,repeal,nobble,travel,displace,cabbage,change,air fly,bring up,strike down,let loose,seem,move up,dig out,send for,snarf,scalp,rescind,alter,filch,plagiarize,raise,end,reverse,buckle,come up,abstract,cancel,terminate,ameliorate,look,elevate,countermand,call,modify,revoke,improve,hook,locomote
+top	climax,render,trim,supply,clip,lie,pass,attain,provide,lead,snip,crop,overhaul,cut back,overtake,hit,pinch,exceed,arrive at,make,prune,complete,clear,lop,furnish,crown,surpass^,dress,stand out,top off,transcend,gain,excel,culminate,reach,finish,overstep,go past
+handle	wield,touch,do by,cover,command,plow,address,treat,care,deal,control,broach,interact,palm,manage,keep in line,initiate,manipulate
+source	obtain,document
+brine	sop,drench,dowse,soak,souse,douse
+depreciate	deprecate,diminish,disparage,belittle,undervalue,lessen,devalue*,fall,vilipend,pick at,decrease,devaluate
+scorn	detest,decline*,contemn,reject,turn down,pooh-pooh,freeze off,hate,disdain,spurn,refuse,despise
+front	con face,lie,breast,face,look
+recover^	meliorate,better,retrovert,cover,reclaim,retrieve,regress,reprocess,regain,get,reuse,revert,recycle,turn back,convalesce,recoup,recuperate,find,acquire,go back,ameliorate,improve,return
+meet	ply,cope,see,assemble,fit,gibe,supply,grapple,touch,have,make do,provide,encounter,get together,forgather,correspond,come across,converge,receive,make out,deal,fill,check,interact,experience,go through,undergo,cope with,jibe,adjoin,match,run into,agree,manage,foregather,fulfil,take on,conform to,suffer,get by,tally,run across,contend,satisfy,contact,cater,fulfill,play,gather
+sink	go down,give,come down,descend,slide down,pass,change posture,settle,implant,decline*,fall in,give way,plant,founder,dip,move,drop down,subside,displace,break,go under,fall off,lapse,drop,fall,engraft,embed,slump,bury,cave in,collapse*,imbed
+deepen	compound,change,enlarge,intensify,heighten,increase
+barrel	put,pose,lay,position,place,set
+occur	come,hap,appear,go on,happen,pass,pass off,come along,come about,fall out,take place,become
+demand	request,claim,quest,exact,necessitate,require,postulate,ask,call for,take,bespeak,summon,summons,need,cite,involve
+toss	toss out,convulse,toss away,thresh,throw,remove,turn,chuck out,cast out,cast away,sky,vex,thrash,thresh about,jactitate,throw out,disturb,commove,cast aside,shake,shake up,flip,agitate,stir up,thrash about,slash,dispose,throw away,pitch,fling,raise up,put away,get rid of,discard,chuck
+provision	render,supply,purvey,provide,furnish
+bunch	form,flock,bundle,clump,constellate,bunch together,cluster,bunch up
+concern	interest,occupy,touch,refer,come to,relate,worry,touch on,bear on,pertain
+eclipse	obscure,bedim,occult,overcloud,overshadow*,surpass^,stand out,excel
+peg	pierce,nail down,attach,thrust,nail,deliver the goods,succeed,peg down,stabilize,win,come through,stabilise,bring home the bacon
+suspend	expel,hold over,defer,set back,put off,hang,put over,postpone,table,prorogue,kick out,break,freeze,throw out,change,shelve,debar,set aside,interrupt,hang up,alter,remit,modify
+amount	come,add up,turn,total,be,number,become
+dislodge	remove,expel,chuck out,shift,take away,withdraw,free,reposition,move,take,turf out,displace,kick out,throw out,boot out,exclude,eject,turn out,bump
+rival	touch,match,compete,vie,contend,equal
+hear	see,pore,rivet,pick up,learn,get word,perceive,discover,receive,examine,listen,probe,get wind,try,take heed,centre,get a line,comprehend,focus,find out,center,concentrate
+roll	deform,moil,form,steal,wrap,rove,sound,pronounce,flatten,wind,wander,change form,tramp,turn,enunciate,enounce,cast,run,stray,operate,boil,go,sway,twine,swan,move,turn over,change shape,flap,displace,travel,articulate,change,wave,shake,function,range,ramble,pluck,revolve,vagabond,roil,work,roll out,rock,drift,undulate,roll up,seethe,sound out,hustle,shape,churn,wheel,roam,say,tumble,locomote
+state	put forward,refer,submit,advise,verbalise,utter,verbalize,propose,tell,give tongue to,suggest,express,posit,say,denote
+bear	birth,assume,move,pull in,produce,pay,clear,have got,yield,take,give birth,acquit,feature,brook,let,realise,bring forth,bring in,expect,stand,carry,permit,put up,gain,deliver,contain,earn,behave,hold,abide,have a bun in the oven,stick out,deport,take over,support,tolerate,turn out,transport,include,take in,countenance,stomach,have,comport,act,realize,conduct,create,make,endure,accept,suffer,wear,gestate,allow,digest
+drift	vary,rove,freewheel,float,exist,wander,tramp,be a blow,circulate,err,subsist,crop,accumulate,cast,conglomerate,stray,go,pile up,swan,move,amass,travel,change,survive,range,pasture,ramble,vagabond,cumulate,live,graze,roll,roam,gather,locomote
+show	convey,pass along,render,appear,exhibit,pass,inform,evince,lead,testify,show up,display,record,shew,guide,sustain,establish,substantiate,support,indicate,run,reveal,evidence,conduct,usher,demo,register,communicate,interpret,represent,take,race,bear witness,affirm,impart,depict,express,read,corroborate,prove,pass on,direct,confirm,demonstrate,put across,picture,point,present
+conclude	concord,cerebrate,think,hold,close,reason,agree,cogitate,resolve,reason out,end,finish,terminate,cease,concur,stop
+win	gain ground,get,deliver the goods,get ahead,succeed,pull ahead,gain,acquire,come through,advance,make headway,bring home the bacon
+ring	sound,telephone,carry,round,attach,environ,circle,contain,hold,knell,phone,go,resound,surround,encircle,reverberate,echo,peal,telecommunicate,bear,call up,band,call
+steam	emit,arise,cook,anger,see red,give out,go up,uprise,go,make clean,rise,move,travel,lift,move up,give off,steam clean,clean,steamer,come up,locomote
+reverse	decree,override,rule,overthrow,turn,overturn,change by reversal,annul,vacate,repeal,change,turn back,strike down,lift,rescind,alter,invert,cancel,countermand,revoke,modify,overrule
+bell	attach
+initiate	admit,discuss,start,hash out,cause,let in,include,broach,make,lead up,do,induct,pioneer,create,talk over,originate
+lack	lack,miss
+conspire	collude,conjure,plot,interact,complot,machinate,cabal
+price	set,ascertain,determine
+suit	prettify,befit,beseem,fit,gibe,beautify,correspond,accommodate,embellish,check,fancify,jibe,match,agree,meet,conform to,tally,be,become
+even	regularise,change surface,even out,change,level,flush,regularize,alter,modify
+finish	polish off,coat,act,finish up,end up,complete,move,wind up,eat,fetch up,land up,eat up,surface,end,terminate,cease,stop
+despoil	foray,rifle,plunder,spoil,ransack,take,strip,reave,violate,loot,rape,ruin*,destroy,pillage
+joke	act,intercommunicate,communicate,do,jest,behave
+collapse*	break up,give,have,crumble,fall in,fold,sustain,crack up,give way,fold up,get,founder,weaken,break,change,turn up,suffer,crack,burst,break down,change integrity,cave in,crumple,crock up,tumble
+highlight	set off,make up,bring out,spotlight,foreground,play up
+forgo	abandon,throw overboard,forfeit,give up,foreswear,antedate,predate,waive,dispense with,antecede,forego,precede,relinquish
+uncork	open,unleash,open up
+involve	admit,wrap,enclose,occupy,touch,imply,envelop,necessitate,rarify,elaborate,require,postulate,refer,come to,relate,complicate*,ask,let in,refine,engross,call for,include,enfold,absorb,take,regard,affect,enwrap,demand,touch on,bear on,concern,need,engage,pertain
+return	devolve,convey,give,pass along,render,carry,subject,deliver,riposte,retrovert,reelect,give back,pass,change hands,pay,yield,retort,turn,refer,regress,refund,elect,submit,change by reversal,repay,generate,make,reciprocate,answer,go,recall,revert,communicate,respond,move,take,travel,get back,bring back,take back,turn back,transport,re-emerge,fall,come back,hark back,create,produce,reappear,reverse,go back,pass on,rejoin,change owners,bring,put across,denote,reply,locomote
+dj	DJ,disc-jockey,disk-jockey,comment
+gather	assemble,look for,get together,pull together,collect,accumulate,conglomerate,tuck,pile up,amass,garner,reason,meet,cumulate,run up,search,reason out,for foreinteract,conclude,sew together,stitch,pucker,sew,increase,seek
+cheapen	worsen*,aggravate,exasperate,degrade,exacerbate
+tack	assemble,tack on,tack together,piece,attach,turn,fix,bring together,flip-flop,interchange,change by reversal,make,baste,secure,join,put together,flip,alternate,create,switch,run up,tag on,reverse,set up,append,hang on,sew together,stitch,sew,sail,fasten,wear round
+seek	want,request,look for,act,desire,go,move,assay,travel,try,search,attempt,essay,locomote
+widen	vary,extend,broaden,let out,change,alter,modify,increase
+file	lodge,smooth,put down,accuse,charge,record,march,register,impeach,file away,smoothen,enter,process,criminate,incriminate
+come	see,extend,hap,arise,go on,derive,happen,follow,get along,descend,fare,pass,exist,come in,lead,pass off,be turn,total,arrive,make out,hail,run,get,bedo,uprise,go,rank,rise,move,experience,add up,grow,go through,undergo,travel,change,result,number,fall,come about,occur,amount,proceed,ensue,spring up,be,fall out,come up,develop,take place,issue forth,originate,locomote
+minister	see,attend,work,take care,look
+mention	advert,name,acknowledge,refer,think of,mean,note,have in mind,bring up,tell,notice,observe,state,remark,say,cite
+expose	roast,guy,endanger,divulge,subject,abandon,blackguard,touch,poke fun,scupper,exhibit,display,discover,impact,uncover,reveal,peril,jest at,forsake,let out,desolate,bring out,debunk,give away,make fun,unveil,break,affect,tell,queer,ridicule,touch on,impart,bear on,disclose,laugh at,show,let on,rib,unwrap,bear upon,desert
+keep	save,preserve,go along,lodge,keep back,go on,rest,detain,maintain,put down,have,cook,act,prevent,record,reserve,hold on,fix,sustain,hold,ready,accommodate,make,store,restrain,hold open,hold back,move,grow,confine,celebrate,farm,keep going,remain,protect,prepare,suppress,keep open,prolong,stay,observe,proceed,produce,keep up,have got,raise,enter,continue,stay fresh,keep on,retain,book
+fine	ticket,book
+better	meliorate,break,change,surpass^,outstrip,change state,surmount,turn,alter,outgo,outperform,ameliorate,outmatch,outdo,modify,exceed,improve,amend
+avert^	head off,turn,forestall,obviate,fend off,preclude,stave off,deflect,debar,turn away,forbid,prevent,avoid,foreclose,ward off
+bask	enjoy,relish,savor,lie,savour
+skyrocket	arise,go up,uprise,rise,lift,move up,rocket,come up
+pronounce	enunciate,declare,hold,enounce,articulate,adjudge,judge,sound out,label,say
+interest	evoke,occupy,touch,arouse,elicit,refer,come to,relate,fire,worry,provoke,kindle,touch on,bear on,concern,matter to,raise,enkindle,pertain
+supply	ply,issue,give,render,provide,add,furnish,tell,distribute,state,append,cater,say
+hedge	close in,fudge,inclose,minimise,enclose,circumvent,hem in,put off,avoid,minimize,dodge,sidestep,elude,parry,shut in,duck,hedge in,evade,skirt
+languish	devolve,deteriorate*,pine,ache,hanker,degenerate,waste,yearn,weaken,drop,fade,pine away,long,yen
+stampede	fly,act,flee,move,take flight
+e-mail	email,netmail,telecommunicate
+hide	conceal,wrap,enclose,obliterate,cover,envelop,obscure,enfold,change,enwrap,blot out,alter,shroud,veil,enshroud,hide out,modify
+hearten	encourage,embolden,cheer,recreate
+sting	pierce,prick,bite,wound,twinge,ache,thrust,offend,burn,smart,stick,spite,bruise,suffer,injure,hurt,force
+worsen*	aggravate,decline*,turn,change,change state,exasperate,exacerbate,alter,modify
+foster	nurture,boost,parent,rear,further,encourage,bring up,raise,promote^,advance
+surprise	strike,storm,attack,impress,act,move,assail,affect
+spend	pass,run through,pay,exhaust,deplete,expend,use up,wipe out,consume,eat,drop,eat up
+renew	rejuvenate,re-create,restore^,regenerate,reincarnate
+watch	see,look into,view,check up on,learn,follow,take in,keep an eye on,look on,watch over,go over,watch out,check,look out,check into,ascertain,observe,check out,check over,suss out,find out,determine,catch
+think	recollect,pore,rivet,expect,wish,cerebrate,evaluate,will,imagine,retrieve,believe,reckon,intend,mean,recall,conceive,consider,change,suppose,opine,ideate,cogitate,judge,remember,envisage,alter,centre,call back,call up,focus,center,anticipate,conceive of,modify,pass judgment,guess,concentrate
+dismiss	send packing,send away,can,disregard,remove,give the axe,force out,discount,say farewell,sack,fire,reject,ignore,change,throw out,dissolve,usher out,drop,push aside,brush off,give the sack,brush aside,alter,terminate,modify,give notice
+smash	strike,bang up,fall apart,collide,clash,smash up,abase,humiliate,impoverish,dash,nail,hit,mortify,break,crush,blast,demolish,boom,bankrupt,separate,damage,split up,ruin*,destroy,come apart,humble,chagrin
+paper	cover,wall cover
+pour	flow,render,teem,supply,pullulate,provide,rain cats and dogs,rain,stream,pelt,run,swarm,crowd,move,displace,furnish,course,crowd together,rain buckets,decant,pour out,rain down,feed
+backlog	amass,accumulate,conglomerate,gather,cumulate,pile up
+defend	keep,plump for,fight down,maintain,prevent,argue,champion,hold,support,indorse,back,fight,represent,guard,endorse,reason,protect,affirm,plunk for,struggle,contend,fight back,oppose,fend for
+poise	put,pose,carry,fix,brace,hold,ready,position,set,prepare,gear up,bear,lay,balance,set up,place,hover
+last	hold up,hold out,go,survive,endure,live,live on,measure
+build	meliorate,better,found,work up,ramp up,progress,ground,superintend,establish,make,amend,base,manage,oversee,deepen,create,supervise,construct,ameliorate,develop,build up,intensify,improve,increase
+evaporate	vaporize,vaporise,change,alter,change integrity,modify
+index	render,supply,regulate,provide,mold,furnish,list,influence,shape,determine
+update	inform,modify
+reflect	shine,emit,chew over,muse,cerebrate,think over,certify,contemplate,think,manifest,give out,indicate,evidence,attest,meditate,cogitate,reverberate,excogitate,ruminate,give off,ponder,show,speculate,mull over,mull,demonstrate,point
+exchange	commute,turn,replace,interchange,change by reversal,convert,change,reassign,transfer,switch,alter,reverse,modify,switch over
+encompass	cover,include,embrace,comprehend
+bid	recognize,tender,request,plead,adjure,wish,conjure,press,invite,offer,beseech,greet,recognise,call,entreat,play,seek
+travail	moil,toil,dig,labour,labor,do work,work,fag,grind,drudge
+assert	insist,postulate,swan,acquit,bear,swear,carry,take a firm stand,declare,behave,put forward,deport,maintain,asseverate,posit,affirm,verify,comport,conduct,aver,avow
+square	form,feather,fit,gibe,adjust,settle,correspond,conform,position,check,adapt,row,jibe,match,agree,paddle,tally,multiply,square up,shape
+off	dispatch,bump polish remove,kill,hit,slay,murder
+slice	strike,hit,cut,slit,slice up
+decline*	go down,inflect,come down,worsen*,descend,turn,correct,diminish,pass up,respond,reject,turn down,lessen,wane,change state,drop,fall,refuse,slump,react,decrease
+tap	solicit,strike,draw off,trip the light fantastic,pierce,sound,render,request,supply,dance,beg,quest,rap,utilise,draw,tapdance,take out,provide,wire intercept,call for,pink,utilize,withdraw,bug,cut,go,tip,furnish,bespeak,walk,knock,listen in,employ,exploit,trip the light fantastic toe,eavesdrop,apply,use
+withstand	fight down,defend,hold up,hold,hold out,fight,defy,resist,fight back,stand firm,oppose
+scramble	disarray,jumble,skin,clamber,shin,throw together,vex,go,move,travel,beat,change,disturb,commove,shake up,agitate,climb,stir up,shinny,struggle,alter,raise up,disorder,modify,sputter,locomote
+outweigh	predominate,rule,surmount,outgo,reign,outperform,outdo,exceed,surpass^,outstrip,dominate,overbalance,prevail,outbalance,outmatch,preponderate
+dinge	deform,batter,change form,change shape,change,alter,modify
+combine	amalgamate,coalesce,commingle,blend,give,meld,conflate,have,contribute,commix,unite^,chip in,compound,feature,kick in,add,aggregate,unify,interact,fuse,mingle,immix,change integrity,flux,merge,mix
+value	appreciate,see,view,treasure,assess,evaluate,valuate,prize,value,reckon,appraise,prise,rate,consider,regard,set,judge,respect,esteem,pass judgment,determine,measure
+pile	put,pose,throng,stack,pack,jam,position,crowd,heap,crowd together,mob,set,lay,set up,place,arrange
+peek	glance,glint,look
+augur	predict,auspicate,forebode,bespeak,foreshadow,foretell,betoken,promise,portend,presage,indicate,forecast,anticipate,call,prefigure,prognosticate,bode,signal,point,omen
+contain	hold in,keep,carry,keep back,defend,comprise,curb,arrest,hold,include,check,control,restrain,hold back,moderate,take,turn back,suppress,bear,be,incorporate,stop
+waste	toss out,devolve,emaciate,flow,scourge,languish,toss away,deteriorate*,spend,utilise,debilitate,kill,degenerate,squander,chuck out,liquidate,knock off,utilize,drain,expend,run,cast out,lay waste to,cast away,weaken,desolate,macerate,ravage,enfeeble,course,throw out,consume,cast aside,drop,neutralize,toss,employ,ware,pine away,dispose,blow,throw away,fling,do in,put away,devastate,run off,neutralise,apply,use,ruin*,destroy,feed,discard,rot
+push	draw near,press,tug,urge,urge on,praise,labour,deal,crowd,labor,go up,go,advertize,fight,move,come near,travel,displace,campaign,come on,agitate,bear on,approach,crusade,sell,advertise,struggle,exhort,promote^,near,draw close,drive,trade,force,locomote
+word	evince,phrase,articulate,give voice,express,show,formulate
+invoice	charge,bill
+hold	see,oblige,hold in,admit,enamour,view,keep,give,captivate,go along,request,trance,carry,keep back,concord,go on,halt,touch,quest,maintain,evaluate,cover,have,think,command,throw,prevent,defend,exist,aim,harbour,curb,arrest,assert,disenable,hold up,reserve,obligate,withstand,hold on,refer,obtain,come to,relate,hold over,sustain,contain,booze,declare,go for,believe,feel,reckon,call for,support,hold out,include,accommodate,defer,check,set back,verify,put off,control,make,aver,restrain,avow,hold back,put over,postpone,enchant,conceive,harbor,swan,moderate,table,experience,take,bewitch,prorogue,guard,consider,confine,take restrain,bespeak,defy,regard,view as,shelve,agree,take for,train,adjudge,protect,affirm,touch on,disable,judge,suppress,bear on,concern,proceed,prevail,incapacitate,have got,bear,take aim,capture,swear,resist,drink,remit,bind,entrance,be,entertain,continue,enamor,nurse,direct,deem,stand firm,apply,concur,pass judgment,retain,stop,fascinate,beguile,becharm,charm,fuddle,book,pertain,catch
+relieve	soothe,meliorate,save,better,deliver,still,rescue,remedy,absolve,confide,treat,assuage,palliate,free,allay,mitigate,exempt,amend,solace,disembarrass,take,discharge,console,take over,ease,salve,comfort,justify,excuse,care for,alleviate,rid,lighten,let off,ameliorate,salvage,unbosom,improve
+dictate	rule,order,inflict,govern,visit,impose,prescribe,bring down,read
+fate	designate,doom,ordain,destine
+utilize	commute,utilise,exchange,convert,change,employ,apply,use
+position	put,pose,move,displace,set,lay,place
+indicate	betoken,inform,argue,represent,bespeak,tell,suggest,signal,show,lay out,point,present
+hit	strike,come,impinge on,dispatch,rack up,touch,attack,take in,polish off,have,wound,attain,gain ground,remove,off,kill,come to,arrive,impact,get,arrive at,make,deliver the goods,stumble,get ahead,move,ingest,succeed,take,displace,assail,affect,run into,bump off,slay,consume,collide with,touch on,propel,pull ahead,bear on,approach,tally,pip,win,gain,come by,shoot,impel,come through,advance,reach,make headway,injure,bear upon,murder,bring home the bacon,score
+allege	assert,maintain,asseverate,say,aver
+drain	flow,debilitate,run through,run out,exhaust,deplete,run,use up,weaken,enfeeble,wipe out,course,consume,eat,eat up,empty,feed
+uncover	expose,reveal,bring out,unveil,show
+deal	dole out,cope,acquit,carry on,think about,give,carry,grapple,cover,command,act,pass,make do,plow,address,hand out,portion out,look at,make out,give out,lot,treat,apportion,care,mete out,share,comport,control,conduct,broach,move,turn over,take,consider,shell out,divvy up,handle,parcel out,pass out,distribute,deport,manage,transact,allot,deal out,get by,sell,bear,initiate,behave,pass on,contend,reach,dish out,trade,dispense,hand,administer
+free	issue,unblock,give,supply,unloosen,disengage,pass,give up,remove,absolve,unfreeze,unloose,relieve,take away,withdraw,forgive,exempt,disembarrass,turn over,loose,discharge,take,liberate,resign,release,justify,dislodge,rid,pass on,reach,relinquish,hand
+commence	start,lead off,commence,get,get down,set out,start up,embark on,set about,start out,begin
+company	ac keep consort,assort,affiliate,associate,companion
+punish	penalise,penalize*
+convert	commute,rack up,exchange,replace,hit,change over,change,convince,persuade,tally,win over,alter,modify,score
+operate	hap,go on,happen,pass,pass off,manoeuver,operate on,treat,run,control,go,move,displace,function,come about,occur,manoeuvre,work,care for,maneuver,lock,mesh,fall out,direct,take place,engage,manipulate
+make	pull in,come,form,see,straighten,assemble,view,seduce,take a crap,bring in,give,name,create mentally,appear,commit,earn,neaten,pull,rack up,tidy,nominate,spend a penny,make believe,pretend,take in,relieve oneself,have,cook,induce,act,pass,throw,draw,piddle,comprise,attain,build,wee-wee,execute,charge,get together,defecate,piss,make water,accomplish,approximate,constitute,cause,head,fix,assure,total,go across,stool,hold,establish,reckon,ready,lay down,hit,shit,estimate,crap,square away,make up,perpetrate,get,arrive at,progress to,wee,get to,guarantee,pee,appoint,secure,represent,clear,add up,grow,take,go through,consider,realise,regard,change,perform,seem,achieve,number,do,eliminate,take a shit,prepare,create from raw stuff,realize,create,judge,work,straighten out,pee-pee,amount,clean up,persuade,tally,ensure,produce,urinate,take a leak,construct,alter,insure,create from raw material,egest,gain,tidy up,pass water,acquire,behave,be,direct,reach,micturate,look,develop,ca-ca,create by mental act,modify,guess,play,score,stimulate,gauge,gather,become,puddle,excrete
+supplant	come after,supervene upon,follow,replace,supercede,succeed,supersede
+penalize*	penalise,punish
+swinge	blacken,char,sear,singe,scorch
+allow	yield,allow for,appropriate,let,admit,reserve,give,take into account,permit,discount,calculate,go for,assign,reckon,leave,grant,tolerate,figure,countenance,estimate,forecast,allot,set aside,count on,accept,afford,give up,provide,portion,earmark,consent
+worry	interest,occupy,perturb,cark,distract,mind,care,vex,disquiet,trouble,unhinge,concern,incise,rub,disorder
+bail out	remove,loose,bale out,take,liberate,unloosen,unloose,take away,withdraw,free,release
+loose	let let go of,relax,loosen,free,unleash,un unloosen,weaken,liberate,change,let go,release,alter,modify,relinquish
+slide	skid,slue,glide,slither,go,move,displace,travel,slip,slew,locomote
+recognize	appreciate,recollect,accredit,accost,treasure,cognise,agnize,licence,certify,cognize,think,retrieve,acknowledge,agnise,address,prize,value,thank,make out,pick out,tell apart,greet,accept,license,recall,know,realise,realize,come up to,remember,call back,be,call up,give thanks,recognise,distinguish,discern
+underlie	lie,be
+choose	make up one's mind,evaluate,pick out,select,take,prefer,judge,decide,opt,pass judgment,determine
+tip	strike,tiptoe,tilt,rede,give,topple,tippytoe,reorient,bend,remove,tap,push,take away,withdraw,advise,bung,take,mark,gift,walk,fee,tip off,flex,angle,lean,slant,counsel,tumble,force,present
+green	color,discolour,discolor,colour
+start up	start,lead off,commence,embark on,begin
+undervalue	value,diminish,lessen,disrespect,devalue*,depreciate,fall,underestimate,disesteem,decrease,devaluate
+campaign	press,push,run,advertize,fight,race,agitate,crusade,advertise,promote^,take the field
+slug	idle,swig,laze,hit,slog,stagnate
+dim	slur,dip,blind,weaken,darken,change,blur,change intensity
+chairman	lead,chair,head
+line	trace,run along,cover,lie,draw,reenforce,describe,make full,fill,mark,fill up,reinforce,delineate,score,nock
+transition	shift,convert,change,switch
+mount	mount up,climb up,arise,attach,hop on,devise,put on,ride,get up,fix,ready,copulate,get on,organize,go up,uprise,move,rise,lift,move up,mate,climb,pioneer,set,prepare,couple,jump on,wax,bestride,gear up,pair,initiate,come up,set up,organise,machinate,climb on,increase
+schedule	plan
+result	bring about,lead,leave,turn up,give rise,ensue,produce,prove,turn out
+pulse	pound,thump,throb,make,pulsate,move,displace,beat,create,produce
+partner	render,supply,act,provide,move,furnish
+crawl	grovel,teem,pullulate,bend,feel,cower,fawn,swarm,go,creep,move,cringe,travel,flex,swim,locomote
+eat	rust,take in,spend,have,run through,exhaust,deplete,expend,use up,vex,worry,ingest,take,wipe out,consume,drop,eat on,eat up,damage,corrode,feed
+bounce	move,recoil,turf out,travel,ricochet,turn down,get back,kick out,throw out,jounce,boot out,bound,take a hop,come back,reverberate,rebound^,exclude,eject,decline*,spring,refuse,leap,expel,jump,chuck out,go back,turn out,hit,resile,return,go,locomote,pass up,reject
+function	serve,run,operate,answer,go,do,work,officiate,suffice
+wade	walk
+delay	hold off,detain,retard,wait,hold up,check,hold back,slow,change,decelerate,slow up,stay,slow down,alter,modify
+wed	get hitched with,unite^,hook up with,unify,splice,espouse,conjoin,tie,get married,officiate,marry
+motor	go,move,travel,drive,locomote
+plunge	go down,pore,rivet,scoot,come down,start,descend,launch,dart,flash,scud,engross,dash,soak up,commence,get,dip,get down,set out,absorb,perforate,dunk,engulf,drop,fall,souse,immerse,set about,centre,steep,dive,shoot,start out,dump,focus,center,douse,begin,penetrate,concentrate,plunk
+soak	sop,work over,intoxicate,drench,chisel,fleece,impregnate,plume,charge,pawn,wet,gazump,consign,booze,hock,heat,surcharge,inebriate,rip off,imbue,beat,saturate,overcharge,hit it up,affect,dowse,beat up,plunge,pluck,souse,heat up,immerse,drink,cheat,rob,douse,hook,fuddle
+burden	weight down,compel,command,charge,require,weight,burthen,saddle
+enlarge	lucubrate,magnify,blow up,elaborate,elucidate,expound,clear up,grow,expatiate,dilate,clarify,expand,flesh out,exposit,increase
+concert	plan,settle,project,square off,design,square up,contrive,determine
+set	put,go down,localize,pose,fit,come down,neaten,adjust,start,attack,descend,impress,approximate,coiffure,write,correct,fix,establish,ready,pick out,lay down,position,estimate,procreate,plant,limit,select,rig,make,localise,assault,coif,move,represent,take,choose,mark,displace,assail,go under,change,reproduce,congeal,dress,stage,coiffe,outfit,do,sic,sink,fall,prepare,judge,solidify,set on,hone,multiply,gear up,alter,countersink,lay,initiate,bury,set up,lay out,place,fit out,fructify,compose,modify,groom,guess,arrange,specify,type print,determine,originate,gauge,jell,equip,present
+disadvantage	single out,disfavour,disfavor,separate,discriminate
+house	domiciliate,admit,put up,shelter,hold,accommodate
+mute	tone down,dampen,muffle,damp,soften,dull
+boss	imprint,impress,em stamp
+chronicle	put down,record,enter
+wire	fit,cable,draw,telegraph,fix,thread,accommodate,adapt,secure,string,outfit,electrify,telecommunicate,fit out,fasten,equip
+spot	dirty,grime,change surface,bemire,fleck,descry,blot,soil,mark,espy,change,colly,spy,begrime,blob,blemish,sight
+job	put,commit,chisel,farm out,subcontract,do work,invest,employ,work,speculate,hire,cheat,place,engage
+spread	overcover,extend,bare,open,cover,circulate,disseminate,pass around,propagate,unfold,go,circularise,move,go around,publicise,travel,distribute,diffuse,spread,circularize,broadcast,fan out,undo,pass on,continue,scatter,disperse,locomote,publicize,air,spread out
+streak	color in,colour in,color,blotch,run,move,mottle,colourise,colorise,colorize,colour,colourize
+wake	evoke,arouse,elicit,a arouse,awaken,turn,fire,come alive,heat,ignite,provoke,change,kindle,change state,stir up,alarm,alert,fire up,alter,raise,waken,modify,enkindle,inflame,rouse,wake up
+respect	see,view,honour,prize,value,reckon,prise,accept,consider,regard,observe,abide by,esteem,honor
+loom	tower,predominate,appear,bulk large,hang,rear,rise,hulk,lift,seem,brood,look,hover
+ensure	see,see to it,assure,check,verify,control,guarantee,secure,ascertain,insure
+embark	ship,start,board,get on,commence,get,get down,go,set out,move,set about,proceed,enter,start out,begin,venture
+wax	cover,full,rise,mount,climb,increase
+need	want,necessitate,require,postulate,ask,call for,take,demand,need,be,involve
+cushion	buffer,soften,modify
+outline	pen,draw,write,describe,sketch,indite,depict,adumbrate,delineate,compose,draft,limn
+hike	boost,get up,bring up,lift,walk,hike up,raise,elevate
+persist	carry on,preserve,uphold,hang in,hold on,die hard,run,remain,endure,bear on,stay,prevail,continue,hang on,persevere
+blink	nictitate,subdue,wink,act reflexively,blink away,suppress,curb,twinkle,act involuntarily,nictate,flash,radiate,winkle,conquer,stamp down,inhibit
+wonder	chew over,muse,think over,contemplate,reflect,enquire,inquire,meditate,query,respond,marvel,excogitate,ruminate,ponder,speculate,react,mull over,mull,question
+revolutionize	subvert,inspire^,overthrow,overturn,change,revolutionise,bring down,alter,indoctrinate,modify
+allure	bid,invite,tempt
+bind	stick,secure,confine,oblige,truss,adhere,cover,attach,constipate,tie up,tie,obligate,indispose,fix,relate,bond,hold,hold fast,stick to,tie down,restrain,fasten,bandage
+speculate	put,chew over,hypothesize,expect,commit,muse,cerebrate,think over,contemplate,think,reflect,conjecture,hypothecate,meditate,hypothesise,reason,suppose,cogitate,invest,excogitate,job,ruminate,ponder,mull over,place,mull,anticipate,theorise,theorize
+process	serve,deliver,touch,figure,work on,transform,march,challenge,reckon,impact,treat,care,deal,cipher,transmute,sue,affect,handle,walk,manage,work out,touch on,bear on,work,litigate,compute,transubstantiate,calculate,bear upon,swear out,cypher,action
+chain	fix,secure,set up,arrange,fasten
+behave	move,acquit,carry,deport,do,act,bear,hold,comport,conduct
+bury	close in,inclose,conceal,enclose,hide,put down,inhume,implant,fix,swallow,plant,repose,lay to rest,sink,immerse,eat up,engraft,embed,shut in,inter,deposit,lay,swallow up,bury,situate,forget,posit,entomb,imbed
+label	pronounce,attach,differentiate,tag,declare,hold,severalise,tell apart,designate,mark,tell,secernate,adjudge,severalize,judge,denominate,secern,separate,distinguish
+allocate	assign,apportion,allot,portion
+cancel	delete,remove,set off,equilibrize,declare,hold,take away,withdraw,take,mark,strike down,adjudge,equilibrate,invalidate,balance,scrub,equilibrise,scratch,offset,score,call off
+dump	toss out,floor,knock down,toss away,remove,coldcock,ditch,chuck out,cast out,cast away,deck,beat,throw out,cast aside,drop,plunge,toss,underprice,dispose,sell,throw away,fling,put away,get rid of,discard
+research	look into,explore,search,investigate
+deem	see,view,hold,reckon,consider,regard,view as,take for
+focus	pore,rivet,focalize,adjust,cerebrate,aline,think,focalise,concentre,conform,correct,sharpen,adapt,align,cogitate,set,line up,centre,center,concentrate,concenter
+rob	steal,chisel,fleece,plume,gazump,surcharge,rip off,overcharge,soak,pluck,cheat,hook
+center	revolve around,pore,rivet,touch,center on,cerebrate,think,refer,come to,relate,revolve about,move,displace,focus on,cogitate,touch on,bear on,concern,centre,focus,concentrate on,concentrate,pertain
+restrengthen	strengthen,fortify,beef up
+spiral	wind,turn,gyrate,curve,twist,corkscrew,coil
+anticipate	know,move,predict,pass off,forebode,forestall,expect,hap,look to,fall out,go on,foretell,happen,promise,pretend,evaluate,look,foreknow,come about,foresee,occur,look for,call,take place,hazard,act,pass judgment,pass,guess,judge,previse,prognosticate,venture,wait,await,counter
+survey	see,inspect,figure,follow,review,go over,reckon,appraise,examine,canvass,cipher,study,canvas,surveil,work out,compute,calculate,analyse,cypher,analyze
+bring	pull in,convey,bring in,carry,pull,have,contribute,induce,make for,draw,land,cause,fetch,transmit,add,get,make,take,bestow,channelize,change,transport,channel,draw in,transfer,impart,create,institute,work,attract,channelise,alter,wreak,lend,modify,play,stimulate
+article	oblige,obligate,bind,hold
+begin	move,achieve,start,mouth,act,attain,set about,talk,lead off,accomplish,speak,be,start out,reach,commence,get,begin,verbalise,get down,utter,verbalize,set out
+offset	print,impress,set off,equilibrize,make,transfer,create,equilibrate,balance,cancel,equilibrise,countervail
+link	yoke,cerebrate,think,attach,unite^,colligate,relate,link up,tie in,join,cogitate,tie,associate,connect
+arrange	put,order,fix up,coiffure,pose,write,change,lay,concord,initiate,neaten,hold,agree,set up,dress,stage,organise,coiffe,do,position,place,compose,pioneer,set,concur,groom,organize,format,coif
+improve	meliorate,better,turn,amend,change,change state,alter,ameliorate,modify
+feed	fertilise,ply,insert,fertilize,put in,inclose,flow,give,render,enclose,supply,feast,take in,have,provide,boost,treat,introduce,run,move,ingest,take,further,encourage,furnish,course,consume,eat,enrich,work,prey,regale,exploit,stick in,promote^,feed in,advance,cater
+archive	pull in,collect,file away
+suspect	pretend,think,hazard,imagine,disbelieve,reckon,discredit,distrust,suppose,opine,mistrust,guess,surmise,venture
+vote	pick out,select,take,choose,state,express,vote
+sell off	sell
+profit	pull in,bring in,earn,take in,turn a gain,get,make,clear,realise,benefit^,realize,gain,acquire
+bump	strike,impinge on,trip the light fantastic,dance,assign,happen,encounter,relegate,delegate,demote,expel,chuck out,hit,designate,turf out,displace,kick out,break,throw out,boot out,run into,knock,depute,find,collide with,kick downstairs,dislodge,exclude,eject,trip the light fantastic toe,turn out,chance
+space	put,pose,position,set,lay,place
+chat	claver,gossip,natter,confab,chit chatter,discourse,jaw,visit,chew the fat,chaffer,confabulate,shoot the breeze,converse
+reaffirm	affirm
+dub	name,knight,synchronize,nickname,synchronise,gentle,entitle,call,ennoble
+book	bespeak,request,schedule,quest,put down,record,reserve,enter,hold,call for,register
+peer	look
+appreciate	understand,recognize,see,consider,acknowledge,view,realise,apprise,prize,apprize,regard,value,treasure,reckon,revalue,recognise,realize,increase,take account
+put	pose,subject,commit,assign,spend,utilise,couch,approximate,order,word,cast,utilize,position,estimate,expend,phrase,organize,move,displace,articulate,change,drop,frame,redact,give voice,invest,set,judge,employ,alter,lay,set up,formulate,organise,place,apply,use,modify,arrange,guess,gauge
+print	impress,write,make,reproduce,create,publish,produce
+program	create mentally,programme,schedule,create by mental act
+power	ply,supply,provide,cater
+pound	break up,thump,ram down,thrust,fragmentise,hold,fragmentize,hit,restrain,move,confine,beat,partition off,walk,partition,ram,pound off,fragment,pound up,lumber,im restrain,poke
+overcome	evoke,subdue,get over,sweep over,surmount,arouse,elicit,have the best,overwhelm,overtake,fire,provoke,overpower,kindle,whelm,defeat,get the best,master,raise,get the better of,enkindle
+discuss	talk of,cover,plow,hash out,address,treat,deal,discourse,handle,talk about,talk over
+fail	flunk,conk out,worsen*,evaluate,die,decline*,run out,go bad,flush it,let down,give way,betray,give out,go,break,disappoint,change,judge,go wrong,neglect,break down,miscarry,bomb,pass judgment
+donate	give,gift,present
+deliver	birth,emit,save,convey,give,pass along,render,redeem,get in,have,throw,pass,hand over,give up,rescue,talk,cede,bring forth,fetch,expel,get,surrender,verbalise,utter,let out,verbalize,communicate,turn over,drive home,fork up,kick out,throw out,extradite,gift,let loose,deport,bring through,pull through,fork over,mouth,fork out,speak,produce,give birth,carry through,bear,pitch,pass on,reach,turn in,bring,put across,return,hand,present
+claim	request,quest,exact,necessitate,require,postulate,assert,ask,call for,verify,aver,avow,swan,take,bespeak,affirm,demand,need,swear,lay arrogate,involve
+trash	toss out,toss away,pan,tear apart,chuck out,junk,cast out,cast away,disparage,belittle,throw out,cast aside,toss,dispose,throw away,pick at,fling,put away,scrap,discard
+earn	pull in,bring in,take in,get,make,clear,garner,realise,realize,gain,acquire
+rev	rev up,increase
+refinance	finance
+dampen	subdue,deaden,tone down,retard,curb,muffle,wet,damp,check,conquer,stamp down,stifle,weaken,soften,break,moisten,dull,delay,suppress,mute,blunt,wash,inhibit
+dig	moil,toil,core out,remove,travail,thrust,understand,grasp,compass,jab,savvy,hollow,take away,labour,apprehend,withdraw,labor,hollow out,delve,cut into,get the picture,turn over,take,do work,dig out,work,stab,prod,fag,excavate,grind,comprehend,grok,drudge,poke
+fake	fudge,re-create,pretend,chisel,cook,forge,feign,affect,wangle,bull,misrepresent,sham,cheat,bullshit,falsify,dissemble,manipulate,counterfeit
+swoon	zonk out,black out,conk,pass out,faint
+steady	calm,strengthen,fortify,beef up,becalm,brace,stabilize,stabilise
+deteriorate*	devolve,worsen*,decline*,crumble,degenerate,drop,decay,delapidate
+gnaw	bite,eat at,crumble,masticate,gnaw at,jaw,chew,seize with teeth,wear away,erode,decay,manducate,delapidate
+reclaim	reform,repossess,regenerate,reprocess,domesticate,get,convert,reuse,change over,domesticize,domesticise,change,recycle,recover^,tame,alter,rectify,acquire,modify
+speed	rush along,hie,pelt along,accelerate,quicken,speed up,hotfoot,zip,belt along,cannonball along,rush,go,qualify,move,travel rapidly,travel,race,deepen,bucket along,hasten,modify,intensify,hurry,locomote
+relax	slack,unstrain,act,turn,loosen,decompress,weaken,loose,change,affect,minify,lessen,change state,slack up,loosen up,do,slacken,unwind,slow down,make relaxed,unbend,alter,behave,decrease,modify,unlax
+satellite	transmit,beam,broadcast,send,air
+catapult	sling,cast,hurtle,hurl,propel,impel
+pass	buy the farm,devolve,convey,travel by,give,pass along,go along,extend,authorise,hap,go on,happen,go away,slip by,die,spend,drop dead,throw,draw,conk,progress,pop off,change hands,expire,vanish,lead,exit,pass off,disappear,turn,glide by,go by,perish,expel,guide,overhaul,kick the bucket,go across,transmit,overtake,blow over,countenance,run,make authorize,exceed,go,deliver the goods,enact,choke,allow,communicate,give-up the ghost,move,turn over,clear,succeed,discharge,legislate,go through,slide by,pass away,travel,change,make it,slip away,sur go past,top,pass by,change state,lapse,stand out,eliminate,sink,move on,snuff it,fall,come about,transfer,occur,transcend,judge,release,surevaluate,croak,fade,elapse,decease,eject,let,fleet,evanesce,permit,win,egest,excel,come through,fall out,be,ordain,pass on,march on,advance,reach,change owners,cash in one's chips,put across,take place,pass judgment,overstep,bring home the bacon,return,go past,hand,locomote,excrete
+enable	change,alter,modify
+rebound^	recoil,ricochet,rally,bound,bounce,recuperate,recover^,take a hop,reverberate,spring,leap,jump,go back,resile
+peak	attain,hit,arrive at,make,gain,reach
+fuel	render,supply,stir,take in,provide,fire,furnish,shake,shake up,take up,excite,stimulate
+remove	dispatch,go away,polish off,take out,vanish,off,kill,disappear,shift,take away,withdraw,hit,take,bump off,slay,transfer,move out,absent,murder,get rid of
+spell	glamour,witch,spell out,write,relieve,hex,intend,mean,import,enchant,bewitch,jinx,take over,take turns,alternate,recite
+offer	give,render,request,extend,put up,supply,act,provide,bid,pay,wage,worship,offer up,bring on,pop the question,project,prgive,declare oneself,bring out,market,move,propose,furnish,tender,volunteer,produce,threaten*,engage
+lamb	birth,deliver,have,give birth,bear
+ditch	abandon,dig,crash,remove,hollow,trench,forsake,desolate,crash land,excavate,dump,desert,get rid of,chuck
+emerge	go forth,issue,appear,arise,uprise,come forth,rise,grow,egress,rise up,come out,spring up,surface,come up,develop,originate
+telegraph	cable,wire,telecommunicate
+relate	interbe,touch,cerebrate,think,colligate,refer,come to,link up,tie in,interact,tell,cogitate,touch on,bear on,concern,associate,recount,narrate,recite,connect,link,pertain
+flutter	nictitate,pound,quiver,thump,speed,move back and forth,dart,flit,zip,bat,travel rapidly,flap,wink,beat,flicker,palpitate,blink,nictate,fleet,flitter,waver,hurry
+total	come,count,summate,add,add together,add up,enumerate,sum,number,sum up,amount,tot up,tally,tote up,be,damage,numerate,tot
+grip	interest,grapple,spellbind,transfix,seize,prehend,clutch,fascinate
+bail	remove,loose,fork up,take,liberate,render,deliver,unloosen,unloose,get in,take away,withdraw,turn in,vouch,fork over,free,empty,fork out,release,hand over,guarantee
+bronze	dye,color,tan,discolour,discolor,colour
+shift	wobble,tilt,typewrite,stir,careen,substitute,replace,type,reposition,move,change over,displace,change,budge,agitate,transfer,dislodge,switch,pitch,alter,lurch,modify
+cling	touch,cleave,grasp,hold on,hang,stick,adjoin,meet,adhere,cohere,contact
+overtake	evoke,overcome,go on,sweep over,arouse,pass,elicit,progress,overhaul,overwhelm,fire,provoke,overpower,kindle,whelm,move on,catch up with,raise,pass on,march on,advance,enkindle,catch
+mine	reenforce,tap,reinforce,exploit
+mind	think about,watch,bear in remember,watch out,object,care,deal,think of,look out,beware,listen,handle,obey,manage,heed,take care
+dash	scoot,rush along,hie,pelt along,intimidate,scare,speed,smash,frighten off,frighten away,crash,hotfoot,dart,flash,scud,belt along,spoil,cannonball along,scare off,cast,hurtle,rush,restrain,mix in,foil,race,break,hurl,baffle,bilk,queer,scare away,bucket along,cross,scotch,shoot,daunt,hasten,frustrate,thwart,pall,mix
+support	patronize,give,okay,put up,fit,subscribe,plump for,concord,gibe,foster,back up,nurture,act,defend,argue,correspond,hold up,patronise,stand,sustain,hold,substantiate,abide,countenance,stomach,indorse,patronage,check,back,sanction,allow,represent,endorse,jibe,reason,match,agree,keep going,underpin,affirm,approve,plunk for,endure,suffer,O.K.,tally,brook,bear,let,permit,corroborate,stick out,tolerate,confirm,bear out,concur,play,fend for,digest
+deplete	spend,run through,exhaust,expend,use up,wipe out,consume,eat,drop,eat up
+add	compute,summate,form,add up,state,constitute,enumerate,alter,sum,bestow,count,change,total,calculate,supply,tote up,tell,reckon,figure,number,work out,numerate,append,tot,lend,bring,cipher,say,contribute,modify,impart,cypher,add together,make,sum up,increase,tot up,tally
+submit	put in,give,reconcile,render,put up,subject,put forward,knuckle under,give in,yield,relegate,refer,stand,abide,support,stomach,advise,defer,succumb,accept,accede,take,undergo,propose,buckle under,gift,resign,endure,suggest,suffer,state,brook,bear,bow,pass on,stick out,tolerate,apply,posit,digest,present
+diminish	belittle,minify,lessen,change magnitude,fall,decrease
+forge	form,create mentally,go on,re-create,fake,progress,devise,spirt,fashion,invent,make,go,move,mold,travel,beat,spurt,mould,move on,create from raw stuff,work,excogitate,create from raw material,hammer,pass on,shape,contrive,march on,advance,formulate,create by mental act,counterfeit,locomote
+factor	figure,factor in,reckon,cipher,work out,compute,calculate,cypher,factor out
+inject	insert,put in,inclose,break up,give,enclose,interpose,disrupt,come in,drug,interject,add,introduce,cut off,do drugs,throw in,interrupt,stick in,shoot,feed,dispense,administer
+get	go forth,pull in,come,buy,convey,fuck off,pose,contract,come down,pull,touch,rack up,start,go away,stir,incur,have,induce,throw,draw,aim,bedevil,ache,bugger off,scram,arrest,get even,devil,understand,seize,intercommunicate,turn,bring forth,confound,cause,pay off,fetch,obtain,fix,befuddle,sustain,arrive,receive,father,transmit,rile,gravel,confuse,hit,intend,generate,commence,amaze,make,be engender,vex,get down,mean,get to,go,get at,fox,set out,nonplus,get under one's skin,communicate,stick,chafe,nettle,experience,take,grow,effectuate,undergo,bother,beat,get back,pay back,channelize,change,reproduce,baffle,change state,leave,transport,channel,find,draw in,prehend,transfer,bewilder,create,dumbfound,sire,effect,purchase,set about,suffer,flummox,buzz off,tally,attract,produce,hear,sicken,capture,let,discombobulate,alter,channelise,clutch,nark,acquire,start out,perplex,set up,irritate,rag,develop,drive,ruin*,hurt,bring,begin,modify,mystify,destroy,stupefy,mother,score,puzzle,stimulate,fuddle,become,annoy,catch
+swell	puff up,arise,intumesce,act,swell up,well up,uprise,well,rise,grow,rise up,do,tumefy,expand,spring up,surface,behave,come up,develop,tumesce,increase,originate
+hinge	attach
+succumb	buy the farm,die,drop dead,knuckle under,pass,conk,pop off,give in,expire,consent,exit,yield,perish,kick the bucket,go for,accept,go,choke,give-up the ghost,pass away,buckle under,snuff it,croak,decease,cash in one's chips
+control	see,hold in,see to it,keep,keep back,command,curb,assure,contain,hold,examine,check,verify,operate,restrain,interact,hold back,know,moderate,suppress,master,ascertain,try,ensure,test,keep in line,insure,prove,try out,essay,manipulate
+nickname	name,call,dub
+don	get into,assume,put on,wear,dress,get dressed
+lag	follow,detain,cover,remand,fall back,gaol,incarcerate,jail,sky,immure,imprison,confine,put behind bars,flip,dawdle,toss,jug,pitch,put away,fall behind
+award	give,allocate,grant,apportion,present
+import	spell,merchandise,intend,mean,trade
+go	compare,buy the farm,blend,get out,sound,extend,fail,fit,conk out,hap,concord,rifle,go on,happen,start,go away,die,drop dead,get going,act,pass,conk,last,pop off,expire,vanish,fit in,lead,exit,depart,hold up,pass off,harmonize,disappear,turn,perish,go bad,run short,kick the bucket,give way,give out,pick out,hold out,run,get,select,operate,go out,choke,give-up the ghost,blend in,move,take,choose,plump,pass away,travel,break,change,accord,survive,cause to be perceived,agree,change state,leave,function,run low,snuff it,come about,occur,endure,work,croak,live,proceed,search,decease,belong,harmonise,live on,end,fall out,be,break down,finish,terminate,cash in one's chips,cease,consort,take place,stop,locomote,become
+register	file,put down,post,show up,cross-file,record,enrol,indicate,recruit,run,campaign,affect,inscribe,read,show,enter,enroll,send,mail,play
+pattern	fit,gibe,model,correspond,copy,check,jibe,match,agree,imitate,simulate,tally
+ignite	evoke,light,arouse,elicit,turn,take fire,burn,fire,heat,provoke,kindle,change state,erupt,stir up,fire up,wake,combust,catch fire,raise,conflagrate,enkindle,inflame
+reevaluate	assess,evaluate,valuate,value,appraise,reassess,measure
+portion	dole out,assign,lot,mete out,deal,shell out,parcel out,distribute,allot,deal out,dish out,dispense,administer
+complete	dispatch,carry out,execute,accomplish,make out,nail,make full,fill,discharge,fill up,fill out,fill in,fulfil,carry through,end,finish,terminate,fulfill,play,action
+know	see,recollect,have it away,do it,cognise,agnize,fuck,cognize,think,screw,retrieve,make love,differentiate,acknowledge,agnise,hump,get it on,make out,copulate,severalise,tell apart,be intimate,bang,accept,jazz,recall,eff,recognize,experience,go through,undergo,realise,sleep with,tell,love,secernate,mate,severalize,realize,have intercourse,remember,couple,live,bed,have sex,bonk,pair,call back,secern,call up,separate,have it off,get laid,have a go at it,recognise,lie with,distinguish,roll in the hay
+kick	recoil,strike out,trip the light fantastic,ricochet,dance,rack up,rebound^,give up,kvetch,hit,kick back,bound,bounce,take a hop,reverberate,quetch,propel,complain,tally,trip the light fantastic toe,spring,impel,sound off,resile,plain,forgo,score
+content	circumscribe,limit,confine,satisfy,gratify
+hoax	play a joke on,cozen,lead on,delude,deceive,pull someone's leg
+consider	see,chew over,view,think about,discuss,count,muse,think over,evaluate,moot,contemplate,think,hash out,reflect,look at,believe,reckon,examine,canvass,deal,weigh,meditate,conceive,debate,turn over,take,study,regard,canvas,judge,excogitate,ruminate,ponder,talk over,speculate,mull over,deliberate,mull,analyse,look,pass judgment,analyze
+lop	trim,clip,discerp,snip,crop,cut back,cut,prune,thin out,dress,sever
+steepen	change,alter,modify
+break	dissipate,vary,fly,expose,break off,break up,trip the light fantastic,get out,deaden,better,give,express emotion,divulge,fail,intrude,fracture,hap,conk out,break-dance,appear,commute,dance,go on,break away,assign,happen,dampen,fall apart,divide,void,die,surmount,reclaim,smash,pass,wound,part,nullify,give up,diphthongise,disrupt,exchange,pass off,damp,turn,express feelings,offend,emerge,relegate,delegate,crumble,fall in,split,escape,demote,break loose,quash,outgo,go bad,discover,wear out,shift,outperform,impoverish,give way,give out,get away,domesticate,diminish,designate,discontinue,outdo,check,flee,reveal,founder,get,exceed,annul,convert,avoid,break out,go,go against,wear,come forth,weaken,let out,bring out,cut off,bust,give away,soften,perforate,domesticize,domesticise,change,lessen,break dance,disrespect,surpass^,outstrip,tell,change state,trespass,violate,lick,work out,depute,erupt,fall,come about,tame,occur,impart,kick downstairs,lay off,puzzle out,work,interrupt,blunt,switch,infract,bankrupt,break in,figure out,diphthongize,trip the light fantastic toe,pause,alter,crack,disclose,let on,burst,invalidate,intermit,end,snap off,shoot,fall out,separate,break down,change integrity,cave in,damage,solve,unwrap,finish,detach,decay,terminate,split up,injure,decrease,recrudesce,develop,outmatch,disunite,ruin*,collapse*,modify,cease,destroy,take flight,take place,get around,quit,penetrate,stop,scatter,bump,breach,come apart,disperse,become,delapidate,transgress,spread out
+course	track down,flow,get over,cover,cut across,pass over,get across,hunt down,run,cut through,track,move,traverse,cross,hunt,feed
+defy	hold up,challenge,withstand,escape,hold,hold out,dare,elude,resist,refuse,stand firm
+recycle	utilise,reprocess,utilize,reuse,cycle,employ,apply,use
+kindle	light,flare up,arouse,elicit,en evoke,fire,make,ignite,provoke,create,raise,en conflagrate,inflame
+barber	neaten,groom
+stabilize	steady,strengthen,fortify,beef up,brace,change,alter,stabilise,modify
+slay	dispatch,polish off,remove,off,kill,hit,bump off,murder
+lower	grimace,lour,take down,let down,depress,pull a face,get down,move,displace,turn down,change,minify,lessen,devalue*,bring down,alter,frown,g lour,decrease,make a face,modify
+agree	fit in,correspond,harmonize,jibe,harmonise,fit,match,concord,gibe,accord,agree,be,go for,hold,suit,check,consort,equal,concur,accept,tally,consent
+freight	charge,transport
+negative	blackball,controvert,contradict,oppose,veto
+huddle	huddle together,flock,bend,crouch,clump,cower,constellate,stoop,bow,cluster
+beleaguer	tease,torment,assail,surround,attack,bedevil,circumvent,besiege,pester,dun,hem in,rag,frustrate,bug,crucify,badger
+fee	give,bung,tip,gift,present
+shock	traumatise,churn up,floor,nauseate,collide,traumatize,surprise,clash,wound,outrage,appal,offend,pull together,collect,stun,treat,disgust,ball over,blow out of the water,take aback,dismay,garner,scandalize,alarm,revolt,care for,sicken,horrify,scandalise,injure,appall,gather
+budget	figure,reckon,cipher,work out,compute,calculate,cypher
+body	em be,personify
+tame	chasten,subdue,tone down,reclaim,domesticate,accommodate,adapt,cultivate,moderate,domesticize,domesticise,change,naturalize,naturalise,alter,modify
+neighbour	dwell,butt,butt on,butt against,neighbor,march,border,adjoin,inhabit,live,abut,edge
+perk	pick up,percolate,gain vigor,convalesce,recuperate,recover^,perk up
+create	act,charge,make,move,appoint,create,produce
+afford	yield,furnish,give,render,supply,open,drop,spend,expend,provide
+dodge	fudge,hedge,circumvent,put off,avoid,move,sidestep,elude,parry,duck,evade,skirt
+bottom	strike,impinge on,furnish,render,run into,supply,collide with,provide,understand,fathom,hit,penetrate
+package	box,encase,incase,case
+single	hit
+justify	rationalize,uphold,reassert,adjust,apologise,maintain,apologize,defend,absolve,correct,support,forgive,free,warrant,set,excuse,rationalise,vindicate,confirm,fend for
+hole	core out,hollow,hit,hollow out,hole out
+signal	betoken,intercommunicate,signalize,indicate,communicate,signalise,bespeak,sign,tell,point
+pursue	go after,follow up on,follow,look for,act,go,move,travel,quest after,search,act on,react,engage,oppose,quest for,locomote,seek,prosecute
+expand	lucubrate,extend,thrive,blow up,elaborate,elucidate,expound,clear up,get ahead,grow,expatiate,dilate,change,enlarge,boom,clarify,alter,prosper^,flesh out,inflate,exposit,modify,flourish,increase,amplify,spread out
+approach	move,come near,come,approximate,draw near,address,accost,come on,near,come close,come up,go about,draw close,border on,act,come up to,set about,go up
+speak	sound,talk,intercommunicate,address,verbalise,utter,verbalize,communicate,mouth
+condone	forgive,excuse
+adventure	gamble,assay,put on the line,attempt,stake,run a risk,take chances,risk,hazard,venture,essay,take a chance,jeopardize,chance,try,lay on the line,seek
+advantage^	favor,prefer,favour
+downgrade	order,rank,rate,range,grade,place
+gap	open,open up,breach
+belong	dwell,lie in,consist,lie,exist,be,go
+prosper^	thrive,turn,get ahead,grow,change state,fly high,boom,expand,flourish
+clue	wrap,wind,twine,clew,roll
+slump	go down,give,come down,descend,slide down,swag,flag,decline*,fall in,sag,correct,give way,founder,break,droop*,fall off,drop,sink,slouch,fall,cave in,collapse*
+sift	pick out,examine,canvass,select,go,sieve,move,take,choose,travel,study,canvas,strain,separate,analyse,analyze,locomote
+pry	wring from,intrude,open,lever,extort,prize,enquire,ask,inquire,horn in,prise,open up,search,jimmy,look,poke,nose
+dive	go down,come down,submerge,descend,submerse,plunge,fall,swim,plunk
+infect	debauch,strike,debase,give,foul,demoralise,impress,subvert,demoralize,contaminate,corrupt,profane,pervert,move,pollute,affect,deprave,misdirect,taint,vitiate
+enter	insert,come after,save,preserve,get in,start,follow,figure,put down,attach,get into,take office,come in,record,participate,enrol,introduce,recruit,commence,get,get down,accede,go in,register,set out,succeed,go into,infix,inscribe,set about,embark,start out,be,enroll,begin,move into
+wager	gamble,forebode,promise,predict,prognosticate,bet,foretell,anticipate,call,play
+stuff	shove,foul,overeat,back up,lug,impregnate,gormandize,scarf out,gormandise,thrust,overgorge,choke off,congest,gorge,push,overindulge,ingurgitate,clog up,make full,fill,binge,engorge,choke,block,choke up,saturate,fill up,squeeze,eat,englut,clog,satiate,glut,gourmandize,pig out,farce,force
+tick	sound,click,tick off,ticktock,check,verify,mark off,check off,go,mark,beat,resew,run up,ticktack,sew together,stitch
+term	name,call
+plain	com kick,kvetch,quetch,sound off
+compensate	remunerate,cover,recompense,right,settle,even out,pay,redress,equilibrize,pay off,correct,over counterbalance,make up,even up,change,indemnify,repair,equilibrate,alter,even off,balance,counterbalance,equilibrise,modify
+hurt	disconcert,evoke,arouse,elicit,wound,ache,offend,perceive,indispose,discomfit,fire,smart,provoke,kindle,cause to be perceived,upset,spite,bruise,suffer,untune,pain,anguish,raise,comprehend,be,damage,injure,discompose,enkindle
+jump-start	start,lead off,jumpstart,commence,start up,jump,begin
+call	see,emit,holler,forebode,view,expect,request,telephone,name,promise,quest,pretend,arouse,gainsay,hazard,exact,hollo,get together,require,bid,predict,awaken,yell,challenge,order,address,tempt,enjoin,hold over,ask,stop over,declare,hold,reckon,call for,indicate,defer,set back,put off,cry,prognosticate,utter,squall,phone,put over,let out,postpone,scream,table,consider,prorogue,turn to,bespeak,regard,shout,shelve,shout out,let loose,tell,adjudge,meet,visit,send for,demand,wake,lure,telecommunicate,read,entice,remit,ring,foretell,call up,label,call in,dispute,waken,anticipate,say,guess,stop,play,venture,call off,rouse,wake up
+except	take out,do away with,omit,demur,object,leave out,eliminate,exclude,leave off,get rid of
+quit	go forth,abandon,drop out,fall by the wayside,renounce,go away,step down,give up,depart,foreswear,drop by the wayside,discontinue,take leave,throw in,leave,resign,lay off,pull up stakes,chuck up the sponge,cease,relinquish,stop,throw in the towel,leave office
+gauge	coalesce,commingle,blend,meld,conflate,figure,approximate,combine,reckon,estimate,cipher,standardise,standardize,fuse,work out,find,judge,ascertain,compute,rub,calculate,immix,quantify,flux,find out,merge,cypher,guess,determine,mix,measure
+amplify	hyperbolize,overdraw,exaggerate,overstate,inflate,mislead,misinform,deepen,enlarge,intensify,heighten,magnify,blow up,increase,compound,hyerbolise,expand
+hug	clasp,touch,embrace,adjoin,squeeze,meet,bosom,contact
+comment	mention,rede,annotate,gloss,explain,note,interpret,notice,point out,explicate,observe,remark
+mobilise	rally,marshal,militarize,circulate,pull together,collect,move,garner,displace,summon,send for,militarise,mobilize,call up,call,gather
+humble	wound,offend,abase,humiliate,mortify,change,spite,bruise,alter,injure,hurt,modify,chagrin
+rouse	rout out,be active,charge up,bestir,charge,awaken,force out,move,displace,trouble,disturb,commove,turn on,agitate,upset,wake,alter,achange,drive out,waken,modify,excite,wake up
+want	look for,require,desire,demand,search,need,lack,miss,be,seek
+compare	inflect,equate,examine,canvass,consider,study,canvas,liken,be,analyse,analyze
+wobble	tilt,coggle,careen,shift,shimmy,move,vibrate
+underline	punctuate,accent,emphasize,underscore,emphasise,mark,stress,accentuate
+crunch	break up,make noise,press,bray,fragmentise,masticate,mash,fragmentize,comminute,resound,scraunch,jaw,crackle,craunch,chew,scranch,grind,munch,cranch,fragment,manducate,noise
+steel	cover,poise,brace,nerve
+key	reconcile,render,name,supply,provide,vandalize,chord,harmonize,discover,describe,furnish,vandalise,key out,identify,harmonise,distinguish
+save	save up,keep,preserve,redeem,deliver,spend,forbid,prevent,foreclose,rescue,reserve,forestall,hold on,hold,relieve,preclude,spare,refrain,expend,hold open,forbear,economize,bring through,economise,drop,pull through,keep open,salve,lay aside,make unnecessary,carry through,salvage,book
+target	aim,take,train,take aim,direct,place,point
+view	see,take in,watch,think,look at,believe,reckon,examine,canvass,conceive,consider,study,regard,canvas,analyse,analyze,catch
+foot	pay,foot up,leg it,hoof it,add,add together,walk,hoof,pick
+temper	chasten,toughen,adjust,anneal,correct,weaken,moderate,mollify,change,season,set,alter,normalize,harden,modify
+plan	create mentally,cerebrate,be after,think,project,intend,mean,design,cogitate,contrive,create by mental act
+buffet	strike,knock about,batter,hit,buff
+request	pass along,quest,pass,enquire,ask,inquire,call for,communicate,bespeak,wonder,pass on,put across
+contract	come down,shrink,promise,condense,press,reduce,narrow,shorten,abridge,assure,diminish,constrict,cut,get,take,sign,squeeze,change,minify,lessen,foreshorten,sign up,fall,employ,tighten,sign on,sicken,alter,compact,hire,compress,undertake,decrease,modify,engage,concentrate,abbreviate
+tone	color in,inflect,colour in,color,exercise,strengthen,talk,verbalise,utter,verbalize,chant,discolour,tone up,discolor,work out,mouth,colourise,modulate,colorise,colorize,speak,colour,colourize,intalk
+sit	posture,put,expose,pose,exhibit,change posture,model,display,ride,seat,position,go,move,travel,sit down,convene,set,lay,be,place,baby- guard,locomote
+open	expose,give,arise,start,exhibit,yield,display,turn,commence,unfold,go,move,start up,embark on,change state,open up,afford,spread,undo,come up,spread out
+appear	materialise,perform,appear,materialize,be,seem,come along,happen,do,look,execute,come out
+touch	strike,partake,color in,advert,hint,stir,take in,colour in,color,impress,have,allude,tinge,understand,perceive,refer,come to,relate,impact,care,deal,ingest,move,take,adjoin,change,disturb,match,affect,compete,handle,tinct,consume,manage,meet,touch on,colourise,suggest,bear on,concern,colorise,colorize,extend to,vie,tint,rival,alter,comprehend,be,contend,reach,colour,contact,colourize,bear upon,modify,equal,pertain
+stir	strike,evoke,put forward,touch,conjure,impress,arouse,elicit,sensitize,shift,fire,make,sensitise,invoke,provoke,move,displace,bring up,affect,kindle,call down,budge,shake,shake up,agitate,conjure up,create,call forth,work,raise,excite,stimulate,enkindle
+gas	brag,attack,bluster,magnify,shoot a line,overstate,gasconade,vaunt,assail,boast,exaggerate,swash,tout,hyperbolize,blow,overdraw,hyerbolise,amplify
+hope	want,plan,wish,trust,be after,go for,desire
+imply	paint a picture,evoke,inculpate,necessitate,evince,require,postulate,ask,call for,entail,mean,take,demand,suggest,need,express,connote,show,involve,incriminate
+die	buy the farm,cut out,fail,conk out,languish,go away,pine,die,drop dead,pass,conk,become flat,pop off,ache,vanish,expire,exit,disappear,turn,perish,go bad,kick the bucket,feel,give way,give out,die out,yearn,go,choke,give-up the ghost,experience,pass away,break,change,change state,snuff it,endure,croak,suffer,decease,lose it,snap,break down,cash in one's chips,pall,yen,play
+warn	rede,inform,monish,order,enjoin,advise,discourage,tell,admonish,say,counsel
+have	birth,own,give,have it away,do it,deliver,rack up,fuck,take in,screw,induce,throw,make love,feature,bring forth,cause,hump,sustain,receive,hold,get it on,make out,hit,get,be intimate,bang,make,accept,jazz,interact,eff,know,ingest,experience,take,undergo,change,sleep with,love,consume,have intercourse,suffer,tally,bed,produce,have sex,have got,give birth,bonk,bear,let,acquire,have it off,direct,possess,get laid,have a go at it,lie with,hurt,score,stimulate,roll in the hay
+husband	save,preserve,conserve,economize,economise
+validate	authorize,authorise,reassert,pass,formalise,sustain,substantiate,support,formalize,clear,change,affirm,alter,corroborate,confirm,modify
+sheet	cover,pour,rain cats and dogs,stream,pelt,rain buckets
+launch	open,smooth,start,found,set in motion,establish,commence,get,get down,set out,move,displace,open up,plunge,propel,set about,smoothen,impel,start out,set up,begin
+plow	cover,turn,address,treat,deal,broach,go,move,travel,handle,till,initiate,plough,locomote
+exist	subsist,survive,live,be
+curb	subdue,hold in,keep,keep back,circumscribe,contain,cut back,hold,restrict,conquer,check,stamp down,limit,control,restrain,hold back,moderate,constrain,confine,suppress,cumber,encumber,inhibit,curtail
+right	change posture,redress,turn,correct,change by reversal,change,alter,rectify,reverse,compensate,modify
+talk	expose,divulge,let the cat out of the bag,learn,blab out,lecture,intercommunicate,sing,discover,reveal,babble,verbalise,blab,utter,let out,verbalize,communicate,bring out,give away,break,tell,tattle,instruct,impart,mouth,teach,babble out,spill the beans,speak,disclose,let on,spill,unwrap,peach
+dog	go after,follow,give chase,trail,chase,tail,tag,track,chase after,pursue
+brake	halt,stop
+sport	have,frolic,feature,run around,lark about,boast,gambol,romp,lark,skylark,rollick,frisk,play,di cavort
+revise	rewrite,reorganize,reorganise,retool,shake up
+crash	gate-intrude,break up,go down,fail,conk out,come down,occupy,collide,die,descend,pass,clash,reside,go bad,doss,disintegrate,go across,give way,dash,give out,cast,hurtle,go,irrupt,move,doss down,go through,break,bed down,change,break apart,hurl,ram,fall,bunk down,lodge in,barge in,break down
+bundle	form,practice bundling,kip,wad,clump,catch some Z's,pack,bunch,slumber,bundle up,compact,roll up,set up,arrange,cluster,log Z's,sleep,bunch up
+unsettle	disconcert,unnerve,discomfit,upset,untune,enervate,faze,discompose
+remedy	right,correct,relieve,remediate,treat,amend,repair,care for,rectify
+predict	forebode,betoken,promise,presage,pretend,hazard,prefigure,omen,augur,indicate,prognosticate,bespeak,foreshadow,signal,auspicate,foretell,portend,forecast,anticipate,call,guess,venture,bode,point
+post	put in,put up,carry,install,assign,put down,station,affix,instal,record,delegate,stick on,brand,designate,move,mark,displace,list,base,depute,transfer,ride horseback,stake,enter,set up,announce,send,place,call,mail,denote
+cede	con yield,give,deliver,give up,surrender,gift,grant,present
+disappear	go away,vanish,weaken,end,finish,terminate,cease,stop,melt
+quote	mention,advert,give,name,punctuate,refer,restate,mark,iterate,bring up,ingeminate,retell,repeat,cite,reiterate
+pot	implant,plant,engraft,embed,imbed
+tail	go after,dock,follow,give chase,dog,trail,chase,tag,pinch,cut,track,chase after,top,pursue,bob
+write	trace,pen,create mentally,draw,spell,correspond,intercommunicate,record,describe,make,communicate,drop a line,line,create verbally,indite,create,publish,delineate,create by mental act,tape,compose
+curve	arch,slue,wind,change surface,kink,bend,turn,arc,twist,swerve,cut,sheer,curl,trend,flex,veer,be,slew,crook
+fix	desexualise,desex,put,meliorate,better,pose,fixate,furbish up,found,cook,attach,doctor,get even,restore^,constitute,pay off,establish,ready,operate on,pick out,position,plant,get,limit,select,operate,make,amend,secure,take,choose,get back,pay back,change,bushel,touch on,create from raw stuff,prepare,set,institute,desexualize,repair,gear up,alter,deposit,lay,create from raw material,sterilise,sterilize,set up,situate,place,ameliorate,posit,modify,unsex,specify,improve,determine,fasten,mend
+reshuffle	shuffle,ruffle,rearrange,mix
+premise	premiss,presuppose,introduce,expound,tell,suppose,preface,state,set forth,precede,exposit,say
+unravel	unpick,disintegrate,run,unsnarl,disentangle,unknot,straighten out,untangle,ravel,undo,unscramble,ravel out
+arrive	come,succeed,go far,win,make it,come through,get in,get,bring home the bacon,deliver the goods
+bond	stick,adhere,attach,unite^,tie,relate,bring together,bind,hold fast,stick to,mortgage,unify,draw together
+card	see,see to it,assure,check,control,tease,ascertain,ensure,insure,separate
+declare	authorize,exclaim,proclaim,authorise,evaluate,pass,assert,hold,verify,aver,avow,swan,clear,tell,adjudge,affirm,judge,state,swear,announce,say,pass judgment,promulgate,play
+slope	tilt,incline,tip,angle,lean,pitch,slant
+ready	cook,fix,make,change,set,create from raw stuff,prepare,gear up,alter,create from raw material,set up,modify
+pack	tamp,lade,back hike,pack together,load,carry,name,throng,nominate,have,seal,bundle,wad,feature,load down,constitute,pile,laden,jam,treat,make full,fill,tamp down,encase,crowd,appoint,take,fill up,incase,crowd together,mob,transport,case,care for,compact,load up,be,compress,set up,arrange,seal off
+regain	retrieve,get,recover^,find,acquire
+capitalize	see,view,render,supply,commute,figure,provide,exchange,write,reckon,advantage^,capitalise,cipher,convert,consider,benefit^,furnish,change,regard,work out,compute,gain,calculate,cypher,profit
+introduce	insert,put,put in,inclose,bring in,give,pose,enclose,start,attach,inform,lead off,acquaint,premise,establish,project,position,commence,bring out,propose,tell,inaugurate,pioneer,infix,set,preface,stick in,state,lay,enter,initiate,innovate,place,precede,say,begin,usher in,present
+adopt	assume,take,choose,write,change,pen,acquire,indite,espouse,take over,follow,pick out,take in,take up,sweep up,have,compose,take on,embrace,select,accept,dramatise,take office,borrow,dramatize
+war	fight,struggle,contend
+verse	poetize,pen,familiarize,acquaint,write,versify,indite,poetise,familiarise,compose
+generate	give,render,yield,bring forth,father,get,engender,make,beget,create,sire,produce,mother,return
+embrace	clasp,sweep up,cover,encompass,include,adopt,accept,squeeze,espouse,bosom,comprehend,hug
+resume	carry on,preserve,re-start,uphold,assume,restate,adopt,summarise,iterate,change,ingeminate,retell,repeat,take over,take on,sum up,bear on,continue,take up,restart,summarize,reiterate
+bang	bed,make love,strike,know,move,have sex,impinge on,bonk,slam,pair,travel,spang,hump,have it away,do it,sound,shut,run into,sleep with,love,get it on,mate,make out,have it off,copulate,fuck,hit,collide with,get laid,close,have a go at it,lie with,screw,be intimate,have intercourse,jazz,go,couple,roll in the hay,locomote,eff
+store	put in,keep,hive away,hold on,lay in,stash away,salt away,stack away
+track	bring in,go after,get over,follow,give chase,cover,pass,dog,trail,chase,cut across,pass over,get across,tail,tag,go across,introduce,cut through,make,chase after,go through,create,pursue,observe,traverse,cross
+mortgage	owe
+sex	stir,arouse,differentiate,severalise,tell apart,wind up,tell,secernate,shake,shake up,severalize,turn on,secern,separate,distinguish,stimulate,excite
+well	rise,rise up,come up,ssurface
+wear	wear upon,tire,fall apart,deteriorate*,have,get into,last,assume,put on,feature,indispose,crumble,wear thin,wear out,wear down,hold out,fatigue,fag out,jade,don,bust,break,wear off,dress,weary,endure,have on,fag,bear,get dressed,out wear down,tire out,decay,delapidate
+hamper	strangle,disfavour,disfavor,restrict,limit,restrain,confine,trammel,bound,cramp,disadvantage,halter,hinder,throttle,handicap
+headline	render,supply,provide,advertize,publicise,furnish,advertise,publicize
+condition	meliorate,better,make grow,contract,learn,discipline,shampoo,check,stipulate,amend,qualify,train,instruct,teach,undertake,ameliorate,develop,specify,improve
+bust	raid,fall apart,attack,divide,part,crumble,wear out,wear,assail,break,rupture,burst,separate,snap,split up,decay,disunite,ruin*,tear,destroy,come apart,delapidate
+experience	see,have,participate,receive,feel,get,know,go through,undergo,change,take part,live
+undergo	see,put up,have,participate,stand,receive,abide,support,submit,stomach,get,experience,take,go through,endure,take part,suffer,brook,bear,stick out,tolerate,digest
+garner	earn,pull together,collect,get,store,acquire,gather
+travel	jaunt,trip,go,journey,move,move around,locomote
+poll	trim,clip,snip,crop,cut back,canvass,get,prune,lop,canvas,dress,acquire,survey,pollard,vote
+displace	supervene upon,force out,expel,chuck out,replace,dislocate,supplant,uproot,supercede,move,deracinate,turf out,kick out,throw out,boot out,supersede,dislodge,exclude,eject,preempt,resettle,turn out,place,bump
+erase	delete,take out,kill,take away,efface,score out,wipe out,wipe off,rub out,cancel
+prefer	favor,pay,like,favour,kick upstairs,choose,opt,upgrade,raise,promote^,advance,elevate
+celebrate	keep,honour,get together,meet,lionize,lionise,observe,respect,fete,abide by,honor
+blast	make noise,smash,boom,blare,bombard,nail,bomb,hit,shell,resound,noise
+bank	close in,shut in,inclose,tip,swear,give,deposit,do work,enclose,believe,trust,transact,cover,act,work,rely
+pummel	hit,pommel,biff
+outstrip	leave behind,surmount,outgo,outperform,outdo,shell,exceed,distance,trounce,beat,crush,beat out,surpass^,vanquish,outdistance,outmatch
+level	change surface,aim,talk,charge,even out,destruct,take down,dismantle,level off,take,pull down,flush,train,speak,rase,take aim,direct,even,destroy,tear down,point,raze
+wine	booze,treat,regale,drink,fuddle
+train	hold in,make grow,learn,fine-tune,coach,curb,exercise,aim,trail,discipline,ride,contain,hold,refine,position,check,control,cultivate,condition,moderate,take,educate,drag,study,civilize,rail,work out,instruct,school,teach,prepare,polish,take aim,read,down,direct,develop,groom,civilise
+spurt	pour,spout,spirt,forge,gush,go,move,travel,locomote
+season	toughen,temper,flavor,flavour,weaken,mollify,harden
+axe	ax,chop,hack,end,terminate
+beacon	lead,shine,take,guide,direct,conduct,beam
+cycle	motorbike,pass,ride,go across,bi bike,pedal,go through,repeat,make pass,recur,motor ride,wheel
+slap	strike
+do	come,serve,carry out,neaten,get along,spend,act,pass,fare,exercise,execute,accomplish,practice,coiffure,cause,make out,practise,make,answer,go,coif,move,travel,perform,dress,manage,coiffe,fulfil,set,create,proceed,carry through,behave,satisfy,suffice,live up to,groom,arrange,fulfill,locomote,action
+blame*	attribute,pick apart,assign,fault,knock,criticize,accuse,charge,ascribe,pick,impute,criticise*,find fault
+pool	share,group,aggroup
+joint	render,fit,supply,divide,part,provide,fix,go,secure,articulate,furnish,separate,disunite,fasten
+tout	pronounce,brag,gas,bluster,magnify,shoot a line,overstate,gasconade,vaunt,boast,exaggerate,swash,judge,hyperbolize,blow,overdraw,label,hyerbolise,amplify
+propel	prompt,cause,incite,make,move,displace,motivate,do,actuate,impel
+illustrate	adorn,lucubrate,render,instance,elaborate,beautify,ornament,exemplify,decorate,embellish,expound,expatiate,dilate,enlarge,grace,expand,depict,show,flesh out,exposit,picture
+suggest	paint a picture,evoke,convey,hint,imply,inform,evince,declare,indicate,advise,propose,impart,express,show,intimate
+bull	fake,pretend,push,go up,rise,feign,affect,climb,bear on,job,sham,speculate,bullshit,bull through,dissemble
+tie	form,equate,attach,draw,relate,fix,bond,fashion,link up,forge,restrict,limit,equalise,restrain,splice,secure,confine,trammel,match,bound,wed,equalize,officiate,bind,throttle,shape,marry,connect,equal,link,fasten
+release	issue,unblock,exudate,give,bare,supply,unloosen,secrete,pass,ooze out,give up,unfreeze,turn,expel,unloose,transmit,free,let go of,bring out,transude,turn over,publicise,loose,discharge,ooze,liberate,channelize,let go,exude,transport,channel,resign,transfer,publish,put out,eject,channelise,pass on,reach,relinquish,hand,publicize,air
+fade	devolve,languish,go away,deteriorate*,pass,vanish,pass off,disappear,degenerate,blow over,wither,weaken,drop,fleet,evanesce,melt
+borrow	take,take over,have,acquire,take up,adopt,get,accept
+trundle	go,move,travel,locomote
+liken	compare,equate,consider,study
+snake	wind,wander,glide,meander,curve,twist,thread,weave
+shy	start,throw,jump,startle
+struggle	skin,scramble,clamber,shin,assay,fight,endeavour,climb,strive,try,endeavor,shinny,attempt,struggle,contend,sputter,essay,seek
+dream	imagine,perceive,stargaze,ideate,day woolgather,envisage,comprehend,conceive of
+pip	rack up,wound,kill,hit,shell,trounce,beat,crush,beat out,whip,vanquish,shoot,injure,worst,mop up
+holiday	spend,pass,vacation
+stash	save up,save,hoard,squirrel away,lay aside,cache,lay away,hive up
+remark	mention,note,tell,notice,point out,observe,state,remark,say,comment
+bean	hit
+mar	maim,spoil,deflower,impair,mutilate,damage,vitiate
+haunt	obsess,frequent,follow,ghost,travel to,preoccupy,visit,stalk,pursue
+pick	strike,evoke,break up,foot,pierce,pull,piece,criticize,draw,remove,pay,pull together,collect,take away,pick out,withdraw,beak,peck,select,criticise*,find fault,kick up,provoke,nibble,take,choose,garner,pick apart,eat,knock,blame*,cull,pluck,call forth,clean,rob,force,gather,plunk
+near	go up,draw draw close,come on,come come,approach,come up
+calculate	forebode,count,promise,figure,trust,evaluate,aim,predict,reckon,designate,intend,estimate,cipher,count on,prognosticate,reason,bank,bet,work out,judge,depend,account,compute,swear,foretell,direct,look,forecast,anticipate,call,cypher,pass judgment,specify,destine,rely
+hammer	forge,beat
+doom	assure,declare,fate,designate,guarantee,secure,ensure,insure,sentence,ordain,condemn,destine
+spin	cook up,extend,rotate,spin around,twirl,protract,manufacture,gyrate,twist,stream,well out,invent,make up,distort,reel,whirl,twine,spin out,represent,go around,birl,revolve,create from raw stuff,prolong,create from raw material,fabricate,lay out,draw out,circumvolve,present
+shoot	insert,dissipate,put in,emit,inclose,buck,scoot,frivol away,enclose,rush along,hie,rack up,pelt along,shoot down,speed,put down,throw,wound,pullulate,photograph,charge,ache,burgeon forth,kill,hotfoot,germinate,dart,record,flash,scud,squander,waste,belt along,mensurate,dash,cannonball along,give out,cast,project,introduce,hit,fool,weave,inject,smart,fire,rush,utter,let out,interweave,grow,take,discharge,fritter away,bourgeon,sprout,race,let loose,consume,film,spud,ware,tally,bucket along,give off,stick in,pip,enter,snap,contrive,hasten,injure,hurt,tear,measure out,fritter,dispense,score,fool away,measure,administer
+counteract	hold in,subvert,act,curb,set off,disobey,contain,hold,check,control,antagonize,weaken,moderate,move,neutralize,countercheck,sabotage,antagonise,cancel,counterbalance,countermine,offset,undermine*,countervail
+erode	eat at,gnaw,fret,crumble,gnaw at,eat away,wear away,damage,decay,delapidate
+chalk	draw
+revalue	appreciate,value,rate,apprise,apprize,increase
+scrap	toss out,quarrel,trash,toss away,argue,chuck out,junk,cast out,cast away,convert,altercate,debate,throw out,argufy,cast aside,toss,dispose,throw away,fling,fence,put away,contend,dispute,discard
+shun	blackball,eschew,ostracize,ostracise,expel,cast out,avoid,kick out,throw out,banish,ban
+advance	kick upstairs,loan,get ahead,rise,move,boost,wax,meliorate,propose,displace,travel,better,further,delegate,upgrade,encourage,win,throw out,mount,come on,gain,raise,promote^,go on,assign,pass on,come along,support,march on,make headway,get along,back up,depute,advise,designate,ameliorate,elevate,develop,shape up,get on,climb,move on,lend,set,pull ahead,supercharge,improve,suggest,progress,increase,go,set ahead,gain ground,amend,bring forward,locomote
+frustrate	torment,plague,forbid,prevent,foreclose,bedevil,forestall,dun,preclude,spoil,harry,foil,provoke,baffle,molest,bilk,queer,chivy,hassle,cross,harass,scotch,beset,chivvy,rag,chevy,thwart,chevvy,crucify
+decrease	diminish,change,minify,lessen,change magnitude,fall,alter,modify
+confirm	okay,reassert,strengthen,fortify,beef up,sustain,substantiate,support,sanction,approve,affirm,O.K.,covenant,corroborate
+blue	discolor,color,colour,discolour
+drive	pressure,track down,power,dig,get over,hale,cover,throw,tug,aim,thrust,cut across,pass over,coerce,get across,ride,hollow,hunt down,push,labour,hit,intend,run,get,cut through,control,make,operate,labor,track,mean,go,fight,force back,move,take,displace,travel,squeeze,do work,push back,beat back,ram,motor,propel,work,repel,traverse,cross,struggle,excavate,repulse,impel,hunt,force,locomote
+equal	equate,touch,equalise,change,match,compete,equalize,vie,rival,alter,be,contend,modify
+contradict	vary,take issue,belie,diverge,differ,depart,shew,negate,establish,controvert,disagree,deviate,dissent,rebut,refute,show,prove,demonstrate,oppose,contravene
+trade	swop,trade in,exchange,merchandise,interchange,deal,swap,change,transact,switch,sell
+oppose	pit,fight down,act,defend,play off,argue,contrast,controvert,move,fight,debate,match,counterpoint,face,confront,rebut,struggle,refute,fence,react,counterbalance,fight back,contend,contradict
+breach	break,disrespect,open,violate,open up,infract,offend,gap,go against,transgress
+reprieve	deliver,rescue,respite,hold over,defer,set back,put off,put over,postpone,table,prorogue,shelve,remit
+action	accomplish,finish,effectuate,carry through,challenge,fulfil,sue,effect,fulfill,process,execute,carry out,litigate,set up,complete
+air	publicise,aerate,broadcast,expose,freshen,refresh,air out,ventilate,bare,tell,transmit,send,vent,publicize,beam,dry out,dry
+abuse	misuse,do by,attack,treat,round,maltreat,clapperclaw,expend,ill-use,ill-treat,step,use,snipe,lash out,assail,mistreat,shout,blackguard,assault,handle,pervert
+date	see,stamp,render,assort,supply,affiliate,provide,go steady,go out,furnish,set,associate,date stamp,consort,determine
+vary	diversify,diverge,motley,differ,depart,variegate,change,deviate,alter
+form	act upon,comprise,take take shape,constitute,forge,make up,make,organize,mold,represent,imprint,change,mould,influence,create from raw stuff,create,work,spring,alter,create from raw material,be,shape,organise,modify,become
+shore	come,shore up,prop,land,hold up,sustain,hold,support,get,border,set a arrive,bound,prop up
+dust	smutch,cover,smudge,make clean,discharge,blur,dot,smear,clean,sprinkle,scatter,disperse
+guy	roast,blackguard,poke fun,steady,bemock,brace,jest at,make fun,stabilize,ridicule,laugh at,stabilise,mock,rib
+buy	pay,believe,corrupt,get,bribe,purchase,acquire,be,grease one's palms
+wield	maintain,have,hold,handle,exert,have got,manipulate
+skid	slue,glide,brake,get up,slide,bring up,lift,slip,raise,elevate,slew
+give	ply,dole out,emit,render,hap,subject,supply,open,commit,go on,happen,cerebrate,ease up,have,utilise,think,contribute,recompense,chip in,pass,throw,execute,give up,provide,evince,consent,lead,offer,pay,pass off,yield,intercommunicate,approximate,wassail,fall in,move over,go for,kick in,establish,hold,toast,give way,lot,utilize,submit,countenance,mete out,estimate,deal,free,founder,generate,make,proffer,accept,utter,let out,allow,communicate,move,stretch,turn over,devote,inflict,sacrifice,shell out,pledge,furnish,break,change,perform,accord,let loose,gift,indemnify,tell,parcel out,distribute,leave,visit,allot,resign,come about,transfer,occur,cogitate,salute,impart,create,judge,impose,employ,afford,release,repair,deal out,produce,consecrate,bring down,state,express,let,drink,show,permit,fall out,pass on,grant,cave in,reach,direct,cater,dish out,apply,compensate,use,collapse*,say,take place,relinquish,guess,feed,dispense,return,gauge,dedicate,hand,present,administer
+plague	afflict,devil,rile,gravel,vex,get to,get at,harry,chafe,provoke,nettle,bother,molest,chivy,smite,hassle,harass,beset,nark,chivvy,irritate,rag,chevy,blight,chevvy,annoy
+incline	tilt,regulate,tend,take down,let down,slope,run,get down,mold,tip,listen,lower,influence,angle,take heed,hear,dispose,lean,bring down,pitch,slant,be,shape,be given,determine
+extend	deform,widen,gesticulate,straighten,give,render,carry,supply,sit,reach out,cover,gesture,utilise,pass,tense,provide,protract,change form,lead,pay,offer,ride,broaden,poke out,utilize,hold out,run,unfold,go,stretch,change shape,furnish,change,gallop,motion,tense up,employ,prolong,stretch out,straighten out,expand,put out,exsert,alter,strain,be,continue,stretch forth,apply,use,draw out,modify,increase,lengthen
+supplement	attach,comprise,affix,constitute,add,make up,represent,add on,be,append
+subject	touch,refer,subjugate,impact,submit,affect,touch on,dominate,master,bear on,bear upon
+authorise	authorize,appoint,clear,let,permit,countenance,pass,empower^,charge,allow
+glitter	shine,appear,gleam,glisten,seem,glint,look
+abandon	go away,vacate,toss out,go forth,dispose,throw away,cast out,empty,cast away,desert,fling,toss,discard,throw out,put away,give up,chuck out,forsake,desolate,toss away,leave,cast aside
+bite	pierce,prick,sting,ache,seize with teeth,grip,burn,hurt,smart
+hint	convey,impart,suggest
+figure	see,visualise,visualize,dig,evaluate,imagine,fancy,image,grasp,compass,savvy,reckon,apprehend,project,estimate,cipher,count on,get the picture,reason,work out,ideate,judge,compute,envisage,enter,calculate,comprehend,be,grok,envision,forecast,conceive of,cypher,picture,pass judgment
+limp	hobble,hitch,walk,gimp,proceed,go forward,continue
+mirror	reflect,reverberate
+criticize	act,criticise*,pick apart,knock,notice,point out,remark,comment
+fraction	figure,divide,reckon,cipher,work out,compute,calculate,cypher
+scare	stir,intimidate,frighten off,frighten away,fright,dash,scare off,restrain,frighten,shake,shake up,scare away,affright,daunt,pall,excite,stimulate
+contemplate	chew over,view,muse,cerebrate,think over,think,reflect,look at,deal,meditate,take,consider,study,cogitate,excogitate,ruminate,ponder,speculate,mull over,mull
+float	smooth,be adrift,launch,value,examine,convert,go,move,change over,travel,transport,try,test,blow,drift,smoothen,swim,prove,try out,essay,locomote
+advocate	urge on,recommend,propose,exhort,advise,press,suggest,urge,preach
+press	rede,contract,count,plead,flatten,touch,conjure,exercise,urge,urge on,bid,press out,iron,push,cast,advise,make,weigh,advertize,fight,mold,matter,campaign,weight-lift,squeeze,adjure,work out,mould,agitate,create,com constrict,tighten,crusade,beseech,advertise,weightlift,mass,iron out,exhort,compact,promote^,be,flatten out,counsel,entreat,force
+act	roleplay,move,act as,represent,do,pretend,succeed,serve,bring home the bacon,win,playperform,work,play,dissemble,deliver the goods,come through,be,behave,re-create
+inventory	take stock,stock-take,list
+joust	fight,struggle,contend
+throw	form,disconcert,put,give,pose,have,bedevil,remove,thrust,intercommunicate,turn,confound,befuddle,discomfit,hold,take away,shed,cast,project,withdraw,confuse,position,forge,make,verbalise,operate,utter,fox,verbalize,communicate,move,mold,take,displace,hurl,mould,drop,flip,give tongue to,upset,propel,bewilder,set,bemuse,release,work,dislodge,switch,untune,lock,express,throw away,mesh,discombobulate,lay,impel,be,shape,contrive,direct,send,place,discompose,engage,bump,shake off,fuddle,throw off,cast off
+tug	pull in,carry,pull,lug,draw,push,labour,tote,labor,move,fight,displace,tow,transport,draw in,attract,struggle,contend,drive,force
+waffle	waffle,hesitate,waver
+cant	tilt,move,cant over,pitch,slant
+intermediate	mediate,negociate,arbitrate,liaise,talk terms,negotiate,intercede
+ground	put,prime,pose,learn,found,throw,attain,run aland,fix,establish,hold,link up,position,hit,arrive at,make,restrain,secure,confine,anchor,base,undercoat,run areach,instruct,teach,set,tie,lay,gain,paint,place,connect,link,fasten
+prop	shore,shore up,hold up,sustain,hold,support,prop up
+batter	deform,strike,change shape,beat,buffet,dinge,work over,beat up,knock about,clobber,baste,change form
+man	do work,staff,work
+provide	ply,give,render,put up,supply,offer,yield,allow for,wage,fix,ready,support,stipulate,allow,condition,qualify,furnish,leave,set,prepare,afford,gear up,set up,cater,bring home the bacon,engage,specify
+neighbor	dwell,butt,butt on,butt against,march,border,adjoin,inhabit,neighbour,live,abut,edge
+swagger	sweet-talk,bully,blarney,prance,cock,bluster,act,coax,ruffle,sashay,inveigle,swash,walk,cajole,do,browbeat,strut,tittup,palaver,wheedle,behave
+argue	debate,represent,reason,fence,converse,contend,lay out,indicate,present,discourse
+reconsider	see,view,reckon,consider,regard
+beef	kick,holler,crab,quetch,complain,bellyache,squawk,kvetch,gripe,sound off,plain,grouse
+acknowledge	know,give thanks,recognize,notice,recognise,admit,put across,pass along,pass,accept,declare,thank,hold,react,pass on,communicate,respond,receipt,adjudge
+wrong	do by,treat,handle
+challenge	request,quest,gainsay,take exception,bid,invite,repugn,call for,object,contest,bespeak,contend,dispute
+reserve	request,withhold,keep back,assign,quest,hold,call for,allow,portion,earmark,appropriate,bespeak,allot,set aside,book
+punch	pierce,thrust,hit,perforate,plug
+flavor	flavour,season
+stand	put,pose,serve,put up,fight down,rest,evaluate,stand up,defend,with stand firm,abide,support,position,hold out,countenance,stomach,allow,fight,remain,set,endure,judge,stay,suffer,brook,bear,let,remain firm,resist,lay,permit,service,be,fight back,continue,stick out,fend,tolerate,place,place upright,pass judgment,oppose,measure,digest
+stack	lade,load,pile,laden,heap,load up,set up,arrange
+copper	coat,surface
+finance	pay,credit
+disintegrate	decompose,change,alter,change integrity,decay,modify
+explore	look into,name,diagnose,search,research,investigate
+insulate	single out,change,alter,separate,isolate,modify,discriminate
+believe	consider,expect,trust,evaluate,think,judge,anticipate,pass judgment,accept,credit,conceive
+liquidate	ante up,cash in,settle,pay,kill,pay off,waste,knock off,cash,neutralize,pay up,do in,neutralise
+risk	gamble,put on the line,hazard,run a take a chance,assay,try,lay on the line,adventure,attempt,take chances,essay,chance,seek
+tarnish	fleck,sully,blot,stain,maculate,defile,spot,blob
+flee	fly,lam,break away,hightail it,take to the woods,turn tail,escape,run,head for the hills,bunk,scat,run away,fly the coop,scarper,take flight
+reveal	expose,pass along,divulge,pass,display,discover,uncover,let out,communicate,bring out,give away,unveil,break,tell,impart,disclose,show,let on,pass on,unwrap,put across
+spur	strike,fit,boost,goad,further,encourage,outfit,promote^,advance,fit out,equip
+explain	inform,tell,explicate,justify,excuse,state,vindicate,say
+conduct	acquit,carry on,convey,carry,act,execute,lead,guide,hold,transmit,care,deal,comport,move,take,perform,handle,deport,manage,do,channel,bear,behave,direct,bring
+accept	support,tolerate,take over,assume,stomach,evaluate,take,brook,bear,admit,have,get,take on,stand,pass judgment,endure,judge,put up,live with,receive,suffer,acquire,be,go for,react,abide,digest,swallow,stick out,respond,consent
+bracket	edit,group,redact,hold up,sustain,hold,support,bracket out
+criticise*	criticize,act,pick apart,knock,notice,point out,remark,comment
+weaken	deaden,dampen,subvert,step down,damp,disobey,diminish,soften,break,change,minify,de-escalate,lessen,fall,blunt,alter,sabotage,counteract,decrease,modify,countermine,undermine*
+league	unite^,unify
+optimize	act,optimise,do,hone,behave,modify,perfect
+rank	evaluate,order,outexcel,rate,surpass^,stand out,range,judge,grade,be,place,pass judgment
+slow	retard,slack,diminish,weaken,lessen,decelerate,fall,slow up,slacken,slow down,decrease
+creep	pussyfoot,grovel,grow over,sneak,bend,mouse,cower,fawn,go,move,cringe,travel,walk,crawl,flex,diffuse,spread,fan out,locomote,spread out
+debate	discuss,moot,hash out,argue,discourse,turn over,consider,talk over,fence,converse,contend,deliberate
+secure	batten down,attach,strengthen,fortify,beef up,obtain,fix,assure,vouch,close,guarantee,fill up,batten,plug,stop up,ensure,insure,procure,fasten
+devote	give,commit,cerebrate,think,utilise,pay,reserve,utilize,cogitate,employ,consecrate,apply,use,dedicate
+inflict	intercommunicate,communicate,visit,impose,bring down
+soften	deaden,dampen,buffer,relent,yield,damp,weaken,moderate,break,change,blunt,cushion,alter,mince,change intensity,modify
+short-circuit	bypass,spoil,make,avoid,foil,go around,baffle,bilk,queer,create,cross,scotch,frustrate,short,thwart,get around
+ignore	do by,dismiss,disregard,discount,treat,cut,reject,snub,ignore,handle,push aside,brush off,brush aside,neglect
+beware	watch,mind,watch out,look out
+further	back up,foster,boost,support,encourage,promote^,advance
+reestablish	restore^,change,reinstate,alter,modify
+benefit^	aid,do good,gain,acquire,help,get,profit
+endorse	okay,plump for,back up,certify,support,indorse,warrant,back,sanction,guarantee,sign,second,approve,plunk for,O.K.
+pledge	oblige,donate,subscribe,honour,promise,charge,wassail,obligate,consign,assure,hold,toast,salute,drink,bind,reward,honor,plight
+sign	put,gesticulate,pose,contract,subscribe,gesture,validate,bless,formalise,intercommunicate,write,signalize,formalize,position,communicate,signalise,sign up,motion,set,employ,signal,sign on,lay,ratify,hire,undertake,place,engage
+base	move,post,do drugs,displace,establish,send,place,found,station,free- drug,ground
+change	ex intertransfer,vary,ex commute,replace,shift,convert,go,move,travel,dress,deepen,transfer,switch,get dressed,alter,modify,locomote
+regard	see,view,touch,think,refer,come to,relate,believe,reckon,conceive,consider,affect,touch on,bear on,concern,look,involve,pertain
+affect	strike,move,alter,feign,refer,come to,regard,change,relate,sham,touch,impact,pretend,impress,bear upon,modify,touch on,bear on,belie,dissemble,concern,involve,misrepresent,pertain
+droop*	wilt*,loll,dangle,swing,swag,flag,crumble,sag,drop down,drop,sink,decay,delapidate
+harangue	address,speak
+match	cope,pit,render,equate,fit,supply,gibe,twin,grapple,adjust,touch,make do,provide,play off,correspond,conform,correct,bring together,make out,deal,check,equalise,adapt,cope with,furnish,jibe,change,join,compete,agree,manage,mate,meet,face,set,equalize,couple,confront,get by,vie,tally,rival,pair,alter,be,contend,modify,equal,oppose
+survive	overcome,last,exist,hold up,subsist,hold out,go,pull round,outlive,make it,survive,defeat,pull through,endure,live,outlast,live on,come through,get the better of
+clout	strike
+flirt	philander,toy,act,coquette,talk,butterfly,mash,move,chat up,romance,speak,coquet,play,dally
+recoup	keep,withhold,remunerate,recompense,reimburse,hold on,get,recuperate,recover^,acquire,compensate,deduct
+soar	fly,sailplane,arise,hang glide,glide,zoom,go up,uprise,rise,surge^,lift,move up,aviate,climb,soar up,come up,soar upwards,wing,pilot
+dull	tone down,dampen,numb,muffle,damp,desensitise,weaken,soften,change,mute,blunt,desensitize,alter,benumb,pall,modify
+manage	cope,grapple,negociate,act,command,make do,administrate,attain,superintend,accomplish,carry off,bring off,make out,care,deal,control,deliver the goods,move,succeed,handle,manage,achieve,do,oversee,wangle,get by,supervise,win,finagle,come through,contend,reach,bring home the bacon,pull off,administer
+coin	strike,create verbally,create from raw stuff,mint,create from raw material
+bushel	meliorate,better,furbish up,doctor,restore^,fix,amend,touch on,repair,ameliorate,improve,mend
+characterize	differentiate,characterise,think of,qualify,mark,remember,distinguish
+underpin	fit,gibe,correspond,hold up,sustain,hold,support,check,jibe,match,agree,tally,corroborate,bear out
+battle	fight,struggle,contend,combat
+knock	strike,impinge on,knap,sound,ping,criticize,rap,strike hard,tap,pink,hit,go,criticise*,run into,pick apart,notice,collide with,point out,remark,bump,comment
+number	come,count,assort,name,sort,circumscribe,classify,total,designate,limit,add up,confine,enumerate,list,identify,find,keep down,sort out,ascertain,amount,denominate,be,separate,class,find out,numerate,determine
+visit	see,jaunt,inspect,claver,bide,afflict,gossip,get together,natter,intercommunicate,travel to,confab,abide,trip,communicate,discourse,chatter,inflict,jaw,travel,tour,meet,chew the fat,smite,impose,stay,chaffer,bring down,chitchat,confabulate,shoot the breeze,converse,call in,call,chat
+case	close in,inclose,inspect,en in enclose,shut in
+climb	incline,climb up,arise,get along,progress,slope,come along,shape up,get on,go up,uprise,move,rise,grow,come on,mount,lift,move up,wax,pitch,come up,advance,increase
+influence	act upon,touch,regulate,cause,tempt,impact,make,mold,affect,do,touch on,bear on,work,persuade,shape,bear upon,determine,charm
+realize	pull in,see,bring in,earn,cognise,agnize,take in,cognize,understand,harmonize,agnise,substantiate,get,make,know,clear,recognize,realise,actualize,create,actualise,sell,harmonise,gain,acquire,recognise
+shatter	bust,break,burst
+slight	cold-shoulder,dismiss,disregard,discount,ignore,push aside,brush off,brush aside
+endure	see,put up,weather,last,hold up,withstand,stand,die hard,hold,brave,abide,support,hold out,countenance,stomach,run,go,wear,allow,experience,go through,undergo,defy,brave out,survive,suffer,live,prevail,persist,brook,bear,let,permit,live on,continue,stick out,tolerate,measure,digest
+account	answer for,inform,describe,calculate,report,declare,be
+ration	circumscribe,apportion,limit,confine,ration out,allocate
+purchase	buy,get,acquire
+mobilize	rally,marshal,militarize,circulate,pull together,collect,move,garner,displace,summon,send for,militarise,call up,call,gather,mobilise
+remember	think back,mention,recollect,advert,name,will,think,retrieve,colligate,commemorate,refer,relate,commend,link up,tie in,think of,recall,bring up,leave,remember,associate,bequeath,call back,call up,cite,connect,link
+divert	draw off,amuse,draw,take out,turn,hive off,withdraw,deviate,entertain,disport,direct,send
+silver	color in,colour in,color,plate,discolour,discolor,colourise,colorise,colorize,colour,colourize
+associate	assort,relate,link up,tie in,cerebrate,cogitate,think,consociate,consort,connect,unite^,link,affiliate,unify,interact,colligate
+switch	lash,throw,swop,exchange,turn,flog,flip-flop,interchange,shift,change by reversal,lather,operate,change over,trounce,swap,change,flip,whip,alternate,strap,lock,slash,mesh,alter,reverse,modify,switch over,engage,trade,welt,tack
+mistake	err,misidentify,identify,slip
+run up	chalk up,tailor,compile,hoard,get up,collect,hoist,fix,accumulate,tailor-make,pile up,owe,secure,amass,bring up,lift,raise,roll up,elevate,sew together,stitch,sew,fasten
+prevail	predominate,rule,exist,triumph,obtain,die hard,reign,hold,run,dominate,endure,persuade,persist,win,be,continue
+attract	pull in,pull,appeal,draw in,draw,force
+insist	implore,importune,take a firm stand,beg,postulate,assert,pray,posit
+test	see,learn,evaluate,watch,submit,examine,check,quiz,take,undergo,judge,ascertain,screen,try,prove,be,find out,try out,pass judgment,determine,score,essay
+produce	expose,bring about,exhibit,display,bring forth,bring on,get,make,cultivate,bring out,grow,change,farm,create,give rise,raise,acquire,develop
+slip	insert,put in,inclose,steal,skid,give,enclose,worsen*,slue,splay,pass,sneak,glide,blank out,luxate,err,decline*,drop away,escape,break loose,get away,introduce,dislocate,drop off,block,move,turn over,slide,fall away,displace,draw a blank,mistake,stick in,slip one's mind,pass on,reach,forget,slew,hand
+gross	pull in,bring in,earn,take in,make,clear,realise,realize,gain
+blow	fellate,move,form,give away,bobble,bollix,discharge,screw up,expose,repose,displace,travel,flub,burn out,muff,break,sound,divulge,boast,fail,conk out,exaggerate,brag,swash,fuck up,spurt,go away,rest,gas,stir,drop,bollocks,die,spend,blow out,shove along,float,bluster,put down,tout,be adrift,impart,bollix up,magnify,release,shoot a line,go down on,exhale,shove off,expire,botch,hyperbolize,depart,eject,fluff,go wrong,bodge,drift,split,disclose,let on,lay,spout,bumble,burst,go bad,discover,overdraw,squander,expel,mess up,waste,breathe out,spirt,foul up,give way,overstate,shape,break down,miscarry,spoil,ball up,give out,direct,send,mishandle,unwrap,louse up,expend,reveal,use,gush,gasconade,muck up,fumble,excite,stimulate,hyerbolise,bollocks up,go,amplify,vaunt,break open,let out,bungle,botch up,locomote,bring out
+step	abuse,put,pose,render,pace,supply,do by,execute,provide,treat,position,run,go,move,maltreat,travel,furnish,handle,walk,ill-treat,set,mistreat,ill-use,lay,tread,quantify,place,measure,locomote
+beset	adorn,chafe,provoke,nettle,bother,plague,assail,molest,attack,chivy,set upon,incrust,grace,set on,hassle,beautify,devil,encrust,harass,ornament,nark,chivvy,rile,irritate,rag,decorate,gravel,chevy,embellish,chevvy,vex,get to,get at,assault,annoy,harry
+resist	fight down,defend,jib,withstand,escape,stand,disobey,hold out,respond,reject,controvert,fight,defy,dissent,elude,refuse,protest,react,fight back,fend,balk,stand firm,baulk,contradict,oppose
+down	meliorate,better,overcome,knock cut push pull strike,bolt belt pour drink kill,fine-tune,refine,shoot land,amend,go through,toss off,consume,eat,defeat,pop,polish,drink,imbibe,get the better of,ameliorate,devour,improve
+balloon	fly,inflate,aviate,pilot,billow,expand
+nudge	poke at,push,bear on,prod,force
+neglect	fail,disregard,overlook,omit,pretermit,overleap,ignore,leave out,drop,miss
+stress	pronounce,punctuate,accent,afflict,evince,enunciate,emphasize,enounce,emphasise,articulate,try,express,show,strain,sound out,say,accentuate
+concoct	amalgamate,cook up,create mentally,dream up,cook,commix,manufacture,fix,ready,invent,make up,think of,make,unify,think up,prepare,trump up,fabricate,mingle,create by mental act,hatch,mix
+overvalue	overestimate,value
+bias	prepossess,prejudice,predetermine
+prove	print,leaven,evaluate,impress,inform,testify,get up,shew,sustain,establish,substantiate,authenticate,support,examine,evidence,rise,grow,bear witness,bring up,lift,affirm,turn up,judge,try,test,show,raise,corroborate,be,turn out,try out,elevate,confirm,demonstrate,pass judgment,essay
+scale	climb up,surmount,deremove,attain,model,take away,withdraw,hit,arrive at,make,go up,pattern,take,mount,size,climb,gain,quantify,reach,measure
+best	trounce,beat,crush,beat out,trump,vanquish,outflank,outdo,shell,scoop
+announce	state,harbinger,name,identify,declare,tell,foretell,herald,annunciate,say,inform,denote
+culminate	form,climax,attain,accomplish,hit,arrive at,make,achieve,gain,end,reach,finish,terminate,cease,stop
+chart	plan,interpret,represent,map,graph
+nurse	wet- lactate,bottle-feed,give,do by,harbour,hold,feel,treat,care,suck,harbor,experience,give care,handle,suckle,care for,entertain,feed,breastfeed,give suck
+admire	prize,value,esteem,look up to,look,prise,respect
+up	increase
+cater	ply,give,supply,provide,cater
+threaten*	jeopardise,endanger,betoken,presage,warn,prefigure,exist,omen,predict,augur,peril,prognosticate,foreshadow,menace,imperil,auspicate,be,foretell,portend,forecast,bode,jeopardize
+forecast	forebode,betoken,promise,presage,figure,evaluate,prefigure,omen,predict,augur,reckon,indicate,estimate,count on,prognosticate,bespeak,foreshadow,judge,signal,auspicate,calculate,foretell,portend,anticipate,call,pass judgment,bode,point
+prop up	shore,shore up,prop,hold up,sustain,hold,support
+ruin*	scourge,smash,crumble,waste,impoverish,spoil,copulate,lay waste to,desolate,ravage,foil,deflower,break,baffle,bilk,mate,queer,couple,bankrupt,cross,pair,scotch,devastate,decay,frustrate,thwart,destroy,delapidate
+tape	video record,put down,attach,record,enter
+say	convey,request,pronounce,maintain,asseverate,have,assert,feature,record,order,enunciate,enjoin,enounce,allege,verbalise,aver,utter,register,verbalize,articulate,tell,suppose,give tongue to,impart,state,express,read,show,speculate,recite,sound out
+compose	calm,plan,pen,calm down,compile,still,comprise,quieten,lull,constitute,write,tranquillise,draw up,make up,quiet,make,represent,create verbally,tranquillize,indite,frame,create,be,tranquilize
+log	put down,cut down,record,strike down,drop,fell,enter,lumber
+machine	form,forge,make,mold,mould,create,work,produce,shape
+tumble	whirl around,go down,latch on,jumble,topple,come down,dig,worsen*,twig,descend,exercise,grasp,decline*,compass,crumble,scramble,savvy,push,apprehend,throw together,catch on,get it,get the picture,whirl,move,tip,work out,drop,fall,toss,get wise,roll over,get onto,comprehend,break down,change integrity,grok,crumple,cotton on,collapse*,force
+shave	trim,neaten,reduce,cut down,trim down,cut back,knock off,cut,rake,trim back,carve,graze,bring down,cut up,crease,plane,groom
+increase	change,change magnitude,alter,modify
+mop up	sop up,rack up,take in,polish off,get through,draw,finish up,mop,soak up,suck up,shell,suck,complete,clear up,absorb,trounce,beat,crush,beat out,wrap up,whip,vanquish,pip,imbibe,finish off,wipe up,finish,take up,worst
+originate	arise,start,make,uprise,rise,grow,create,spring up,initiate,develop,begin,become
+plight	vow,promise,assure,pledge,affiance,engage,betroth
+slew	skid,slue,glide,turn,curve,swerve,cut,sheer,slide,trend,slip,veer
+counterfeit	re-create,fake,forge
+question	chew over,muse,think over,oppugn,contemplate,interview,interrogate,reflect,ask,meditate,query,discourse,call into challenge,excogitate,ruminate,ponder,wonder,speculate,converse,mull over,mull
+point	deform,taper,target,betoken,furbish up,lie,command,aim,inform,charge,doctor,change form,restore^,tag,steer,manoeuver,head,fix,guide,orient,indicate,sharpen,control,change shape,take,mark,bespeak,channelize,level,tell,train,bushel,luff,manoeuvre,touch on,signal,maneuver,take aim,channelise,show,be,label,direct,place,sail,rerepair,mend
+hand	give,pass,lead,guide,conduct,turn over,take,transfer,pass on,direct,reach
+cough	spit up,spit out,cough up,expectorate,cough out
+hover	fly,oscillate,waffle,bulk large,hang,hesitate,vibrate,linger,vacillate,brood,loom,levitate,wing,waver
+loan	give,lend
+pressure	blackmail,oblige,compel,act upon,hale,coerce,obligate,blackjack,squeeze,influence,work,force
+deprecate	disparage,belittle,reject,depreciate,vilipend,disapprove,pick at
+wilt*	crumble,weaken,droop*,decay,delapidate
+trap	detain,immobilise,take hold,hold,confine,trammel,en snare,pin,capture,immobilize,ensnare,catch
+flow	bleed,menstruate,flood,exist,run,hang,shed blood,move,course,fall,hemorrhage,be,flux,feed
+own	have,possess
+buck	rush along,hie,pelt along,shoot down,jerk,speed,charge,hotfoot,belt along,cannonball along,rush,go against,move,hitch,race,endeavour,strive,bucket along,endeavor,shoot,react,hasten,tear,oppose
+advert	mention,listen,have in mind,refer,pay heed,name,bring up,hint,touch,think of,cite,attend,hang,allude,suggest,mean,give ear
+pierce	strike,sound,impress,thrust,move,perforate,affect,penetrate
+resurrect	rejuvenate,restore^,regenerate,resuscitate,uprise,rise,get back,come back,upraise,raise,go back,revive,return
+trim	adorn,adjust,clip,reduce,cut down,trim down,beautify,ornament,equilibrize,correct,snip,crop,cut back,decorate,garnish,embellish,cut,prune,thin out,lop,minify,lessen,trim back,pare,dress,set,grace,bring down,equilibrate,balance,be,equilibrise,decrease,shave
+compel	oblige,have,induce,command,require,order,obligate,cause,enjoin,get,make,tell,say,stimulate
+retrace	trace,hypothesize,conjecture,hypothecate,reconstruct,get back,hypothesise,suppose,come back,construct,speculate,go back,theorise,return,theorize
+spike	empale,bar,pierce,fortify,transfix,thrust,relegate,fix,spike out,secure,impale,change,alter,banish,develop,modify,lace,increase,fasten
+translate	render,paraphrase,transform,understand,restate,transmit,move,interpret,displace,reword,channelize,change,iterate,ingeminate,retell,repeat,transport,channel,find,rephrase,transfer,ascertain,channelise,read,alter,be,find out,modify,equal,determine,reiterate
+pull	pull in,deplume,get out,rein in,plump for,commit,pull out,act,draw,wound,take out,extract,remove,displume,rip,take away,support,withdraw,indorse,hit,perpetrate,back,bust,move,take,strip,displace,row,endorse,rive,draw in,plunk for,rend,root,pluck,side,rupture,attract,rein,deplumate,snap,pull up,injure,draw out,drive,overstretch,tear,force
+adjust	resolve,conform,alter,correct,align,change,adjudicate,accommodate,aline,modify,set,adapt,line up,settle,reorient,decide
+divide	carve up,figure,fraction,part,split,reckon,dissever,cipher,move,displace,change,work out,compute,calculate,separate,change integrity,split up,disunite,cypher
+found	open,found,launch,ground,constitute,establish,plant,base,open up,pioneer,institute,initiate,set up
+galvanise	floor,coat,stun,galvanize,ball over,blow out of the water,take aback,shock,surface,startle
+induce	bring about,have,bring forth,cause,bring on,get,generate,make,rush,effectuate,reason,induct,effect,give rise,produce,reason out,conclude,set up,hasten,stimulate
+forbid	prohibit,compel,command,forbid,prevent,foreclose,require,forestall,proscribe,preclude,interdict,disallow,veto
+magnify	blow up,overstate,misinform,exaggerate,mislead,enlarge,hyperbolize,overdraw,increase,hyerbolise,amplify
+clash	strike,impinge on,take issue,collide,differ,hit,disagree,conflict,run into,collide with,dissent,jar
+prevent	keep,forbid,foreclose,forestall,preclude
+wound	evoke,arouse,elicit,offend,fire,provoke,kindle,spite,bruise,raise,injure,hurt,enkindle
+sort	classify,pick out,as sort out,select,sieve,take,choose,screen,categorise,separate,class,screen out,categorize
+click	emit,sound,pronounce,flick,come home,get through,cluck,get across,enunciate,enounce,dawn,utter,go,let out,chatter,move,articulate,let loose,clack,sink in,sound out,snap,tick,fall into place,say,penetrate
+game	punt,bet on,back,gage,bet,stake,wager,play
+overlook	lie,command,omit,pretermit,overleap,leave out,look out on,drop,dominate,lose,neglect,overtop,miss,look out over,survey,look across
+metal	coat,surface
+hoard	save up,put in,save,hive away,compile,collect,accumulate,store,pile up,lay in,amass,stash away,salt away,squirrel away,stack away,lay aside,cache,lay away,hive up,stash,roll up
+assume	invite,move,strike,put on,take,seize,bear,get dressed,feign,usurp,expect,change,sham,receive,acquire,take for granted,dress,take over,presume,take in,pretend,take up,adopt,anticipate,take on,act,arrogate,don,accept,get into,dissemble,wear,take office,simulate
+pay	pull in,bring in,give,put up,ante up,earn,cerebrate,take in,think,settle,yield,intercommunicate,pay off,stand,abide,support,stomach,repay,make up,make,communicate,requite,devote,clear,realise,cogitate,realize,endure,pay up,suffer,brook,bear,gain,be,stick out,tolerate,compensate,digest
+correspond	equate,fit,gibe,stand for,check,represent,jibe,match,agree,tally,be,equal
+flag	adorn,ease up,swag,beautify,ornament,sag,slacken off,signalize,decorate,diminish,embellish,signalise,drop down,mark,sign,droop*,lessen,drop,sink,fall,grace,signal,decrease,ease off
+rethink	think,believe,conceive,consider
+yield	pull in,buy the farm,bring in,give,render,concord,supply,earn,ease up,take in,die,drop dead,knuckle under,pass,conk,pop off,provide,give in,expire,consent,relent,pay,exit,cede,perish,move over,kick the bucket,go for,hold,give way,generate,succumb,make,accept,go,choke,give-up the ghost,move,stretch,clear,soften,pass away,realise,furnish,change,buckle under,agree,concede,snuff it,realize,create,afford,croak,produce,decease,bear,gain,grant,cash in one's chips,concur,return
+damp	hold in,deaden,tone down,dampen,curb,muffle,contain,hold,check,control,weaken,moderate,soften,break,dull,mute,blunt
+like	want,see,view,wish,reckon,desire,care,consider,regard
+pad	footslog,magnify,blow up,tramp,lard,aggrandise,overstate,make full,fill,embellish,plod,bolster,slog,fill up,fill out,exaggerate,trudge,embroider,walk,dramatise,dramatize,hyperbolize,overdraw,aggrandize,stuff,hyerbolise,amplify
+turn	deform,form,metamorphose,maturate,appeal,color,transform,wound,plow,aim,call on,change form,bend,wrench,ferment,wrick,twist,transmit,get on,change by reversal,get,transmute,control,operate,senesce,go,invoke,discolour,move,turn over,change shape,take,grow,travel,displace,rick,channelize,change,perform,discolor,change state,train,sour,transport,do,channel,transfer,flex,mature,till,work,release,take aim,channelise,alter,sprain,reverse,acquire,shape,direct,send,colour,age,injure,plough,modify,move around,locomote,become
+collect	pull in,put in,hive away,pick up,gather up,compile,take in,hoard,pull together,accumulate,call for,get,store,pile up,lay in,take,amass,garner,stash away,salt away,stack away,roll up,acquire,gather
+export	merchandise,distribute,spread,trade
+tempt	stir,arouse,bid,invite,sex,provoke,wind up,shake,shake up,turn on,influence,persuade,lure,entice,allure,excite,stimulate,charm
+crumble	fall apart,disintegrate,change,break down,change integrity,decay,crumple,collapse*,tumble,delapidate
+fetch	convey,bring in,transmit,get,take,channelize,transport,channel,transfer,channelise,bring
+split	break up,carve up,fall apart,divide,cleave,part,dissever,break open,move,break,rive,burst,separate,change integrity,split up,tear,come apart
+cost	necessitate,require,postulate,ask,call for,take,demand,need,be,involve
+jack	track down,jack up,get up,hunt down,run,bring up,lift,jacklight,raise,elevate,hunt
+reignite	light,ignite
+seat	put,admit,pose,render,install,supply,sit,provide,hold,position,accommodate,furnish,sit down,induct,invest,set,lay,place
+sustain	ply,carry on,admit,keep,preserve,uphold,supply,maintain,nurture,have,provide,hold up,acknowledge,receive,hold,substantiate,support,nourish,get,experience,undergo,affirm,bear on,prolong,suffer,keep up,have got,corroborate,continue,cater,confirm
+accumulate	lay in,compile,conglomerate,put in,amass,stash away,stack away,collect,hive away,store,increase,roll up,gather,cumulate,pile up,salt away,hoard
+ask	postulate,require,need,take,intercommunicate,turn to,address,articulate,expect,bespeak,request,enquire,word,inquire,call for,formulate,quest,give voice,demand,phrase,involve,necessitate,communicate
+receive	partake,see,view,pick up,touch,take in,incur,have,encounter,invite,perceive,obtain,reckon,greet,get,convert,accept,recognize,experience,consider,undergo,celebrate,regard,change,welcome,meet,find,fete,acquire,comprehend,recognise
+impact	touch,wedge,squeeze,change,affect,touch on,bear on,alter,bear upon,modify,force
+fund	put,render,supply,commit,compile,provide,hoard,collect,accumulate,finance,support,pile up,amass,furnish,invest,roll up,place
+fear	dread,venerate,revere,prize,value,prise,worry,regret,respect,esteem,reverence
+withdraw	move back,draw off,recede,crawfish out,crawfish,tire,renounce,disengage,pull back,draw,give up,take out,remove,back away,fold,shut down,insulate,swallow,take away,adjourn,withdraw,close down,discontinue,close,sequestrate,fatigue,let go of,jade,draw back,go,recall,move,seclude,take,travel,unsay,take back,pull in one's horns,let go,repudiate,weary,close up,pull away,lay off,release,sequester,call back,bow out,call in,retreat,back out,pall,isolate,cease,relinquish,quit,stop,locomote,retire
+include	see,admit,view,let in,reckon,add,countenance,allow,consider,regard,let,permit
+toll	levy,knell,impose,ring
+stoke	tend
+cut	reap,cope,rationalize,issue,demasculinize,break up,switch off,demasculinise,contract,trim,appear,transit,grapple,tailor,do by,slue,pass across,divide,shuffle,reduce,throw,pass,make do,part,turn off,disregard,execute,harvest,skip,cut down,emasculate,disrupt,trim down,do away with,pass through,shorten,pass over,turn,abridge,record,move through,write,curve,glean,burn,shift,go across,cut back,make out,swerve,treat,hit,deal,run,free,sheer,get,operate,make,castrate,dilute,go,prune,weaken,ruffle,cut off,move,snub,grow,thin out,ignore,discharge,go through,geld,perforate,hack,change,perform,dissolve,minify,lessen,trim back,strike down,handle,foreshorten,edit out,seem,manage,trend,function,drop,do,flip,eliminate,edit,design,create,work,interrupt,switch,get by,rationalise,produce,resolve,bring down,fell,alter,veer,acquire,miss,be,separate,contend,write out,turn out,look,decrease,develop,disunite,tape,modify,get rid of,penetrate,stop,thin,mix,slew,abbreviate
+disjoint	break up,divide,part,split,divorce,disjoin,break,disassociate,disarticulate,dissociate,separate,split up,disunite
+run	ply,go forth,break up,track down,flow,jaunt,incline,extend,bleed,carry,lam,unloosen,carry out,break away,fall apart,go away,hightail it,incur,speed,take to the woods,pass,draw,last,turn tail,execute,accomplish,lead,circulate,merchandise,run for,escape,disseminate,pass around,guide,hunt down,tend,unravel,die hard,disintegrate,zip,unloose,go across,treat,propagate,free,get,operate,trip,head for the hills,go,circularise,deliver the goods,melt down,move,loose,travel rapidly,succeed,go through,displace,travel,campaign,race,liberate,break,course,bunk,change,dissolve,scat,compete,accompany,distribute,leave,run away,function,range,fulfil,make pass,occur,endure,diffuse,enforce,release,work,spread,circularize,vie,prevail,resolve,lean,persist,carry through,broadcast,fan out,capture,fly the coop,black market,win,scarper,process,come through,be,separate,contend,continue,direct,ladder,be given,split up,apply,consort,hunt,bring home the bacon,feed,fulfill,sail,implement,trade,play,come apart,melt,disperse,action,locomote,hurry,become,catch,spread out
+evidence	certify,inform,manifest,testify,attest,bear witness,tell,show,prove,demonstrate
+low	emit,utter,let out,let loose,moo
+negotiate	discuss,negociate,pass,hash out,talk terms,go across,go through,talk over
+torpedo	attack,assail
+stiffen	restrict,limit,restrain,constrain,confine,trammel,change,bound,tighten up,tighten,alter,throttle,modify
+answer	rebut,correspond,resolve,figure out,state,refute,jibe,serve,fit,match,gibe,agree,be,tell,react,lick,solve,meet,work out,satisfy,do,suffice,live up to,fill,check,fulfil,say,puzzle out,fulfill,work,reply,tally,respond
+rush	rush along,hie,pelt along,attack,speed,press,induce,act,urge,urge on,hotfoot,belt along,cannonball along,festinate,run,go,assault,move,effectuate,displace,travel,race,assail,effect,set on,bucket along,look sharp,exhort,set up,hasten,stimulate,hurry,locomote
+unleash	let go of,loose,let go,let loose,release,relinquish
+oil	cover,anoint,bless,embrocate,inunct,anele
+postpone	hold over,defer,set back,put off,put over,table,prorogue,shelve,delay,remit
+button	fix,add,secure,fasten
+await	expect,look,wait
+cash	cash in,exchange,interchange,change
+bolster	shore,shore up,fill up,reinforce,prop,reenforce,pad,make full,fill,prop up,bolster up
+distance	keep,leave behind,maintain,hold,out outstrip
+move	strike,vary,be active,prompt,impress,act,cause,advise,run,make a motion,incite,make,go,propose,displace,travel,change,affect,motivate,do,propel,suggest,live,proceed,sell,alter,actuate,locomote
+rise	a develop,climb up,appear,stand up,change posture,rebel,get up,tackle,ascend,up ascend,go up,go,a move up,rear,move,upresurrect,upreturn,grow,get back,change,rise up,mount,lift,move up,seem,climb,come back,dissent,take on,a rise up,up spring up,uptravel,surface,a up jump,wax,resist,protest,prove,go back,come up,turn out,undertake,look,heighten,increase,originate,a up get up,locomote,become
+teeter	seesaw,move,totter
+abate	slake,let up,diminish,decrease,die away,slack off,fall,slack,minify,lessen
+clear	authorize,pull in,acquit,bring in,pronounce,sack up,authorise,earn,crystallize,brighten,go away,take in,unclutter,pass,exculpate,take out,settle,crystalise,vanish,elucidate,remove,pay,yield,disappear,crystallise,overhaul,exonerate,overtake,take away,withdraw,sack,countenance,free,get,light up,make,deliver the goods,allow,clear up,disembarrass,square off,succeed,discharge,take,realise,benefit^,change,top,crystalize,sort out,realize,create,judge,straighten out,clarify,assoil,illuminate,net,sell,bear,enlighten,let,alter,win,permit,gain,rid,acquire,square up,come through,move out,label,solve,shed light on,empty,modify,bring home the bacon,profit,determine
+divorce	break up,part,split,disjoint,break,disassociate,dissociate,separate,split up,disunite
+take	strike,buy,see,convey,admit,think about,have it away,do it,contract,put up,carry,subscribe,claim,come down,charter,occupy,get over,learn,make up one's mind,fuck,take in,cover,incur,put down,have,utilise,screw,act,exact,aim,necessitate,make love,remove,require,postulate,assume,lead,assert,cut across,pass over,feature,get across,record,hump,obtain,stand,head,guide,ask,contain,receive,look at,hold,pack,abide,get it on,take away,make out,call for,support,pick out,withdraw,utilize,position,submit,stomach,adopt,rent,deal,expend,fill,verify,get,be intimate,cut through,select,conduct,bang,make,use up,accept,track,aver,jazz,go,avow,subscribe to,eff,swan,know,ingest,move,interpret,experience,choose,consider,get hold of,undergo,study,do work,lease,change,sleep with,love,train,consume,transport,find,affirm,film,take on,demand,endure,have intercourse,purchase,employ,work,suffer,traverse,decide,bed,construe,cross,have sex,need,sicken,bonk,brook,bear,swear,take aim,read,win,enter,acquire,shoot,hire,be,stick out,tolerate,have it off,direct,take up,apply,get laid,drive,have a go at it,use,lie with,bring,engage,determine,involve,roll in the hay,become,digest
+amass	lay in,put in,stash away,collect,hive away,roll up,accumulate,salt away,compile,conglomerate,stack away,store,increase,gather,cumulate,pile up,hoard
+dateline	date,datemark,date-mark
+subordinate	subdue,order,lour,rank,rate,lower,range,grade,place
+bother	discommode,chafe,disconcert,inconvenience,nettle,displease,trouble,intrude,affect,disoblige,commove,touch,charge up,turn on,agitate,inconvenience oneself,touch on,strive,bear on,charge,put out,devil,flurry,incommode,nark,trouble oneself,strain,impact,rile,irritate,reach,rag,gravel,confuse,bear upon,put off,vex,excite,get to,get at,irrupt,rouse,annoy
+zinc	coat,surface
+disappoint	let down,spoil,foil,baffle,bilk,queer,cross,scotch,frustrate,thwart
+surge^	meliorate,better,flow,arise,tide,blow up,run,billow,zoom,go up,uprise,heave,rise,course,lift,move up,soar,soar up,scend,come up,soar upwards,inflate,ameliorate,improve,feed
+wane	go down,decline*,diminish,lessen,fall,decrease
+fiddle	monkey,furbish up,toy,doctor,restore^,tamper,goldbrick,fix,diddle,avoid,spiel,shrink from,tinker,malversate,bushel,touch on,embezzle,repair,peculate,misappropriate,shirk,play,manipulate,mend,defalcate
+surround	smother,carry,fence in,touch,wall,attack,round,cover,circumvent,besiege,environ,circle,contain,hold,hem in,border,assail,adjoin,beleaguer,meet,encircle,protect,bear,ring,fence,contact,skirt,palisade
+join	unite^,get together,fall in,conconnect,bring together,link up,tie,connect,link
+minimize	minimise,derogate,downplay,inform,understate,disparage,belittle,minify,lessen,pick at,decrease,denigrate
+pare	whittle,trim,skin,cut,strip,minify,lessen,peel,pare down,decrease
+raft	manufacture,go,move,travel,transport,construct,fabricate,locomote
+budge	stir,shift,move,agitate
+zone	regularise,divide,regulate,order,govern,partition,regularize,separate,district
+supersede	come after,supervene upon,follow,replace,supplant,supercede,succeed
+exert	wield,maintain,have,utilise,act,exercise,hold,utilize,move,employ,have got,apply,use
+face	expose,cover,lie,encounter,turn,line,go about,face up,front,meet,take on,set about,confront,approach,disclose,be,look,play,present
+french	French,break off,break,snap off
+group	assemble,assort,sort,forgather,classify,foregather,sort out,separate,class,gather,agmeet
+transfer	assign,remove,transpose,delegate,force out,shift,transmit,designate,go,transplant,move,travel,displace,channelize,change,transport,channel,depute,reassign,channelise,locomote
+grab	snaffle,take hold of,seize,obtain,snap up,move,take,prehend,clutch,fascinate,intrigue,catch
+home	domiciliate,put up,get back,come back,house,go back,return
+sap	tire,run through,exhaust,run down,deplete,play out,use up,wipe out,consume,eat,eat up,cave,undermine*
+depend	count,trust,reckon,bank,bet,swear,calculate,be,look,rely
+ease	soothe,aid,still,relieve,assuage,palliate,allay,go,solace,move,travel,console,comfort,assist^,alleviate,help,facilitate,locomote
+suffer	see,incline,put up,worsen*,have,ache,decline*,perceive,stand,tend,sustain,receive,feel,abide,support,countenance,stomach,run,get,allow,experience,go through,undergo,meet,endure,lose,lean,brook,bear,let,permit,comprehend,be,stick out,tolerate,be given,hurt,digest
+couple	twin,attach,unite^,pair off,bring together,copulate,unify,couple up,match,join,mate,conjoin,couple on,pair,partner off
+try	render,make up one's mind,take in,evaluate,have,afflict,act,get into,assume,put on,try on,sample,examine,run,don,wear,melt down,ingest,move,assay,take,probe,consume,adjudicate,taste,judge,decide,pain,test,hear,attempt,anguish,stress,prove,strain,try out,hurt,pass judgment,determine,essay,melt,seek
+proceed	carry on,keep,go along,hap,go on,happen,act,pass,talk,pass off,go,move,travel,come about,occur,speak,go forward,fall out,continue,take place,locomote
+sense	detect,understand,perceive,discover,feel,find,notice,observe,comprehend
+lose	put,turn a loss,recede,pose,worsen*,fall back,decline*,regress,mislay,position,drop off,misplace,retrograde,set,suffer,lay,miss,fall behind,place,retrogress
+plumb	weight down,adjust,weight,correct,explore,burthen,burden,set,quantify,measure
+pain	disconcert,afflict,discomfit,trouble,upset,ail,untune,anguish,hurt,discompose
+ambition	want,desire
+overextend	extend,overstrain,strain
+page	summon,number,work,paginate,foliate
+debut	introduce,perform,innovate,play
+fell	fly,go along,slip by,pass,cut down,vanish,glide by,go by,cut,slide by,strike down,slip away,lapse,drop,run up,elapse,sew together,stitch,sew
+pause	break up,disrupt,hesitate,cut off,break,delay,interrupt,intermit
+advertise	publicise,promote^,praise,push,announce,denote,publicize,advertize
+attempt	move,assay,initiate,undertake,pioneer,act,set about,essay,try,seek
+stake	put on the line,punt,hazard,game,post,kill,fix,risk,bet on,back,secure,mark,impale,gage,bet,lay on the line,adventure,wager,fasten,play,venture,jeopardize
+read	see,forebode,translate,promise,learn,have,talk,predict,understand,feature,record,indicate,verbalise,prognosticate,utter,register,verbalize,interpret,take,study,mouth,speak,construe,show,scan,foretell,try out,audition,anticipate,say,call
+rock	move back and forth,sway,move,displace,shake
+deposit	put,pose,give,lodge,fix,position,wedge,stick,secure,bank,set,lay,situate,place,posit,fasten
+remit	send back,remand,pay,challenge,loosen,hold over,diminish,forgive,defer,set back,put off,put over,postpone,loose,table,prorogue,lessen,strike down,shelve,delay,fall,slacken,cancel,decrease
+wipe	pass over,rub
+jump	vary,climb up,appear,start,attack,skip,overlook,omit,pass over,participate,jumpstart,shift,pretermit,overleap,go,assault,rise,move,start up,travel,leave out,assail,change,mount,leap out,bound,seem,stand out,drop,plunge,climb,alternate,skip over,switch,chute,set on,wax,spring,alter,neglect,leap,dive,enter,miss,derail,stick out,startle,look,jump-start,jump out,jump off,plunk,locomote,parachute
+bulk	swell,pouch,protrude,bulge
+end	destruct,change,alter,be,finish,terminate,modify,cease,destroy,stop
+acquire	assume,situate,produce,larn,evolve,adopt,grow,take,develop,get,take on,locate,win,change,gain,learn
+paint	coat,cover,interpret,represent,create,surface
+strain	deform,form,extend,puree,utilise,afflict,tug,tense,separate out,push,labour,utilize,distort,filter out,labor,sieve,affect,tense up,strive,filter,employ,tighten,try,stress,sift,rub,separate,shape,reach,apply,use,drive,filtrate
+miss	want,fail,overlook,omit,escape,pretermit,desire,overleap,avoid,leave out,drop,lose,go wrong,neglect,lack,miscarry
+shred	rip up,bust,tear up,rupture,snap,tear
+snap	sound,snarl,shut,fall apart,divide,flick,put down,act,part,photograph,click,talk,seize,record,hit,close,verbalise,snatch,utter,go,verbalize,bust,move,break,do,prehend,mouth,snatch up,rupture,speak,clutch,crack,lose it,enter,shoot,behave,separate,break down,split up,disunite,tear,come apart
+graph	plot,diagram,interpret,represent,chart
+inflate	trim,reduce,blow up,cut down,trim down,cut back,cut,billow,change,trim back,expand,bring down,alter,balloon,modify,increase,amplify
+damage	change,alter,modify
+reach	come,give,reach out,touch,get through,pass,tug,attain,accomplish,intercommunicate,arrive,push,labour,hit,get,arrive at,make,labor,progress to,get to,deliver the goods,communicate,move,turn over,succeed,get hold of,achieve,transfer,strive,extend to,win,gain,strain,be,come through,pass on,contact,drive,bring home the bacon,hand
+wreak	make for,make,create,work,bring,play
+lend	loan,give,contribute,add,bestow,change,impart,alter,be,bring,modify
+long	want,hanker,desire,yearn
+edge	butt,render,supply,go on,touch,butt on,progress,provide,butt against,march,inch,sharpen,border,furnish,adjoin,meet,move on,pass on,march on,advance,contact,abut
+guess	expect,figure,pretend,think,hazard,imagine,infer,approximate,reckon,estimate,cipher,suppose,opine,lick,work out,puzzle out,judge,work,compute,figure out,calculate,speculate,solve,anticipate,cypher,venture,gauge
+prospect	explore,search,research,look
+credit	assign,trust,impute,attribute,bank,account,ascribe,swear,calculate,rely,ac impute
+implement	oblige,compel,carry out,utilise,obligate,utilize,complete,go through,put through,follow out,enforce,employ,follow up,follow through,finish,apply,use
+determine	see,learn,make up one's mind,regulate,watch,delimitate,settle,cause,fix,pick out,check,limit,select,make,mold,square off,take,choose,do,find,set,influence,ascertain,define,decide,resolve,conclude,square up,shape,delimit,delineate,find out,specify
+force	pressure,storm,oblige,compel,pull,hale,act,draw,thrust,coerce,obligate,cause,push,wedge,make,move,perforate,displace,squeeze,ram,do,impel,drive,penetrate
+reiterate	restate,iterate,ingeminate,tell,retell,repeat
+measure	convey,carry,make up one's mind,assess,evaluate,valuate,value,mensurate,appraise,judge,decide,express,be,quantify,measure out,pass judgment,determine
+become	metamorphose,prettify,fancify,change state,transform,beautify,turn,suit,embellish,get,transmute,go
+digest	break up,systemize,contract,put up,dig,condense,reduce,systematise,grasp,shorten,compass,abridge,stand,savvy,disintegrate,abide,support,apprehend,treat,countenance,stomach,cut,get the picture,allow,decompose,change,foreshorten,systemise,systematize,endure,suffer,brook,bear,let,permit,process,comprehend,break down,stick out,tolerate,grok,concentrate,abbreviate
+initial	sign
+present	re interpret,pose,give,deliver,rere-create,re lay out,exhibit,comprise,inform,portray,talk,constitute,acquaint,apportion,submit,introduce,greet,verbalise,demo,utter,award,verbalize,recognize,gift,tell,stage,face,re make up,salute,mouth,confront,speak,state,show,be,allocate,recognise,demonstrate,say
+catch	pull in,see,hold in,enamour,view,captivate,take hold of,contract,trance,pick up,pull,learn,compile,detain,appeal,take in,surprise,get word,watch,attach,draw,board,curb,ache,hoard,arrest,understand,hold up,seize,collect,take fire,perceive,discover,accumulate,trip up,contain,hold,overtake,hit,get on,propagate,check,get,control,pile up,ignite,enchant,moderate,take,bewitch,amass,hitch,change,reproduce,get wind,delay,find,draw in,erupt,prehend,grab,catch up with,spread,suffer,attract,hear,combust,capture,clutch,catch fire,roll up,entrance,get a line,acquire,comprehend,enamor,conflagrate,find out,hurt,witness,fascinate,beguile,becharm,play,overhear,charm
+sponsor	patronize,frequent,back up,patronise,support,shop at,shop,buy at
+strike	shine,form,impinge on,chance upon,hap,go on,delete,happen,touch,attack,impress,pass,attain,come upon,light upon,even out,accomplish,assume,expunge,pass off,record,come to,discover,come across,regain,impact,hit,make,register,move,take,perforate,displace,strickle,assail,affect,run into,level,flush,achieve,coin,lick,work out,excise,find,collide with,come about,fall,dissent,occur,touch on,create from raw stuff,create,puzzle out,bear on,work,mint,figure out,chance on,resist,read,show,create from raw material,protest,fall out,cancel,shape,walk out,reach,solve,even,take up,scratch,fall upon,bear upon,happen upon,take place,penetrate
+eviscerate	devitalize,devitalise,draw,remove,take away,withdraw,take,disembowel,resect,empty
+subdue	chasten,hold in,overcome,get over,surmount,reduce,curb,lour,quash,cricify,contain,hold,subjugate,check,conquer,stamp down,control,mortify,moderate,subordinate,crush,change,repress,lower,oppress,defeat,tame,keep down,suppress,master,alter,get the better of,modify,inhibit
+see	date,see to it,view,assort,pick up,visualise,visualize,learn,figure,take in,moot,get word,watch,think,imagine,affiliate,fancy,detect,image,encounter,invite,go steady,understand,participate,perceive,come across,discover,assure,receive,believe,reckon,project,examine,care,check,verify,attend,control,go out,conceive,debate,turn over,interpret,experience,go through,consider,undergo,realise,regard,run into,give care,accompany,tour,get wind,bet,visit,meet,ideate,find,notice,realize,take part,ascertain,observe,associate,construe,ensure,hear,envisage,insure,run across,wager,get a line,take care,comprehend,deliberate,call in,find out,look,envision,conceive of,call,consort,picture,witness,play,determine,escort,catch
+break up	dissipate,break off,pierce,fall apart,divide,have,part,disrupt,crash,destruct,fragmentise,split,sustain,disintegrate,disassemble,crack up,adjourn,fragmentize,discontinue,take apart,get,dispel,dismantle,cut off,decompose,express joy,break,change,break apart,dissolve,express mirth,interrupt,suffer,resolve,alter,crack,recess,pick,end,calve,separate,break down,change integrity,fragment,finish,terminate,split up,crock up,disunite,collapse*,laugh,cease,modify,destroy,stop,sever,scatter,come apart,disperse
+butt	strike,put,pose,touch,butt on,butt against,march,bunt,position,border,adjoin,meet,set,lay,place,contact,abut,edge
+stall	halt,procrastinate,detain,conk,shelter,hold up,dillydally,shillyshally,delay,drag one's feet,drag one's heels,stop,dilly-dally
+preserve	save,carry on,keep,uphold,maintain,conserve,cook,hold on,fix,hold,ready,make,protect,prepare,bear on,keep up,continue
+expect	birth,see,view,carry,deliver,evaluate,have,wait,require,ask,reckon,gestate,await,consider,regard,demand,judge,give birth,bear,have a bun in the oven,look,anticipate,pass judgment
+pose	posture,personate,put,acquit,lead astray,carry,sit,throw,comprise,bedevil,model,display,constitute,confound,befuddle,impersonate,betray,gravel,confuse,position,make up,get,comport,amaze,conduct,vex,fox,nonplus,stick,move,represent,displace,beat,ex exhibit,baffle,deport,deceive,bewilder,set,dumbfound,flummox,bear,discombobulate,lay,perplex,behave,be,place,mystify,stupefy,puzzle,fuddle,present
+confederate	unite^,unify,band together
+reassert	affirm,confirm
+reassure	calm,calm down,still,quieten,lull,tranquillise,assure,quiet,tranquillize,tranquilize
+shrink	recoil,wince,contract,reduce,flinch,quail,funk,squinch,diminish,wither,move,cringe,minify,lessen,shrivel up,fall,shrivel,decrease
+seesaw	teetertotter,teeter-totter,move,teeter,totter,play
+follow	come,come after,look into,trace,check up on,arise,play along,watch,keep an eye on,act,hang in,take after,watch over,understand,comply,copy,practice,hold on,go over,pick out,examine,adopt,canvass,check,stick to,select,uprise,go,rise,move,succeed,grow,take,choose,travel,study,check into,canvas,surveil,accompany,espouse,obey,result,imitate,do,keep abreast,stick with,postdate,conform to,pursue,observe,simulate,ensue,spring up,check out,keep up,persist,check over,suss out,abide by,behave,be,travel along,fall out,analyse,apply,develop,hang on,survey,use,play,originate,analyze,persevere,locomote
+stem	halt,remove,orient,take away,withdraw,check,staunch,take,originate in,stanch
+rest	put,pose,pillow,sit,rest,catch one's breath,lie,reside,attach to,breathe,perch,recline,position,repose,break,sit down,roost,remain,set,stay,inhere in,pause,lay,intermit,take a breather,be,recumb,place
+time	adjust,regulate,correct,clock,mold,schedule,set,influence,shape,quantify,determine,measure
+maintain	keep,wield,preserve,uphold,take a firm stand,reassert,maintain,asseverate,put down,have,conserve,defend,assert,record,sustain,hold,exert,affirm,observe,insist,keep up,have got,enter,confirm
+round	form,pronounce,carry,attack,criticize,round out,put on,enunciate,circle,contain,labialise,hold,enounce,go,criticise*,assault,sur environ,move,travel,snipe,lash out,articulate,assail,fill out,change,pick apart,knock,encircle,round down,polish up,hone,labialize,polish,bear,alter,gain,ring,flesh out,sound out,shape,brush up,say,modify,round off,perfect,locomote
+weather	tilt,hold up,withstand,crumble,hold,brave,tip,defy,brave out,endure,angle,lean,slant,decay,sail,delapidate
+zero	zero in,adjust,correct,set
+exhibit	expose,display,march,demo,walk,show,possess,parade,demonstrate,present
+skitter	skim,scuttle,throw,glide,skip,run,scurry,twitch,scamper
+draw	deform,pull in,reap,eviscerate,form,evoke,draw off,trace,get out,localize,equate,sop up,shut,pen,create mentally,pull out,pull,derive,take in,arouse,with take out,pull back,pass,elicit,necessitate,take out,inspire^,change form,require,postulate,remove,kill,guide,ask,describe,thread,take away,call for,pick out,soak up,suck up,run,close,fire,get,select,make,equalise,suck,expound,localise,go,with cast,puff,provoke,move,stretch,change shape,absorb,interpret,string,take,effectuate,choose,mark,travel,displace,draw and quarter,drag,line,breathe in,change,match,kindle,inhale,indite,quarter,draw in,disembowel,demand,equalize,create,effect,tie,depict,attract,withdescribe,need,alter,steep,set forth,gain,raise,imbibe,be,set up,take up,delineate,withrepresent,exposit,create by mental act,compose,modify,equal,arrange,withwrite,thin,involve,force,enkindle,withshape,locomote,infuse
+diversify	vary,branch out,broaden,radiate,change,alter,modify
+image	see,visualise,visualize,figure,imagine,fancy,project,ideate,envisage,envision,conceive of,picture
+swing	wield,act upon,swing out,dangle,move back and forth,aim,sweep,socialise,hang,swing over,go,socialize,sway,move,take,travel,displace,change,handle,train,drop,influence,work,live,fornicate,take aim,be,direct,get around,play,locomote
+strengthen	tone,exercise,fortify,beef up,tone up,change,work out,alter,modify
+manufacture	cook up,dream up,invent,make up,think of,make,think up,construct,concoct,fabricate,hatch
+lead	discuss,extend,spend,bring about,have,contribute,induce,pass,execute,hash out,chair,boost,cause,head,guide,run,get,conduct,make,conduce,go,moderate,move,take,travel,further,encourage,perform,top,result,leave,do,make pass,give rise,produce,talk over,promote^,be,advance,direct,precede,stimulate,locomote
+circulate	flow,bare,disseminate,circle,pass around,run,propagate,go,circularise,move,publicise,go around,displace,travel,course,distribute,diffuse,mobilize,spread,circularize,broadcast,pass on,feed,disperse,mobilise,publicize,locomote,air
+narrow	vary,contract,nail down,narrow down,constrict,constringe,specialize,change,specialise,peg down,tighten,alter,pin down,specify,determine
+review	think back,recollect,retrospect,inspect,critique,evaluate,think,retrieve,go over,reexamine,examine,canvass,recall,refresh,study,canvas,look back,judge,remember,call back,call up,brush up,analyse,survey,pass judgment,analyze
+mop	sop up,grimace,take in,draw,soak up,suck up,suck,pull a face,absorb,pout,mow,imbibe,wipe up,take up,make a face,mop up
+restore^	meliorate,better,rejuvenate,furbish up,give back,renew,doctor,regenerate,refund,fix,repay,amend,reconstruct,reestablish,change,bushel,touch on,repair,restitute,reinstate,alter,ameliorate,modify,improve,return,mend
+spark	touch off,emit,activate,trigger off,set off,sparkle,give out,trigger,trip,pioneer,give off,actuate,spark off,initiate
+chase	solicit,go after,follow,court,trail,chamfer,give dog,tail,tag,furrow,cut,track,chase after,woo,romance,pursue
+tank	treat,store,process
+discipline	make grow,correct,penalise,check,punish,penalize*,condition,train,sort out,develop
+feature	have,sport,feature,boast
+practice	learn,exercise,execute,practise,take,study,perform,do,read,drill,apply,use,rehearse
+record	save,preserve,memorialise,put down,commemorate,indicate,register,memorialize,immortalise,read,immortalize,show,enter,remind,tape
+order	put,request,make up one's mind,regularise,quest,evaluate,regulate,vest,enjoin,dictate,call for,organize,enthrone,ordinate,rank,inflict,rate,bespeak,govern,tell,visit,range,invest,judge,regularize,impose,decide,grade,consecrate,prescribe,bring down,ordain,set up,organise,place,say,pass judgment,arrange,determine
+perceive	see,understand,realise,realize,comprehend
+prize	appreciate,see,view,treasure,open,lever,value,reckon,prise,consider,regard,open up,respect,pry,esteem,jimmy
+sag	swag,flag,drop down,droop*,sag down,drop,sink
+correct	chew out,chasten,go down,chew up,come down,adjust,remonstrate,scold,call on the carpet,descend,dress down,have words,rebuke,lecture,right,even out,reproof,redress,decline*,discipline,turn,equilibrize,penalise,bawl out,treat,chastise,change by reversal,make up,lambaste,punish,berate,take to task,lambast,even up,penalize*,trounce,jaw,objurgate,change,call down,fall,sort out,set,castigate,care for,equilibrate,alter,slump,chide,even off,rectify,reverse,balance,counterbalance,rag,equilibrise,compensate,modify,reprimand
+enjoy	see,bask,utilise,like,delight,utilize,savor,experience,go through,undergo,relish,love,revel,employ,apply,use,savour
+hollow	dig,core out,remove,take away,withdraw,hollow out,take,excavate,empty
+tend	see,incline,at take care,mind,run,lean,take care,be,be given,look
+falter	stutter,waffle,talk,bumble,verbalise,utter,hesitate,verbalize,stumble,move,walk,mouth,speak,stammer,waver
+reign	predominate,rule,govern,dominate,prevail
+feel	see,finger,appear,touch,look for,think,perceive,believe,regain,conceive,experience,go through,consider,undergo,palpate,reason,seem,find,sense,search,reason out,conclude,comprehend,be,look,seek
+tope	habituate,drink,use
+precipitate	go down,come down,descend,turn,cast,hurtle,effectuate,hurl,change state,fall,effect,set up
+stable	shelter
+general	command
+treat	ply,give,supply,touch,do by,negociate,cover,plow,provide,address,impact,deal,broach,interact,respond,affect,gift,handle,touch on,bear on,care for,regale,process,initiate,react,cater,bear upon,present
+hurtle	lunge,throw,thrust,cast,go,move,travel,hurl,locomote
+par	rack up,hit,tally,score
+recruit	levy,enrol,register,muster in,inscribe,raise,enter,enroll,enlist,engage,draft
+restrict	hold in,curb,circumscribe,contain,hold,cut back,check,limit,control,restrain,qualify,moderate,confine,trammel,bound,throttle,modify,curtail
+ascend	rise,move,travel,pitch,incline,enter,lift,arise,travel along,go back,move up,come up,slope,follow,date from,accede,go up,uprise,go,locomote,date back
+repay	give,riposte,give back,act,pay,retort,refund,answer,respond,requite,move,pay back,come back,rejoin,reward,return,reply
+sandwich	insert,devise,get up,introduce,organize,infix,prepare,enter,organise,machinate
+depress	cast down,demoralise,demoralize,take down,let down,get down,weaken,move,dismay,displace,change,discourage,lower,dispirit,bring down,alter,modify,deject,press down
+undercut	undersell,hit,cut,cut away,sell
+nab	pick up,cop,arrest,seize,collar,tag,nail,apprehend,prehend,clutch
+hobble	limp,impede,hitch,walk,strap,gimp,hopple,hinder
+usher	lead,guide,conduct,take,show,direct
+stifle	buy the farm,subdue,smother,strangle,dampen,die,drop dead,pass,conk,impede,curb,pop off,expire,asphyxiate,muffle,exit,perish,kick the bucket,jam,conquer,stamp down,go,choke,block,give-up the ghost,pass away,repress,obturate,close up,snuff it,suppress,croak,decease,obstruct,cash in one's chips,suffocate,occlude,inhibit
+quiet	soothe,calm,calm down,still,quieten,lull,tranquillise,quiesce,solace,console,tranquillize,comfort,pipe down,quiet down,change intensity,hush,tranquilize
+reel	wrap,rotate,spin around,wind,swag,careen,gyrate,whirl,twine,go around,stagger,keel,walk,revolve,roll,spin,lurch
+cry	want,exclaim,emit,holler,express emotion,weep,cry out,hollo,require,yell,express feelings,blazon out,verbalise,utter,squall,let out,verbalize,scream,change,shout,shout out,let loose,give tongue to,need,express,alter,out call out,announce,modify,call,denote
+back	move,change over,punt,travel,stake,endorse,okay,second,plump for,sustain,finance,corroborate,wager,shift,substantiate,support,gage,bet,back up,indorse,affirm,approve,plunk for,confirm,lie,bet on,play,go,sanction,strengthen,O.K.,switch,game,locomote
+water	render,supply,irrigate,secrete,provide,wet,fill,fill up,furnish,release
+dilute	adulterate,debase,reduce,spoil,corrupt,cut,weaken,stretch,thin out,thin
+decouple	uncouple,do away with,differentiate,severalise,tell apart,tell,secernate,eliminate,severalize,disconnect,dissociate,secern,separate,distinguish,get rid of
+guarantee	plump for,promise,assure,support,indorse,vouch,warrant,back,secure,endorse,pledge,plunk for,ensure,insure,undertake,plight
+respond	act,answer,respond,move,tell,state,react,say,reply
+earmark	assign,reserve,allow,portion,appropriate,allot,set aside
+woo	solicit,court,act,move,romance
+rout	rout out,overcome,dig,core out,hollow,expel,rootle,shell,hollow out,delve,cut into,spreadeagle,turn over,trounce,beat,crush,beat out,defeat,root,vanquish,gouge,get the better of,spread-eagle
+moderate	chasten,hold in,keep,tone down,temper,discuss,keep back,curb,hash out,lead,chair,contain,hold,check,control,restrain,hold back,soften,change,decelerate,tame,suppress,slow down,alter,talk over,mince,modify
+represent	serve,commute,re-create,remonstrate,embody,act,draw,defend,comprise,correspond,transpose,constitute,describe,personify,stand for,exemplify,intend,make up,verbalise,utter,mean,permute,verbalize,interpret,map,tell,stage,give tongue to,point out,typify,depict,state,symbolise,express,be,lay out,symbolize,say,equal,play,present
+string	go on,string up,draw,progress,remove,fix,string along,thread,take away,add,withdraw,secure,take,change,move on,alter,pass on,set up,march on,advance,modify,arrange,fasten
+club	assemble,unite^,forgather,hit,unify,foregather,meet,bludgeon,gather
+propose	plan,request,nominate,think,aim,offer,declare,pop the question,pick out,project,advise,intend,select,mean,declare oneself,take,choose,purport,suggest,purpose
+riddle	permeate,pose,pierce,intercommunicate,gravel,get,amaze,vex,communicate,nonplus,sieve,stick,imbue,perforate,beat,interpenetrate,baffle,lick,work out,bewilder,dumbfound,puzzle out,diffuse,work,screen,flummox,figure out,sift,strain,perplex,solve,mystify,pervade,penetrate,stupefy,puzzle
+befriend^	attach,tie,bind,bond
+offload	unload,unlade,transfer,empty
+unveil	expose,remove,take away,withdraw,uncover,reveal,bring out,take,show
+encourage	back up,have,induce,inspire^,enliven,boost,animate,cause,invigorate,support,get,make,further,promote^,advance,exalt,stimulate
+mush	sleigh,sled,dogsled,drive
+list	tilt,name,heel,itemise,itemize,register,move,tip,enumerate,identify,number,angle,lean,slant,recite
+out	come unwrap,expose,divulge,bring reveal,let unwrap,discover,come out of the closet,give away,break,let come out,impart,disclose,let on
+second	back up,support,indorse,back,endorse,reassign,transfer
+bribe	buy,pay,corrupt,grease one's palms
+reason	cerebrate,think,argue,represent,cogitate,reason out,conclude,lay out,present
+scheme	connive,plan,plot,intrigue
+auction	auction off,sell,auctioneer
+bound	moderate,move,confine,hold in,ricochet,trammel,enclose,bounce,take a hop,reverberate,curb,spring,leap,jump,contain,hold,throttle,re recoil,resile,restrict,check,limit,control,restrain,border
+pave	coat,surface
+compete	vie,contend
+tell	request,infer,inform,assert,differentiate,order,enjoin,assure,severalise,tell apart,verify,evidence,verbalise,aver,utter,avow,verbalize,swan,identify,secernate,severalize,give tongue to,affirm,recount,state,express,swear,narrate,recite,secern,separate,place,say,distinguish,guess
+seem	appear,seem,be,look
+span	extend,cover,sweep,traverse,cross,continue
+love	have it away,do it,fuck,screw,like,hump,enjoy,get it on,make out,copulate,be intimate,bang,jazz,eff,make sleep with,know,mate,have intercourse,couple,bed,have sex,bonk,pair,have it off,get laid,have a go at it,lie with,roll in the hay
+queue	stand up,stand,queue up,line up
+repeat	emit,reduplicate,hap,go on,happen,recapitulate,act,pass,pass off,duplicate,restate,spiel,utter,let out,move,double,reprise,iterate,reproduce,ingeminate,let loose,tell,retell,take over,come about,occur,echo,recur,replicate,fall out,take place,play,reiterate,reprize
+wave	gesticulate,gesture,coiffure,twist,coif,move,flap,displace,curl,beckon,brandish,dress,coiffe,do,motion,set,roll,undulate,flourish,arrange
+probe	look into,poke into,examine,perforate,dig into,investigate,penetrate
+regroup	form,reorganize,organize,reorganise,group,organise
+write down	put down,set down,write,get down,depreciate,write off
+achieve	accomplish,reach,succeed,bring home the bacon,win,attain,deliver the goods,come through
+leave	go forth,get out,give,entrust,leave behind,go away,bring about,have,will,pass,provide,lead,depart,exit,yield,allow for,refrain,get,make,go out,forbear,allow,leave alone,move,turn over,change,gift,tell,result,impart,afford,give rise,lose,produce,bequeath,pull up stakes,pass on,reach,forget,hand,present
+underperform	underachieve,perform,do
+stage	re-create,represent,pioneer,initiate,arrange,present
+bottle	put,pose,set,lay,position,place,store
+consist	dwell,fit,gibe,lie in,lie,comprise,exist,correspond,check,jibe,match,agree,tally,belong,be
+protect	defend,assist^
+eliminate	obviate,pass,rid of,destruct,remove,rule out,do away with,kill,expel,take away,carry off,withdraw,shell,reject,trounce,take,discharge,beat,wipe out,crush,beat out,eradicate,extinguish,vanquish,release,winnow out,eject,decimate,egest,annihilate,destroy,get rid of,excrete
+size	assort,coat,sort,classify,change magnitude,sort out,surface,separate,class
+approve	authorize,clear,okay,authorise,evaluate,pass judgment,judge,pass,sanction,O.K.
+fall	go forth,shine,strike,buy the farm,come,issue,devolve,go down,flow,incline,fail,hap,light,come down,go on,happen,start,go away,die,drop dead,descend,pass,conk,change posture,step down,pop off,settle,change hands,vanish,expire,exit,yield,pass off,disappear,turn,emerge,perish,sin,kick the bucket,accrue,slope,precipitate,diminish,commence,get,hang,get down,go,come forth,choke,set out,give-up the ghost,move,pass away,travel,egress,change,lessen,change state,trespass,change magnitude,resign,come about,snuff it,occur,set about,croak,come out,decease,pitch,go wrong,start out,fall out,be,miscarry,change owners,decrease,cash in one's chips,fall down,begin,take place,quit,return,be born,leave office,locomote,transgress
+tin	keep,preserve,put up,can,plate
+invest	adorn,put,fit,install,commit,spend,enable,endow,vest,seat,expend,enthrone,empower^,gift,outfit,drop,induct,endue,clothe,place,fit out,indue,equip
+mature	maturate,draw,get on,senesce,grow,change,ripen,explicate,alter,suppurate,formulate,age,develop,modify
+boom	get ahead,grow,sound,blast,thunder,boom out,thrive,smash,expand,prosper^,din,nail,hit,flourish,go
+work	form,do act,knead,enamour,captivate,trance,act upon,touch,stir,utilise,put to make,work on,make for,pass,transform,exercise,understand,ferment,turn,crop,fix,go across,ready,impact,utilize,put to use,forge,care,deal,run,get,transmute,convert,make,operate,go,cultivate,deliver the goods,enchant,move,mold,succeed,bewitch,go through,displace,affect,handle,change state,sour,manage,lick,function,mould,work out,touch on,create from raw stuff,influence,set,prepare,create,puzzle out,bear on,employ,proceed,exploit,transubstantiate,figure out,gear up,capture,create from raw material,win,entrance,process,be,come through,shape,set up,enamor,solve,wreak,apply,use,bear upon,bring,bring home the bacon,fascinate,beguile,becharm,play,manipulate,excite,stimulate,charm,become,catch
+instrument	fit,address,write,outfit,direct,instrumentate,fit out,compose,equip
+calibrate	adjust,fine-tune,tag,correct,mensurate,mark,set,graduate,label,measure out,measure
+publish	print,issue,bare,write,make,bring out,publicise,create verbally,create,release,put out,produce,publicize,air
+side	plump for,pull,support,pick out,indorse,select,back,take,choose,endorse,plunk for,root,go with
+denominate	designate,denominate
+assist^	aid,serve,support,back up,attend to,help,attend,work,wait on
+slash	work over,convulse,trim,thresh,reduce,lash,cut down,trim down,flog,cut back,cut,lather,thrash,thresh about,trounce,beat,jactitate,trim back,shake,beat up,agitate,whip,toss,strap,gash,thrash about,bring down,welt
+sell	deliver,cozen,lead on,give up,exchange,delude,cede,interchange,betray,deal,surrender,change,transact,deceive,persuade,be,trade
+rein	rein in,halt,harness,rule,command,restrict,limit,restrain,draw control,confine,trammel,bound,throttle,stop
+grind	moil,crunch,form,toil,break up,trip the light fantastic,dance,dig,press,bray,travail,fragmentise,grate,mash,labour,fragmentize,forge,comminute,make,labor,mold,do work,mould,craunch,create,work,fag,trip the light fantastic toe,shape,cranch,fragment,drudge
+pump	wield,render,supply,draw,take out,provide,get up,spout,spirt,gush,query,move,displace,furnish,bring up,lift,handle,spurt,raise,shoot,elevate,question
+steep	pore,rivet,engross,soak up,absorb,imbue,engulf,plunge,soak,immerse,centre,focus,center,concentrate,infuse
+default	fail,default on,neglect
+promote^	assign,back up,boost,delegate,praise,push,support,designate,advertize,kick upstairs,further,encourage,change,depute,advertise,upgrade,raise,advance,elevate,play
+raise	enhance,meliorate,mention,evoke,better,advert,leaven,resurrect,pronounce,put up,name,assign,put forward,conjure,stir,erect,take in,nurture,get through,arouse,elicit,compound,build,levy,set off,bid,get up,delegate,collect,enunciate,refer,parent,enounce,recruit,designate,fire,incite,make,verbalise,utter,cultivate,amend,verbalize,invoke,rear,bring out,kick upstairs,provoke,move,grow,get hold of,displace,articulate,muster in,change,bring up,kindle,farm,lift,call down,bet,upresuscitate,depute,give tongue to,deepen,conjure up,stir up,create,call forth,produce,multiply,express,construct,alter,upgrade,promote^,end,wager,prove,sound out,set up,advance,reach,instigate,terminate,contact,ameliorate,elevate,say,revive,call,modify,cite,intensify,heighten,enlist,improve,increase,play,draft,enkindle
+service	serve,tune,copulate,run,operate,go,mate,function,work,couple,pair,tune up
+tread	give,trample,squash,squelch,brace,mash,copulate,go,move,travel,squeeze,crush,walk,mate,couple,step,pair,apply,locomote
+balance	bear,equilibrate,equilibrize,carry,fit,match,calculate,be,hold,equilibrise,poise,account
+continue	carry on,keep,preserve,go along,extend,uphold,go on,maintain,cover,act,talk,persist in,sustain,hold,go,move,travel,stay on,keep going,remain,bear on,prolong,stay,proceed,speak,keep up,go forward,be,keep on,retain,locomote
+grant	give,concord,yield,cede,hold,award,allow,accord,gift,agree,concede,allot,deed over,concur,present
+stabilise	steady,strengthen,fortify,beef up,brace,change,stabilize,alter,modify
+banish	bar,relegate,drive off,kick out,throw out,chase away,turn back,expel,blackball,shun,drive out,run off,ostracize,cast out,ban,dispel,drive away,ostracise
+send	bare,ship,institutionalise,commit,get off,station,charge,post,transmit,move,publicise,displace,base,channelize,institutionalize,transport,send off,channel,transfer,beam,broadcast,send out,channelise,direct,place,mail,publicize,air
+band	ring,bind,attach,tie
+lurch	overcome,mill about,tarry,swag,careen,prowl,shift,reel,go,loiter,move,footle,travel,stagger,linger,keel,skunk,walk,mess about,defeat,lollygag,lurk,lallygag,pitch,mill around,hang around,get the better of,lounge,loaf,locomote
+neutralise	demilitarise,nullify,kill,negate,waste,liquidate,knock off,weaken,change,neutralize,alter,do in,modify,demilitarize
+retreat	move back,recede,crawfish out,crawfish,fall back,pull back,back away,withdraw,draw back,go,move,travel,retrograde,pull in one's horns,pull away,back out,locomote,retire
+short	rook,con,goldbrick,defraud,gyp,make,diddle,victimize,short-circuit,nobble,gip,mulct,short-change,create,hornswoggle,bunco,scam,swindle
+develop	meliorate,better,hypothesize,make grow,hap,create mentally,go on,arise,happen,learn,pass,rarify,elaborate,modernise,evolve,pass off,germinate,bring forth,conjecture,complicate*,refine,hypothecate,superimpose,generate,get,uprise,amend,rise,modernize,grow,educate,break,hypothesise,change,train,suppose,come about,occur,instruct,teach,prepare,create,explicate,expand,spring up,produce,alter,lay over,superpose,speculate,acquire,fall out,formulate,ameliorate,recrudesce,build up,theorise,create by mental act,modify,take place,improve,play,originate,theorize,become
+thwart	forbid,prevent,foreclose,forestall,preclude,spoil,foil,baffle,bilk,queer,cross,scotch,frustrate
+use	take in,have,utilise,act,practice,utilize,expend,move,ingest,take,habituate,consume,employ,work,exploit,apply
+devaluate	diminish,undervalue,lessen,devalue*,depreciate,fall,degrade,decrease,cheapen
+coordinate	fit,adjust,correct,care,deal,organize,ordinate,align,handle,manage,meet,conform to,set,set up,organise,arrange
+cite	mention,advert,name,pen,testify,acknowledge,quote,write,refer,restate,think of,evidence,mean,bear witness,have in mind,iterate,bring up,ingeminate,summon,retell,repeat,indite,send for,notice,summons,show,prove,reference,call,compose,abduce,reiterate,adduce
+theme	render,supply,provide,furnish
+retain	keep,carry,keep back,hold on,sustain,contain,hold,think of,hold back,keep going,remember,prolong,keep up,bear,continue,keep on
+ban	criminalise,interdict,kick out,criminalize,proscribe,throw out,prohibit,blackball,expel,censor,shun,banish,ostracize,cast out,illegalise,disallow,forbid,outlaw,illegalize,veto,ostracise
+muster	rally,pull together,collect,muster up,garner,summon,send for,come up,call,gather
+shallow	shoal,change,alter,modify
+stimulate	evoke,touch,stir,arouse,have,induce,elicit,energise,sensitize,challenge,cause,brace,impact,fire,get,make,sensitise,rush,provoke,effectuate,affect,kindle,shake,shake up,touch on,effect,bear on,raise,set up,hasten,perk up,bear upon,energize,excite,enkindle
+manipulate	fudge,act upon,fake,chisel,cook,pull wires,treat,control,rig,interact,palm,handle,wangle,influence,work,misrepresent,care for,pull strings,keep in line,cheat,falsify,price
+mix	amalgamate,coalesce,commingle,blend,meld,conflate,shuffle,compound,desegregate,combine,com unify,add,ruffle,mix in,integrate,change,alter,mingle,im fuse,change integrity,flux,merge,modify,manipulate
+chance	gamble,hap,go on,happen,hazard,pass,encounter,pass off,risk,take a try,assay,find,come about,occur,adventure,attempt,run a risk,fall out,take chances,take place,bump,essay,seek
+ally	assort,consort,affiliate,associate
+renovate	revivify,renew,arouse,quicken,energise,animate,regenerate,brace,vivify,repair,restitute,refurbish,recreate,freshen up,perk up,revive,energize,stimulate,reanimate
+scoop	trump,remove,take away,withdraw,outdo,shell,trounce,take,beat,crush,beat out,vanquish,best,scoop out,outflank,take up,lift out,scoop up
+enhance	meliorate,better,compound,amend,deepen,raise,ameliorate,intensify,heighten,improve
+bottle up	keep,keep back,suppress,restrain,hold back
+scuttle	skitter,run,scurry,scamper
+count	assort,trust,sort,approximate,classify,reckon,include,estimate,weigh,consider,matter,enumerate,bank,number,bet,find,sort out,judge,depend,ascertain,swear,calculate,recite,be,separate,class,find out,numerate,look,guess,determine,gauge,rely
+carry	birth,acquit,convey,keep,expect,pass along,extend,deliver,act upon,follow,maintain,imply,nurture,have,act,pass,execute,even out,boost,circulate,post,hold up,seize,intercommunicate,feature,obtain,correct,disseminate,pass around,sustain,stock,contain,booze,stockpile,shift,hold,pack,transmit,support,include,hit,nourish,make up,propagate,run,conquer,dribble,comport,conduct,go,even up,circularise,gestate,communicate,sway,move,grow,take,appropriate,travel,displace,further,encourage,perform,farm,distribute,deport,transport,do,range,channel,transfer,propel,influence,diffuse,effect,work,spread,circularize,persuade,produce,have got,give birth,broadcast,express,bear,capture,drink,even off,win,raise,promote^,impel,behave,pass on,counterbalance,continue,have a bun in the oven,advance,compensate,bring,put across,involve,disperse,fuddle,locomote
+subscribe	buy,donate,concord,bid,offer,write,hold,support,subscribe to,take,pledge,sign,tender,agree,purchase,concur
+name	mention,key,advert,nominate,found,itemise,charge,constitute,refer,discover,fix,describe,establish,examine,canvass,think of,plant,limit,make,itemize,mean,appoint,enumerate,study,list,have in mind,key out,bring up,canvas,identify,diagnose,set,institute,recite,label,analyse,call,cite,distinguish,specify,determine,analyze,denote
+commit	put,give,entrust,intrust,institutionalise,pull,trust,spend,utilise,act,pass,charge,confide,utilize,expend,perpetrate,move,turn over,devote,institutionalize,drop,transfer,invest,employ,consecrate,pass on,reach,send,place,apply,use,hand,dedicate
+oscillate	waffle,swing,hesitate,sway,vibrate,vacillate,waver,hover
+flock	assemble,forgather,clump,go,move,travel,foregather,constellate,meet,cluster,gather,locomote
+arise	move,rise,rebel,pass off,grow,travel,get up,resist,rise up,hap,protest,lift,fall out,go on,move up,come up,happen,turn out,develop,come about,dissent,occur,take place,bob up,pass,stand up,change posture,go up,go,uprise,originate,locomote,become,spring up
+tube	convey,wrap,render,enclose,supply,envelop,provide,ride,enfold,take,furnish,enwrap,bring
+halt	kibosh,stem,forbid,prevent,foreclose,arrest,forestall,hold,preclude,check,staunch,block,stanch,stop
+crab	holler,scuttle,skitter,beef,kvetch,steer,manoeuver,head,guide,scurry,kick,channelize,manoeuvre,quetch,complain,bellyache,squawk,fish,maneuver,scamper,channelise,gripe,sound off,direct,plain,grouse,point
+promise	forebode,pretend,hazard,predict,assure,declare,prognosticate,be,foretell,anticipate,call,guess,venture
+start	deform,go forth,go away,get going,bug out,act,part,lead off,change form,set off,depart,bulge out,take off,commence,get,make,get down,go,set out,move,change shape,pop out,start up,embark on,leave,create,set about,come out,pop,set forth,jump,initiate,be,start out,startle,take up,begin,play,originate,bulge,protrude
+retake	recapture,photograph,get,take,capture,shoot,snap,catch
+appeal	attract,mention,challenge,advert,refer,bespeak,request,name,bring up,call for,quest,cite,take exception,invoke
+flood	render,supply,cover,inundate,provide,make full,fill,furnish,fill up,spread over,oversupply,deluge,glut,swamp
+combat	fight,battle,struggle,contend
+pencil	draw
+fare	come,get along,make out,go,eat,do,proceed
+reopen	open,open up
+progress	go on,get along,work up,build,come along,shape up,get on,go,move,travel,come on,move on,pass on,march on,advance,develop,build up,locomote
+comprise	constitute,contain,include,make up,represent,consist,be,incorporate
+voice	sound,pronounce,enunciate,enounce,verbalise,utter,verbalize,articulate,vocalize,give tongue to,vocalise,express,sound out,say
+safeguard	protect,escort
+skip	go forth,skim,recoil,ricochet,vamoose,go away,throw,skitter,rebound^,overlook,omit,pass over,pretermit,cut,overleap,bound off,hop-jump,leave out,bound,decamp,leave,bounce,drop,take a hop,reverberate,hop,skip over,spring,neglect,leap,jump,miss,resile
+charge	file,load,buck,render,entrust,lodge,compel,intrust,claim,rush along,supply,institutionalise,commit,hie,assign,pelt along,charge up,shoot down,trust,speed,impregnate,lie,command,accuse,aim,provide,bill,bear down,require,pay,hotfoot,confide,consign,belt along,cannonball along,make full,fill,impute,rush,debit,appoint,take,attribute,race,saturate,furnish,fill up,trouble,change,disturb,lie down,level,commove,institutionalize,train,impeach,turn on,agitate,blame*,burden,upset,transfer,instruct,set,account,bucket along,ascribe,take aim,alter,calculate,paint,shoot,direct,send,hasten,tear,modify,determine,criminate,excite,saddle,point,rouse,incriminate
+manifest	appear,certify,put down,testify,record,evidence,attest,bear witness,show,enter,prove,demonstrate
+japan	lacquer
+bill	placard,account,charge,post,advertise,promote^,calculate,push,advertize
+profile	pen,write,interpret,represent,indite,compose
+thrust	put,oblige,pose,shove,jut out,pierce,compel,lunge,throw,push up,obligate,push,project,position,hurtle,move,perforate,squeeze,hurl,set,jut,lay,stuff,stick out,place,penetrate,force,protrude
+consolidate	unite^,strengthen,unify,solidify,merge
+boost	further,encourage,bring up,lift,hike up,back up,thrust,hike,get up,promote^,raise,support,advance,elevate,supercharge,increase
+substitute	stand in,supervene upon,deputize,exchange,step in,replace,interchange,supplant,supercede,deputise,change,fill in,supersede,sub
+notch	put down,record,incise,enter
+march	butt,touch,butt on,exhibit,butt against,border,adjoin,walk,meet,dissent,resist,protest,process,contact,parade,demonstrate,abut,edge
+ride	keep,go along,depend upon,climb up,rally,sit,go on,tantalize,float,lie,hinge upon,twit,bait,bemock,cod,copulate,operate,go up,go,journey,hinge on,move,tease,travel,devolve on,mount,mate,turn on,climb,couple,proceed,lock,pair,mesh,razz,depend on,continue,mock,rag,tantalise,drive,engage,taunt,locomote
+weight	weight down,charge,predetermine,burthen,burden,angle,slant,bias
+leverage	render,supplement,supply,provide,furnish
+head	form,arise,lie,command,head up,remove,lead,steer,manoeuver,guide,take away,withdraw,control,uprise,rise,take,grow,channelize,manoeuvre,proceed,maneuver,spring up,channelise,go forward,be,continue,direct,precede,develop,originate,point
+star	have,execute,feature,asterisk,mark,perform,do
+spout	rant,pour,talk,spirt,gush,verbalise,utter,verbalize,jabber,spurt,mouth off,mouth,speak,rave,rabbit on
+broaden	vary,widen,extend,diversify,branch out,change,alter,increase
+stock	render,fit,carry,supply,have,provide,stockpile,hold,get,buy in,grow,sprout,furnish,outfit,produce,have got,acquire,fit out,develop,equip
+full	beat,change,wax,alter,modify,increase
+describe	key,trace,name,draw,inform,discover,expound,mark,line,key out,identify,account,depict,set forth,report,delineate,exposit,distinguish
+replace	put,come after,pose,supervene upon,follow,renew,exchange,substitute,regenerate,interchange,position,supplant,supercede,succeed,change,supersede,set,lay,put back,place
+father	bring forth,generate,get,engender,make,beget,create,sire,mother
+establish	give,install,open,found,launch,build,ground,instal,constitute,shew,sustain,substantiate,support,lay down,plant,make,base,open up,affirm,pioneer,create,institute,show,corroborate,prove,initiate,set up,confirm,demonstrate
+itch	want,ache,spoil,desire,smart,rub,irritate,scratch,hurt
+outperform	surmount,outgo,outdo,shell,exceed,trounce,beat,crush,beat out,surpass^,outstrip,vanquish,outmatch
+transmit	convey,bare,carry,conduct,communicate,move,publicise,take,displace,channelize,transport,channel,transfer,beam,broadcast,channelise,send,bring,publicize,air
+shed	moult,pour forth,slough,pour,throw,disgorge,remove,take away,cast,withdraw,move,take,displace,drop,exuviate,molt,throw away,spill,shake off,throw off,cast off
+lot	carve up,give,divide,split,mete out,dissever,deal,shell out,parcel out,distribute,deal out,al dole out,separate,split up,dish out,dispense,administer
+galvanize	floor,galvanise,coat,stun,ball over,blow out of the water,take aback,shock,surface,startle
+close	bar,draw near,draw come near,shut,blockade,turn,fold,bring together,shut down,close down,fill,go up,block,complete,move,fill up,come on,join,change state,close up,pursue,approach,block off,conclude,near,end,barricade,finish,terminate,cease,block up,come together,engage,stop,trade,prosecute
+limit	hold in,curb,circumscribe,fix,contain,hold,pick out,restrict,check,select,control,restrain,moderate,take,choose,confine,trammel,minify,lessen,bound,set,throttle,decrease,specify,determine
+underscore	underline,punctuate,accent,emphasize,emphasise,mark,stress,accentuate
+exceed	surmount,pass,outgo,outperform,outdo,shell,trounce,beat,crush,beat out,surpass^,outstrip,top,stand out,transcend,vanquish,excel,outmatch,overstep,go past
+dip	go down,incline,decline*,take down,let down,slope,get down,dim,dunk,stain,wane,lower,eat,sink,plunge,create from raw stuff,souse,immerse,bring down,pitch,create from raw material,duck,scoop out,change intensity,take up,douse,lift out,scoop,scoop up
+hang	adorn,flow,advert,string up,execute,beautify,blockade,grasp,ornament,hold on,fix,cling,decorate,embellish,molder,attend,put to death,block,stymie,stymy,secure,decompose,moulder,listen,drop,fall,grace,hang up,pay heed,obstruct,hinder,embarrass,be,fasten,rot,give ear
+suck	give feed,bottle-feed,give,sop up,wet-nurse,take in,draw,take out,suck in,soak up,suck up,absorb,suckle,lactate,drink,imbibe,nurse,take up,breastfeed
+doubt	disbelieve,discredit,distrust,mistrust,suspect
+restrain	hold in,keep,keep back,intimidate,prevent,curb,disenable,contain,hold,restrict,check,limit,control,hold back,moderate,constrain,confine,trammel,discourage,bound,disable,suppress,incapacitate,cumber,encumber,throttle
+mean	signify,convey,wish,imply,will,think,necessitate,colligate,relate,stand for,link up,tie in,designate,entail,intend,think of,have in mind,impart,associate,connect,link,specify,destine
+shop	patronize,frequent,back up,look for,inform,tell on,patronise,obtain,betray,support,shit,shop at,give away,snitch,buy at,rat,grass,denounce,search,stag,browse,seek,sponsor
+assault	snipe,lash out,assail,pick apart,violate,knock,rape,attack,round,criticize,dishonour,ravish,outrage,criticise*,dishonor,set on
+block	cut off,choke up,stymy,form,stamp,conceal,break up,bar,kibosh,withhold,freeze,foul,keep back,hide,halt,obturate,back up,immobilise,anaesthetise,deflect,close up,draw a blank,lug,clog,anesthetise,forbid,prevent,boss,impede,foreclose,interrupt,blank out,disrupt,put out,put to sleep,blockade,parry,hold up,block off,immobilize,forestall,choke off,put under,congest,obstruct,anaesthetize,sustain,fence,hinder,barricade,embarrass,hold,shape,stuff,preclude,jam,support,clog up,forget,run,occlude,block up,operate,stop,anesthetize,choke,emboss,stymie
+stick	adorn,put,pose,pierce,lodge,put forward,touch,follow,sting,stick around,attach,cleave,throw,bedevil,beautify,thrust,ornament,confound,fix,befuddle,stay in place,bond,cling,stand by,gravel,decorate,confuse,hold fast,position,adopt,embellish,wedge,stick to,get,amaze,vex,fox,nonplus,stay put,secure,beat,adjoin,baffle,espouse,remain,meet,adhere,bewilder,set,dumbfound,cohere,grace,stay,flummox,stick by,persist,discombobulate,deposit,lay,bind,perplex,be,place,contact,mystify,stupefy,fasten,puzzle,force,fuddle
+provoke	evoke,plague,arouse,elicit,devil,challenge,cause,rile,gravel,fire,make,vex,get to,get at,harry,kick up,chafe,nettle,bother,kindle,molest,chivy,do,create,call forth,hassle,harass,beset,nark,raise,chivvy,irritate,rag,chevy,chevvy,stimulate,enkindle,annoy
+forward	ship,send on,transport,send
+grow	arise,maturate,turn,get,uprise,cultivate,rise,change,farm,make mature,spring up,produce,raise,acquire,develop,increase,originate,become
+double	manifold,reduplicate,bend,bid,duplicate,double up,hit,run,operate,go,double over,reproduce,repeat,function,flex,work,multiply,replicate,call
+mark	pit,strike out,pock,keep,strike off,cross off,betoken,punctuate,assess,evaluate,deface,put down,attach,take out,valuate,differentiate,notch,record,commemorate,tag,characterise,value,stigmatize,tick off,establish,take away,appraise,add,lay down,brand,indicate,check,verify,make,mark off,check off,note,qualify,bespeak,celebrate,stigmatise,change,disfigure,characterize,notice,denounce,set,cross out,observe,signal,grade,alter,enter,label,tick,scar,blemish,modify,distinguish,score,point,measure,nock
+confine	hold in,keep,carry,keep back,enclose,detain,curb,circumscribe,disenable,contain,hold,restrict,check,limit,control,restrain,hold back,moderate,trammel,minify,lessen,bound,disable,suppress,incapacitate,bear,throttle,decrease
+listen	pore,rivet,perceive,mind,obey,take heed,heed,hear,centre,comprehend,focus,center,concentrate
+swap	swop,exchange,interchange,go,move,travel,change,switch,trade,locomote
+beat	outwit,outwear,stick,move,strike,mold,form,rip off,flap,trounce,displace,outfox,pound,wear upon,overcome,pose,sound,crush,bunk,work over,beat out,disturb,tucker out,tucker,surpass^,glare,baffle,outstrip,commove,tire,beat up,quiver,shake up,mould,defeat,thump,weary,surmount,agitate,chisel,outsmart,stir up,overreach,bewilder,dumbfound,create,throw,work,vanquish,bedevil,flummox,drum,fag,circumvent,ticktack,discombobulate,thrum,confound,scramble,outgo,befuddle,exhaust,tire out,wear out,raise up,cheat,be,outperform,perplex,get the better of,shape,tick,ticktock,wear down,gravel,confuse,forge,outmatch,outdo,get,fatigue,shell,mystify,exceed,fag out,amaze,jade,make,stupefy,vex,sail,wash up,play,puzzle,go,wear,pulsate,fuddle,fox,nonplus
+brown	cook
+sum	count,summate,total,add,add together,add up,enumerate,summarise,tell,number,sum up,tot up,tally,state,tote up,numerate,tot,say,summarize
+tender	give,bid,offer,tenderize,proffer,change,gift,tenderise,alter,modify,present
+squeeze	pressure,clasp,oblige,shove,contract,compel,squash,hale,fleece,squelch,press,twinge,plume,nip,thrust,gazump,coerce,extort,obligate,grip,mash,push,constrict,pinch,wedge,embrace,surcharge,move,displace,overcharge,crush,soak,pluck,twitch,tighten,tweet,gouge,bosom,compact,rack,compress,stuff,wring,rob,hook,force,hug
+cap	lie,circumscribe,crest,limit,confine
+harm	wound,injure
+perform	carry out,re-create,act,execute,accomplish,move,do,fulfil,carry through,fulfill,action
+output	make,create,produce
+overshadow*	fog,command,obscure,overlook,haze over,surpass^,stand out,becloud,befog,mist,dominate,eclipse,dwarf,cloud,shadow,overtop,excel,obnubilate
+surpass^	travel by,surmount,pass,go by,outgo,outperform,outdo,shell,exceed,go,move,trounce,travel,beat,crush,beat out,surpass^,outstrip,pass by,stand out,transcend,vanquish,excel,outmatch,locomote,go past
+accession	record,put down,enter
+starve	want,buy the farm,die,drop dead,pass,conk,pop off,expire,exit,perish,kick the bucket,desire,hunger,thirst,go,choke,give-up the ghost,crave,pass away,famish,snuff it,lust,croak,suffer,decease,cash in one's chips,hurt,deprive
+devalue*	diminish,undervalue,change,lessen,depreciate,fall,degrade,alter,decrease,devaluate,modify,cheapen
+welcome	take in,have,invite,receive,greet,accept,recognize,take,recognise
+trend	slue,turn,curve,swerve,cut,sheer,veer,slew
+shake	evoke,gesticulate,stir,move reflexively,arouse,gesture,elicit,escape from,move back and forth,escape,break loose,get away,fire,weaken,move involuntarily,sway,provoke,move,vibrate,judder,change,kindle,shake up,agitate,motion,alter,rock,raise,modify,shake off,excite,stimulate,enkindle,throw off,didder
+remain	rest,stay on,stay,persist,be,continue
+lick	lap up,fondle,understand,cream,shell,bat,clobber,thrash,drub,trounce,beat,crush,beat out,work out,lap,puzzle out,work,vanquish,figure out,drink,imbibe,solve,stroke
+taste	take in,have,smack,sample,perceive,savor,know,ingest,experience,take,identify,consume,live,try,comprehend,try out,savour
+bet	gamble,forebode,count,bank,promise,trust,depend,predict,swear,calculate,wager,foretell,reckon,look,anticipate,call,prognosticate,play,rely
+drop	birth,devolve,go down,unload,send packing,deliver,come down,flatten,worsen*,deteriorate*,spend,descend,have,send away,put down,dismiss,pour,dangle,throw,change posture,can,swing,give up,cut down,overlook,remove,pay,omit,decline*,give the axe,set down,force out,degenerate,drip,take away,shed,pretermit,cast,knock off,withdraw,sack,expend,discontinue,cut,fire,overleap,dribble,drop off,hang,verbalise,utter,verbalize,move,take,discharge,drop down,displace,leave out,change,wane,strike down,give tongue to,sink,fall,lay off,give the sack,lose,give birth,throw away,fell,express,bear,alter,neglect,miss,terminate,modify,cease,give notice,quit,stop,shake off,throw off,cast off
+quarter	lodge,divide,billet,fraction,draw,canton,accommodate,draw and kill,section,segment
+range	give,rove,evaluate,comprise,wander,tramp,constitute,order,crop,straddle,cast,make up,run,stray,go,set out,rank,swan,move,represent,rate,travel,ar set up,eat,array,pasture,ramble,vagabond,judge,grade,graze,roll,drift,be,lay out,browse,place,roam,pass judgment,feed,locomote
+find	see,pronounce,pick up,maturate,happen,learn,rule,get word,incur,find oneself,attain,detect,retrieve,encounter,perceive,obtain,discover,receive,feel,regain,hit,get,arrive at,make,gestate,conceive,experience,grow,go through,undergo,conceptualize,change,reason,get hold,get wind,recover^,notice,mature,judge,ascertain,line up,observe,hear,reason out,conclude,gain,get a line,acquire,comprehend,come up,label,conceptualise,reach,find out,sight,witness,determine,bump,chance
+brief	instruct,apprise,apprize
+array	stand,align,set up,lay out,range,arrange,set out
+allot	dole out,shell out,give,accord,parcel out,assign,distribute,grant,lot,mete out,dish out,deal,dispense,deal out,administer,portion
+foresee	foreknow,act,imagine,forestall,move,know,ideate,counter,envisage,envision,anticipate,conceive of,previse
+ridicule	roast,guy,blackguard,poke fun,bemock,jest at,make fun,laugh at,mock,rib
+dominate	act upon,lie,command,overlook,reign,control,influence,master,work,prevail,overtop,pre rule
+unwind	unroll,relax,unstrain,turn,decompress,disentangle,move,displace,affect,change state,loosen up,wind off,slow down,make relaxed,unbend,undo,unlax
+ail	pain,trouble,hurt,afflict,suffer
+bruise	evoke,arouse,elicit,wound,offend,fire,provoke,crush,kindle,contuse,spite,raise,damage,injure,hurt,enkindle
+effect	act,cause,make,move,effectuate,do,set up
+party	celebrate,fete
+stay	last out,kibosh,halt,ride out,rest,detain,stick around,retard,bide,outride,fix,stay in place,abide,appease,fill,check,block,stay put,stick,secure,stay on,remain,meet,delay,fulfil,persist,quell,be,continue,satisfy,stop,fulfill,fasten
+live	dwell,see,last,exist,hold up,subsist,hold out,go,know,experience,go through,undergo,survive,inhabit,endure,live,live on,be
+counter	act,forestall,answer,respond,move,foresee,anticipate,reply
+pop	deform,belt down,sound,appear,start,drink down,bug out,throw,pop up,change form,thrust,kill,bulge out,split,hit,inject,fire,let go of,go,break open,crop up,change shape,discharge,pop out,let go,toss off,pour down,release,come out,bolt down,down,drink,burst,imbibe,collapse*,relinquish,bulge,protrude
+search	look into,see,re explore,look for,examine,look,investigate,seek
+cross	extend,interbreed,get over,cover,run a come a see,forbid,prevent,foreclose,encounter,hybridise,pass over,forestall,write,fold,cut apass,preclude,spoil,sweep,fold up,get a cut through,track,foil,go through,run into,baffle,bilk,span,queer,meet,crossbreed,turn up,traverse,breed,scotch,continue,frustrate,thwart,intersect,hybridize,go aintersect
+heed	mind,listen,obey
+paste	glue,cover,attach,beat
+net	take hold of,sack up,tissue,nett,pay,yield,sack,weave,clear,benefit^,web,grab,bear,gain,profit,catch
+lure	tempt,provoke,entice,stimulate
+let	give,leave behind,have,induce,consent,cause,go for,countenance,rent,get,make,accept,allow,leave alone,lease,leave,permit,stimulate
+pair	twin,unite^,pair off,bring together,copulate,unify,match,join,geminate,mate,conjoin,occur,couple,set up,partner off,arrange
+jettison	toss out,toss away,throw,chuck out,cast out,cast away,throw out,cast aside,toss,dispose,throw away,fling,put away,discard
+leap	shift,move,change,bound,switch,spring,leap,jump,jump off
+gain	pull in,bring in,earn,derive,take in,attain,gain ground,put on,turn,obtain,hit,get,arrive at,make,get ahead,rise,clear,realise,benefit^,mount,change state,climb,realize,pull ahead,wax,win,acquire,advance,reach,make headway,increase,profit
+report	cover,inform,kvetch,describe,kick,quetch,complain,account,announce,sound off,plain,denote
+be	represent,take,symbolise,constitute,cost,personify,be,occupy,stand for,remain,follow,rest,symbolize,make up,typify,embody,equal,use up,comprise,exist,stay,live
+react	act,turn,respond,move,change state,oppose
+class	assort,sort,classify,sort out,categorise,separate,categorize
+team	team up,group,aggroup
+major	study
+shield	conceal,hide,harbour,harbor,protect,screen
+bush	render,supply,provide,furnish
+place	put,target,localize,pose,commit,assign,evaluate,spend,station,aim,come in,post,approximate,order,delegate,sing,locate,position,designate,estimate,expend,run,localise,rank,move,represent,take,rate,base,identify,train,stage,drop,range,depute,invest,set,judge,come out,site,grade,take aim,lay,disdelegate,disrace,direct,situate,send,pass judgment,guess,determine,gauge,point,present
+forget	blank out,overlook,omit,pretermit,overleap,block,leave out,leave,drop,draw a blank,lose,neglect,miss,bury
+remind	cue,prompt,inform
+room	dwell,board,inhabit,live
+look	see,convey,expect,count,fit,gibe,appear,trust,lie,wait,correspond,reckon,examine,care,check,attend,await,jibe,match,give care,bank,agree,seem,front,bet,face,impart,depend,tally,search,swear,calculate,take care,be,rely
+dong	dingring,peal,ding
+suffocate	buy the farm,smother,strangle,dampen,die,drop dead,gag,pass,conk,impede,pop off,expire,asphyxiate,exit,kill,turn,perish,kick the bucket,feel,jam,stifle,go,choke,block,give-up the ghost,pass away,obturate,close up,snuff it,croak,suffer,decease,obstruct,cash in one's chips,occlude,hurt,become
+saw	cut
+help	ply,meliorate,aid,better,serve,avail,supply,back up,provide,boost,support,refrain,forbear,amend,further,encourage,work,assist^,exploit,promote^,advance,ameliorate,cater,facilitate,improve,help oneself
+revive	resurrect,revivify,rejuvenate,bring round,thrive,arouse,quicken,energise,restore^,turn,animate,regenerate,come to,brace,resuscitate,vivify,get ahead,bring around,bring back,change state,boom,repair,expand,prosper^,bring to,recreate,perk up,flourish,energize,stimulate,reanimate,renovate
+destroy	overcome,destruct,kill,unmake,defeat,demolish,undo,get the better of,ruin*
+picture	see,render,visualise,visualize,figure,imagine,fancy,image,project,interpret,represent,ideate,depict,envisage,show,envision,conceive of
+desert	fly,abandon,flee,forsake,desolate,defect,leave,take flight
+relinquish	give,abandon,renounce,pass,give up,yield,foreswear,free,surrender,let go of,turn over,let go,waive,dispense with,resign,release,pass on,reach,relinquish,forgo,quit,hand
+witness	see,watch,experience,go through,undergo,find
+yen	languish,pine,ache,hanker,yearn,long
+stop	break off,bar,break up,kibosh,take hold of,halt,forbid,defend,prevent,impede,foreclose,give up,disrupt,arrest,blockade,forestall,hold on,contain,stop over,preclude,jam,discontinue,check,hold back,block,intercept,cut off,break,turn back,obturate,close up,grab,lay off,interrupt,block off,obstruct,end,barricade,finish,terminate,occlude,block up,cease,quit,catch
+overdo	make,exaggerate,do
+play	gamble,sound,tucker out,tucker,re-create,toy,utilise,act,make for,encounter,assume,role playact,exhaust,look at,deploy,utilize,act as,hit,deal,run,make,diddle,spiel,go,move,represent,discharge,take,consider,displace,travel,beat,feign,perform,fiddle,compete,flirt,meet,bet,do,take on,create,employ,work,simulate,vie,exploit,trifle,sham,wager,behave,recreate,contend,wreak,apply,use,bring,wash up,manipulate,locomote,dally
+venture	put on the line,pretend,hazard,risk,go,move,proceed,lay on the line,embark,speculate,guess,ad stake,jeopardize
+snow	hoodwink,lead astray,come down,play false,betray,precipitate,bamboozle,fall,deceive,lead by the nose,pull the wool over someone's eyes
+undermine*	core out,subvert,disobey,hollow,hollow out,weaken,cave,sabotage,counteract,countermine

@@ -1,0 +1,29 @@
+Size 100 test data statistics: 
+Zero Actual Cases: 13.0
+Positive Actual Cases: 39.0
+Negative Actual Cases: 48.0
+
+Standard Average Method
+Positive Classified Cases: 62.0
+Negative Classified Cases: 38.0
+Average difference: 0.668370272256
+Percentage on same side of the test data: 0.82
+Percent of positive articles classified on the same side: 0.923076923077
+Percent of negative articles classified on the same side: 0.708333333333
+
+Modified Average Method
+Positive Classified Cases: 62.0
+Negative Classified Cases: 38.0
+Average difference: 0.707843653407
+Percentage on same side of the test data: 0.82
+Percent of positive articles classified on the same side: 0.923076923077
+Percent of negative articles classified on the same side: 0.708333333333
+
+Median Evaluation Method
+Positive Classified Cases: 91.0
+Negative Classified Cases: 9.0
+Average difference: 0.907598985411
+Percentage on same side of the test data: 0.61
+Percent of positive articles classified on the same side: 1.0
+Percent of negative articles classified on the same side: 0.1875
+
